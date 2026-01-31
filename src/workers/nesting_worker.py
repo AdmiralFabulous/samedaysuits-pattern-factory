@@ -45,6 +45,17 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "core"))
 
 from scalability.queue_manager import OrderQueue, JobStatus, JobPriority
 
+# Cutter queue integration
+try:
+    from core.resilient_cutter_queue import (
+        ResilientCutterQueue,
+        JobPriority as CutterPriority,
+    )
+
+    CUTTER_QUEUE_AVAILABLE = True
+except ImportError:
+    CUTTER_QUEUE_AVAILABLE = False
+
 # Setup logging
 logging.basicConfig(
     level=logging.INFO,
@@ -90,6 +101,10 @@ class NestingWorker:
         self._Order = None
         self._load_production_modules()
 
+        # Initialize cutter queue (optional - only if available)
+        self._cutter_queue = None
+        self._init_cutter_queue()
+
     def _load_production_modules(self):
         """Load production pipeline modules."""
         try:
@@ -110,6 +125,83 @@ class NestingWorker:
         except Exception as e:
             logger.error(f"Failed to load production modules: {e}")
             raise
+
+    def _init_cutter_queue(self):
+        """Initialize connection to resilient cutter queue."""
+        if not CUTTER_QUEUE_AVAILABLE:
+            logger.info(
+                "Cutter queue not available - PLT files will not be auto-queued"
+            )
+            return
+
+        try:
+            cutter_data_dir = Path(os.getenv("CUTTER_DATA_DIR", "./cutter_data"))
+            self._cutter_queue = ResilientCutterQueue(cutter_data_dir)
+            logger.info(f"Cutter queue initialized at {cutter_data_dir}")
+        except Exception as e:
+            logger.warning(f"Failed to initialize cutter queue: {e}")
+            self._cutter_queue = None
+
+    def _submit_to_cutter_queue(
+        self,
+        order_id: str,
+        result,
+        order_data: Dict[str, Any],
+    ):
+        """
+        Submit completed nesting result to cutter queue.
+
+        Args:
+            order_id: Order ID
+            result: ProcessingResult from API
+            order_data: Original order data dict
+        """
+        if self._cutter_queue is None:
+            logger.debug(
+                f"Cutter queue not available, skipping submission for {order_id}"
+            )
+            return
+
+        if not result.plt_file or not Path(result.plt_file).exists():
+            logger.warning(
+                f"No PLT file for order {order_id}, cannot queue for cutting"
+            )
+            return
+
+        try:
+            # Determine priority based on order data
+            priority_str = order_data.get("priority", "normal").lower()
+            priority_map = {
+                "rush": CutterPriority.RUSH,
+                "high": CutterPriority.HIGH,
+                "normal": CutterPriority.NORMAL,
+                "low": CutterPriority.LOW,
+            }
+            priority = priority_map.get(priority_str, CutterPriority.NORMAL)
+
+            # Build piece info list (if available from result)
+            pieces = []
+            if hasattr(result, "pieces") and result.pieces:
+                pieces = result.pieces
+
+            # Submit to cutter queue
+            job = self._cutter_queue.add_job(
+                order_id=order_id,
+                plt_file=Path(result.plt_file),
+                priority=priority,
+                measurements=order_data.get("measurements"),
+                pieces=pieces,
+                fabric_length_cm=result.fabric_length_cm or 0.0,
+            )
+
+            logger.info(
+                f"Submitted job {job.job_id} to cutter queue "
+                f"(priority: {priority.name}, {result.piece_count} pieces)"
+            )
+
+        except Exception as e:
+            logger.error(f"Failed to submit order {order_id} to cutter queue: {e}")
+            # Don't fail the order - cutting queue is optional enhancement
 
     def _setup_signal_handlers(self):
         """Setup graceful shutdown handlers."""
@@ -229,6 +321,9 @@ class NestingWorker:
                     f"{result.piece_count} pieces, "
                     f"{processing_time:.1f}s"
                 )
+
+                # Submit to cutter queue for cutting
+                self._submit_to_cutter_queue(order_id, result, order_data)
             else:
                 # Processing failed
                 error_msg = (
