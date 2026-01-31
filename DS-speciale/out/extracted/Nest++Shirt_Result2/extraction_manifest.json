@@ -1,0 +1,32 @@
+{
+  "filename": "Nest++Shirt_Result2.MRK",
+  "filesize": 221593,
+  "sha256": "057d79025660b6f29b1c6f03887a958d40f0e35ea8d50b297ddcb03c0367b133",
+  "file_type": "mrk",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "MARKER",
+      "start_offset": 48,
+      "end_offset": 115201,
+      "size": 115153,
+      "sha256": "cfaad16172f60fb47c9380a2817f46419ba04b0491c1ddb60a35dddbc49d549c",
+      "output_file": "xml_00_MARKER.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 115217,
+      "end_offset": 119461,
+      "size": 4244,
+      "sha256": "e80e3707afbbf41a08ff0c91832c77adceb936e061116dd65828b676cca7831f",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted MARKER XML (115,153 bytes) to xml_00_MARKER.xml",
+    "Extracted JPEG (4,244 bytes) to image_00.jpg"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "order_id": "SCAN-FAT-MAN-001-20260131015852",
+  "garment_type": "jacket",
+  "passed": false,
+  "error_count": 3,
+  "warning_count": 4,
+  "info_count": 2,
+  "checks": [
+    {
+      "category": "piece_count",
+      "level": "info",
+      "message": "Piece count valid: 15 pieces",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "piece_count": 15
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Chest mismatch: pattern=60.0cm, customer=120.0cm (diff=60.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "chest",
+        "customer_value": 120.0,
+        "pattern_value": 60.0,
+        "difference": 60.0,
+        "tolerance": 18.0
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Waist mismatch: pattern=55.0cm, customer=110.0cm (diff=55.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "waist",
+        "customer_value": 110.0,
+        "pattern_value": 55.0,
+        "difference": 55.0,
+        "tolerance": 16.5
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Hip mismatch: pattern=57.5cm, customer=115.0cm (diff=57.5cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "hip",
+        "customer_value": 115.0,
+        "pattern_value": 57.5,
+        "difference": 57.5,
+        "tolerance": 17.25
+      }
+    },
+    {
+      "category": "fabric",
+      "level": "info",
+      "message": "Good fabric utilization: 78.7%",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "utilization": 78.69561974590954
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 8: Very small (67.9 x 3.3 cm)",
+      "piece_id": 8,
+      "piece_name": null,
+      "details": {
+        "width": 67.89832982594547,
+        "height": 3.2785013460285057
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 9: Very small (67.9 x 3.3 cm)",
+      "piece_id": 9,
+      "piece_name": null,
+      "details": {
+        "width": 67.89832982594547,
+        "height": 3.2785013460285057
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 13: Very small (0.7 x 29.6 cm)",
+      "piece_id": 13,
+      "piece_name": null,
+      "details": {
+        "width": 0.6991178935950018,
+        "height": 29.5627149944742
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 14: Very small (0.7 x 29.6 cm)",
+      "piece_id": 14,
+      "piece_name": null,
+      "details": {
+        "width": 0.6991178935949733,
+        "height": 29.5627149944742
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "filename": "Light  Jacket_2D.PDS",
+  "filesize": 166659,
+  "sha256": "435635b73ced19674cc7e5e7956b4ed77570844c931407d33cf4ebbf0aebbd22",
+  "file_type": "pds",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "STYLE",
+      "start_offset": 44,
+      "end_offset": 22895,
+      "size": 22851,
+      "sha256": "14d7f35f95c0f27179de5d654249e5575bc16cc594e23990b3cdfd154c0ca891",
+      "output_file": "xml_00_STYLE.xml"
+    }
+  ],
+  "jpeg_images": [],
+  "notes": [
+    "Extracted STYLE XML (22,851 bytes) to xml_00_STYLE.xml"
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "filename": "Light  Jacket_2D.PDS",
+  "filesize": 166659,
+  "sha256": "435635b73ced19674cc7e5e7956b4ed77570844c931407d33cf4ebbf0aebbd22",
+  "file_type": "pds",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      8,
+      196,
+      648640330,
+      26,
+      191,
+      92,
+      672138241,
+      704784642,
+      202125148,
+      22853,
+      1836597052,
+      1702240364,
+      1869181810,
+      824327534,
+      539111470
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      1.1210387714598537e-44,
+      2.7465449900766415e-43,
+      1.175906406278228e-15,
+      3.6433760072445244e-44,
+      2.6764800668604006e-43,
+      1.2891945871788317e-43,
+      7.994473986072063e-15,
+      1.156054689911007e-13,
+      1.079945938207789e-31,
+      3.2023873805215045e-41,
+      2.360902140452481e-09,
+      1.373787506688721e-19
+    ],
+    "likely_version": "8.196",
+    "likely_section_count": 26
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 44,
+      "end_offset": 22885,
+      "size": 22841,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<STYLE>\r\n\t<OPTITEX>21.0.273.0</OPTITEX>\r\n\t<UNITS LINEAR=\"cm",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 44,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 85,
+      "length": 7,
+      "string": "<STYLE>"
+    },
+    {
+      "offset": 95,
+      "length": 29,
+      "string": "<OPTITEX>21.0.273.0</OPTITEX>"
+    },
+    {
+      "offset": 127,
+      "length": 35,
+      "string": "<UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 165,
+      "length": 64,
+      "string": "<FILENAME>D:\\temp\\2D Sample Pack\\Light  Jacket_2D.PDS</FILENAME>"
+    },
+    {
+      "offset": 232,
+      "length": 13,
+      "string": "<NAME></NAME>"
+    },
+    {
+      "offset": 248,
+      "length": 21,
+      "string": "<DATE>04.02.21</DATE>"
+    },
+    {
+      "offset": 272,
+      "length": 16,
+      "string": "<SIZES>3</SIZES>"
+    },
+    {
+      "offset": 291,
+      "length": 19,
+      "string": "<PIECES>11</PIECES>"
+    },
+    {
+      "offset": 313,
+      "length": 13,
+      "string": "<SIZES_TABLE>"
+    },
+    {
+      "offset": 330,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 341,
+      "length": 18,
+      "string": "<NAME>Small</NAME>"
+    },
+    {
+      "offset": 364,
+      "length": 27,
+      "string": "<SUM_AREA>1.3010</SUM_AREA>"
+    },
+    {
+      "offset": 396,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2374.1879</SUM_PERIMETER>"
+    },
+    {
+      "offset": 441,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.0781</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 481,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2212.0792</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 533,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 544,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 555,
+      "length": 19,
+      "string": "<NAME>Medium</NAME>"
+    },
+    {
+      "offset": 579,
+      "length": 27,
+      "string": "<SUM_AREA>1.3625</SUM_AREA>"
+    },
+    {
+      "offset": 611,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2424.7009</SUM_PERIMETER>"
+    },
+    {
+      "offset": 656,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.1349</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 696,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2263.6758</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 748,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 759,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 770,
+      "length": 18,
+      "string": "<NAME>Large</NAME>"
+    },
+    {
+      "offset": 793,
+      "length": 27,
+      "string": "<SUM_AREA>1.4253</SUM_AREA>"
+    },
+    {
+      "offset": 825,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2475.3052</SUM_PERIMETER>"
+    },
+    {
+      "offset": 870,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.1930</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 910,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2315.3028</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 962,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 973,
+      "length": 28,
+      "string": "<BASE_SIZE>Small</BASE_SIZE>"
+    },
+    {
+      "offset": 1004,
+      "length": 14,
+      "string": "</SIZES_TABLE>"
+    },
+    {
+      "offset": 1021,
+      "length": 7,
+      "string": "<PIECE>"
+    },
+    {
+      "offset": 1032,
+      "length": 15,
+      "string": "<NAME>P1</NAME>"
+    },
+    {
+      "offset": 1051,
+      "length": 13,
+      "string": "<CODE></CODE>"
+    },
+    {
+      "offset": 1068,
+      "length": 23,
+      "string": "<UNIQUE>U00001</UNIQUE>"
+    },
+    {
+      "offset": 1095,
+      "length": 13,
+      "string": "<DESCRIPTION>"
+    },
+    {
+      "offset": 1112,
+      "length": 14,
+      "string": "</DESCRIPTION>"
+    },
+    {
+      "offset": 1130,
+      "length": 21,
+      "string": "<MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1155,
+      "length": 29,
+      "string": "<BEST_QUALITY></BEST_QUALITY>"
+    },
+    {
+      "offset": 1188,
+      "length": 22,
+      "string": "<QUANTITY>1</QUANTITY>"
+    },
+    {
+      "offset": 1214,
+      "length": 18,
+      "string": "<HALF>CLOSE</HALF>"
+    },
+    {
+      "offset": 1236,
+      "length": 42,
+      "string": "<POSITION>X=-178.1978 Y=78.8914</POSITION>"
+    },
+    {
+      "offset": 1282,
+      "length": 87,
+      "string": "<NESTING_ENABLES ROTATION=\"None\" TILT=\"0.0 deg.\" Shrink=\"1.00, 1.00\" OPPOSITE=\"None\" />"
+    },
+    {
+      "offset": 1373,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 1384,
+      "length": 18,
+      "string": "<NAME>Small</NAME>"
+    },
+    {
+      "offset": 1407,
+      "length": 125,
+      "string": "<GEOM_INFO SIZE_X=\"21.4068\" SIZE_Y=\"63.5687\" AREA=\"0.2340\" PERIMETER=\"194.3067\" SEW_AREA=\"0.2103\" SE"
+    },
+    {
+      "offset": 1536,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 1547,
+      "length": 6,
+      "string": "<SIZE>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 44-22885 (22841 bytes)",
+    "Extracted XML to embedded_00.xml"
+  ]
+}

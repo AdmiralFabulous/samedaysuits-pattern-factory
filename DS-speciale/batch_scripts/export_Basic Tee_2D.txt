@@ -1,0 +1,8 @@
+REM Optitex PDS Batch Export Script
+REM Generated: 2026-01-29T19:45:16.751962
+REM Source: D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\pds\Basic Tee_2D.PDS
+
+@OPEN "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\pds\Basic Tee_2D.PDS"
+@SAVE "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\pds\Basic Tee_2D.pdml" /FORMAT=PDML
+@EXPORT "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\pds\Basic Tee_2D.dxf" /FORMAT=DXF
+@EXIT

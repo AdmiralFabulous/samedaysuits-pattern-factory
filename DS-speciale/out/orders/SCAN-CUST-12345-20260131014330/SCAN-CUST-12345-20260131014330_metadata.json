@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "SCAN-CUST-12345-20260131014330",
+    "customer_id": "CUST-12345",
+    "garment_type": "jacket",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 102.0,
+      "waist_cm": 88.0,
+      "hip_cm": 100.0,
+      "shoulder_width_cm": 46.36363636363636,
+      "arm_length_cm": 65.0,
+      "inseam_cm": 78.0,
+      "neck_cm": 40.8,
+      "torso_length_cm": null,
+      "source": "theblackbox",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-31T01:43:30.307170"
+  },
+  "production": {
+    "template": "Light  Jacket_2D.PDS",
+    "piece_count": 15,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 54.238653080440976,
+    "utilization_percent": 78.04642590497593,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": true,
+      "base_size": "Large",
+      "scale_x": 1.0,
+      "scale_y": 0.9659090909090908,
+      "size_match_quality": 1.0
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-CUST-12345-20260131014330\\SCAN-CUST-12345-20260131014330.plt"
+  },
+  "processed_at": "2026-01-31T01:44:15.383188"
+}

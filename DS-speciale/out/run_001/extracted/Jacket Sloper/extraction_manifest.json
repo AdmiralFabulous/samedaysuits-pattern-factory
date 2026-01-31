@@ -1,0 +1,32 @@
+{
+  "filename": "Jacket Sloper.MRK",
+  "filesize": 238787,
+  "sha256": "abf33a5d5f370aeb36fed20a7a939286bf64d1732403f2b2e27f1db29fade012",
+  "file_type": "mrk",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "MARKER",
+      "start_offset": 51,
+      "end_offset": 89421,
+      "size": 89370,
+      "sha256": "a880c33e5fcd2bf7ea3de813f057b3114a9e4b14e1c3ae1104d8b12576dcb277",
+      "output_file": "xml_00_MARKER.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 89437,
+      "end_offset": 95105,
+      "size": 5668,
+      "sha256": "142e2a073080d684596eb0293e27c5733f28064294cc68ae6a1e1177915d8a75",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted MARKER XML (89,370 bytes) to xml_00_MARKER.xml",
+    "Extracted JPEG (5,668 bytes) to image_00.jpg"
+  ]
+}

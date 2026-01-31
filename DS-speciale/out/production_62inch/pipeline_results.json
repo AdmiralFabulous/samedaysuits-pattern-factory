@@ -1,0 +1,30 @@
+[
+  {
+    "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Basic Tee_2D.PDS",
+    "contours": 7,
+    "output_plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Basic Tee_2D.plt",
+    "output_json": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Basic Tee_2D_metadata.json",
+    "nesting_applied": false
+  },
+  {
+    "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Light  Jacket_2D.PDS",
+    "contours": 15,
+    "output_plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Light  Jacket_2D.plt",
+    "output_json": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Light  Jacket_2D_metadata.json",
+    "nesting_applied": true
+  },
+  {
+    "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Skinny Cargo_2D.PDS",
+    "contours": 9,
+    "output_plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Skinny Cargo_2D.plt",
+    "output_json": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Skinny Cargo_2D_metadata.json",
+    "nesting_applied": true
+  },
+  {
+    "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Skinny Trousers_2D.PDS",
+    "contours": 6,
+    "output_plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Skinny Trousers_2D.plt",
+    "output_json": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\production_62inch\\Skinny Trousers_2D_metadata.json",
+    "nesting_applied": true
+  }
+]

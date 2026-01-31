@@ -1,0 +1,459 @@
+{
+  "type": "marker",
+  "filename": "V:\\3D Samples\\Sample pack O15\\Marker\\Basic Pants.MRK",
+  "name": "Basic Pants",
+  "optitex_version": "15.0.134.0",
+  "date": "12.05.15",
+  "nesting": {
+    "name": "Standard Quick Nesting",
+    "version": "0.00"
+  },
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "fabric": {
+    "length": 602.4738,
+    "width": 148.0,
+    "layout_mode": "Single",
+    "folding": "none",
+    "num_plies": 1
+  },
+  "efficiency": 66.3042,
+  "summary": {
+    "total_area": 5.9121,
+    "total_perimeter": 6127.0123,
+    "placed_count": 24,
+    "notch_count": 84,
+    "notch_cut_length": 100.8001
+  },
+  "styles": [
+    {
+      "name": "Basic pants-For Eva",
+      "filename": "K:\\Install\\Ver10 Samples\\PDS\\Slopers-Blocks for Eva+3D\\Basic pants-For Eva.PDS",
+      "material": "",
+      "sizes": {
+        "34": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "34",
+            "position": {
+              "x_center": 260.8983,
+              "y_center": 131.8774,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 104.4795,
+              "size_y": 32.226,
+              "area": 0.2397,
+              "perimeter": 251.6956
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "34",
+            "position": {
+              "x_center": 342.2317,
+              "y_center": 16.1226,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 104.4795,
+              "size_y": 32.226,
+              "area": 0.2397,
+              "perimeter": 251.6956
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "34",
+            "position": {
+              "x_center": 158.1104,
+              "y_center": 13.4807,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 102.4051,
+              "size_y": 26.942,
+              "area": 0.207,
+              "perimeter": 245.3057
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "34",
+            "position": {
+              "x_center": 551.2712,
+              "y_center": 13.471,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 102.4051,
+              "size_y": 26.942,
+              "area": 0.207,
+              "perimeter": 245.3057
+            }
+          }
+        ],
+        "36": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "36",
+            "position": {
+              "x_center": 52.5148,
+              "y_center": 131.217,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 104.9895,
+              "size_y": 33.526,
+              "area": 0.2489,
+              "perimeter": 254.3783
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "36",
+            "position": {
+              "x_center": 159.0103,
+              "y_center": 67.4405,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 104.9895,
+              "size_y": 33.526,
+              "area": 0.2489,
+              "perimeter": 254.3783
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "36",
+            "position": {
+              "x_center": 133.8952,
+              "y_center": 40.0073,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 102.9051,
+              "size_y": 28.2338,
+              "area": 0.2159,
+              "perimeter": 248.0211
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "36",
+            "position": {
+              "x_center": 366.0122,
+              "y_center": 102.3019,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 102.9051,
+              "size_y": 28.2338,
+              "area": 0.2159,
+              "perimeter": 248.0211
+            }
+          }
+        ],
+        "38": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "38",
+            "position": {
+              "x_center": 470.654,
+              "y_center": 95.7547,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 105.4996,
+              "size_y": 34.826,
+              "area": 0.2582,
+              "perimeter": 257.0771
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "38",
+            "position": {
+              "x_center": 469.7077,
+              "y_center": 130.5775,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 105.4996,
+              "size_y": 34.826,
+              "area": 0.2582,
+              "perimeter": 257.0771
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "38",
+            "position": {
+              "x_center": 158.0754,
+              "y_center": 98.5322,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 103.4051,
+              "size_y": 29.5338,
+              "area": 0.2249,
+              "perimeter": 250.748
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "38",
+            "position": {
+              "x_center": 366.551,
+              "y_center": 73.9212,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 103.4051,
+              "size_y": 29.5338,
+              "area": 0.2249,
+              "perimeter": 250.748
+            }
+          }
+        ],
+        "40": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "40",
+            "position": {
+              "x_center": 447.4491,
+              "y_center": 18.0725,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 106.0097,
+              "size_y": 36.126,
+              "area": 0.2676,
+              "perimeter": 259.7908
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "40",
+            "position": {
+              "x_center": 449.1514,
+              "y_center": 54.185,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 106.0097,
+              "size_y": 36.126,
+              "area": 0.2676,
+              "perimeter": 259.7908
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "40",
+            "position": {
+              "x_center": 263.0725,
+              "y_center": 68.2343,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 103.9051,
+              "size_y": 30.8338,
+              "area": 0.234,
+              "perimeter": 253.4855
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "40",
+            "position": {
+              "x_center": 547.1172,
+              "y_center": 71.7552,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 103.9051,
+              "size_y": 30.8338,
+              "area": 0.234,
+              "perimeter": 253.4855
+            }
+          }
+        ],
+        "42": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "42",
+            "position": {
+              "x_center": 53.2799,
+              "y_center": 96.4673,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 106.5197,
+              "size_y": 37.426,
+              "area": 0.2771,
+              "perimeter": 262.5186
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "42",
+            "position": {
+              "x_center": 238.3865,
+              "y_center": 40.5482,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 106.5197,
+              "size_y": 37.426,
+              "area": 0.2771,
+              "perimeter": 262.5186
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "42",
+            "position": {
+              "x_center": 156.786,
+              "y_center": 128.9507,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 104.4051,
+              "size_y": 32.1338,
+              "area": 0.2432,
+              "perimeter": 256.2337
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "42",
+            "position": {
+              "x_center": 365.0654,
+              "y_center": 131.9235,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 104.4051,
+              "size_y": 32.1338,
+              "area": 0.2432,
+              "perimeter": 256.2337
+            }
+          }
+        ],
+        "44": [
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "44",
+            "position": {
+              "x_center": 53.5247,
+              "y_center": 19.3724,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 107.0298,
+              "size_y": 38.726,
+              "area": 0.2867,
+              "perimeter": 265.2595
+            }
+          },
+          {
+            "piece_name": "Back Basic Pants",
+            "piece_code": "00001",
+            "size_name": "44",
+            "position": {
+              "x_center": 53.5349,
+              "y_center": 59.1933,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 107.0298,
+              "size_y": 38.726,
+              "area": 0.2867,
+              "perimeter": 265.2595
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "44",
+            "position": {
+              "x_center": 262.137,
+              "y_center": 99.7283,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 104.9051,
+              "size_y": 33.4338,
+              "area": 0.2525,
+              "perimeter": 258.9922
+            }
+          },
+          {
+            "piece_name": "Front Basic Pants",
+            "piece_code": "00001",
+            "size_name": "44",
+            "position": {
+              "x_center": 344.0767,
+              "y_center": 48.2155,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 104.9051,
+              "size_y": 33.4338,
+              "area": 0.2525,
+              "perimeter": 258.9922
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

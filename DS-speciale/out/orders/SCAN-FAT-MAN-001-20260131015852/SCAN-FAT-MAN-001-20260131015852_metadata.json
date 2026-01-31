@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "SCAN-FAT-MAN-001-20260131015852",
+    "customer_id": "FAT-MAN-001",
+    "garment_type": "jacket",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 120.0,
+      "waist_cm": 110.0,
+      "hip_cm": 115.0,
+      "shoulder_width_cm": 52.0,
+      "arm_length_cm": 64.0,
+      "inseam_cm": 76.0,
+      "neck_cm": 46.0,
+      "torso_length_cm": null,
+      "source": "theblackbox",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-31T01:58:52.731111"
+  },
+  "production": {
+    "template": "Light  Jacket_2D.PDS",
+    "piece_count": 15,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 54.07779444359432,
+    "utilization_percent": 78.69561974590954,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": true,
+      "base_size": "3XL",
+      "scale_x": 1.0084033613445378,
+      "scale_y": 0.9629629629629629,
+      "size_match_quality": 0.9
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-FAT-MAN-001-20260131015852\\SCAN-FAT-MAN-001-20260131015852.plt"
+  },
+  "processed_at": "2026-01-31T01:59:37.986913"
+}

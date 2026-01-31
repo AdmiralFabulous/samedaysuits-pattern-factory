@@ -1,0 +1,15 @@
+{
+  "order_id": "SCAN-NORMAL-MAN-001-20260131014945",
+  "plt_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-NORMAL-MAN-001-20260131014945\\SCAN-NORMAL-MAN-001-20260131014945.plt",
+  "metadata_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-NORMAL-MAN-001-20260131014945\\SCAN-NORMAL-MAN-001-20260131014945_metadata.json",
+  "fabric_length_cm": 53.82501658569243,
+  "fabric_utilization": 78.02936704825494,
+  "piece_count": 15,
+  "warnings": [
+    "Selected base size: Large (match: 100%)",
+    "QC: Piece 8: Very small (67.3 x 3.3 cm)",
+    "QC: Piece 9: Very small (67.3 x 3.3 cm)",
+    "QC: Piece 13: Very small (0.7 x 29.4 cm)",
+    "QC: Piece 14: Very small (0.7 x 29.4 cm)"
+  ]
+}

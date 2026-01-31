@@ -1,0 +1,94 @@
+{
+  "order_id": "SDS-20260131-0001-A",
+  "garment_type": "tee",
+  "passed": false,
+  "error_count": 3,
+  "warning_count": 2,
+  "info_count": 2,
+  "checks": [
+    {
+      "category": "piece_count",
+      "level": "info",
+      "message": "Piece count valid: 7 pieces",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "piece_count": 7
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Chest mismatch: pattern=48.0cm, customer=96.0cm (diff=48.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "chest",
+        "customer_value": 96.0,
+        "pattern_value": 48.0,
+        "difference": 48.0,
+        "tolerance": 14.399999999999999
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Waist mismatch: pattern=41.0cm, customer=82.0cm (diff=41.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "waist",
+        "customer_value": 82.0,
+        "pattern_value": 41.0,
+        "difference": 41.0,
+        "tolerance": 12.299999999999999
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Hip mismatch: pattern=48.0cm, customer=96.0cm (diff=48.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "hip",
+        "customer_value": 96.0,
+        "pattern_value": 48.0,
+        "difference": 48.0,
+        "tolerance": 14.399999999999999
+      }
+    },
+    {
+      "category": "fabric",
+      "level": "info",
+      "message": "Good fabric utilization: 78.8%",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "utilization": 78.82850207168303
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 4: Very small (3.1 x 16.0 cm)",
+      "piece_id": 4,
+      "piece_name": null,
+      "details": {
+        "width": 3.1157061378373783,
+        "height": 15.995766296397989
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 5: Very small (3.1 x 16.0 cm)",
+      "piece_id": 5,
+      "piece_name": null,
+      "details": {
+        "width": 3.123883844235934,
+        "height": 15.995766296398003
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "TEST-CUST-002",
+    "customer_id": "CLI-USER",
+    "garment_type": "tee",
+    "fit_type": "classic",
+    "measurements": {
+      "chest_cm": 120.0,
+      "waist_cm": 110.0,
+      "hip_cm": 120.0,
+      "shoulder_width_cm": null,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "manual",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-31T07:45:20.081496"
+  },
+  "production": {
+    "template": "Basic Tee_2D.PDS",
+    "piece_count": 7,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 41.34182922871749,
+    "utilization_percent": 77.25609970010454,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": false,
+      "base_size": "3XL",
+      "scale_x": 1.0084033613445378,
+      "scale_y": 1.0,
+      "size_match_quality": 0.9
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\TEST-CUST-002\\TEST-CUST-002.plt"
+  },
+  "processed_at": "2026-01-31T07:46:05.118284"
+}

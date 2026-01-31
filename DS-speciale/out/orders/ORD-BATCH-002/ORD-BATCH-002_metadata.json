@@ -1,0 +1,35 @@
+{
+  "order": {
+    "order_id": "ORD-BATCH-002",
+    "customer_id": "CUST-B",
+    "garment_type": "trousers",
+    "fit_type": "slim",
+    "measurements": {
+      "chest_cm": 105,
+      "waist_cm": 90,
+      "hip_cm": 102,
+      "shoulder_width_cm": null,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "manual",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-30T23:12:08.093395"
+  },
+  "production": {
+    "template": "Skinny Trousers_2D.PDS",
+    "piece_count": 6,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 262.58847035827193,
+    "utilization_percent": 60.40658158252859,
+    "nesting_applied": true
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\ORD-BATCH-002\\ORD-BATCH-002.plt"
+  },
+  "processed_at": "2026-01-30T23:12:08.099912"
+}

@@ -1,0 +1,32 @@
+{
+  "filename": "Stripe Pants.MRK",
+  "filesize": 155308,
+  "sha256": "40964d23c4bc33cc2647abdeebc1e6b566d37636414c1973541b57fe18854ec2",
+  "file_type": "mrk",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "MARKER",
+      "start_offset": 48,
+      "end_offset": 70758,
+      "size": 70710,
+      "sha256": "0fef7a15bdaef6cfc61c0f7240447e9a7b4c7d620f58700ab7a05619109995ae",
+      "output_file": "xml_00_MARKER.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 70774,
+      "end_offset": 77113,
+      "size": 6339,
+      "sha256": "8256513a56e6a4c4de518f57099e7fefb7ab579a4d5e2d462660441d4a68fb53",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted MARKER XML (70,710 bytes) to xml_00_MARKER.xml",
+    "Extracted JPEG (6,339 bytes) to image_00.jpg"
+  ]
+}

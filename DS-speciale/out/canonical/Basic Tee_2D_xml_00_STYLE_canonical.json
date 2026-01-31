@@ -1,0 +1,422 @@
+{
+  "type": "pattern",
+  "filename": "D:\\temp\\2D Sample Pack\\Basic Tee_2D.PDS",
+  "name": "James Basic Tee- 10077",
+  "optitex_version": "21.0.273.0",
+  "date": "04.02.21",
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "sizes": [
+    "XS",
+    "Small",
+    "Medium",
+    "Large",
+    "XL",
+    "2XL",
+    "3XL",
+    "4XL"
+  ],
+  "base_size": "Small",
+  "pieces": [
+    {
+      "name": "Front",
+      "code": "",
+      "unique_id": "U00001",
+      "description": "",
+      "material": "Self",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -46.2127,
+        "y": 44.0285
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "XS",
+          "area": 0.3487,
+          "perimeter": 262.0868,
+          "sew_area": 0.3196,
+          "sew_perimeter": 251.0689,
+          "size_x": 26.5004,
+          "size_y": 76.5536
+        },
+        {
+          "name": "Small",
+          "area": 0.3692,
+          "perimeter": 268.3898,
+          "sew_area": 0.3392,
+          "sew_perimeter": 257.3806,
+          "size_x": 27.772,
+          "size_y": 77.5041
+        },
+        {
+          "name": "Medium",
+          "area": 0.3899,
+          "perimeter": 274.7288,
+          "sew_area": 0.3591,
+          "sew_perimeter": 263.7226,
+          "size_x": 29.0435,
+          "size_y": 78.4547
+        },
+        {
+          "name": "Large",
+          "area": 0.411,
+          "perimeter": 281.1008,
+          "sew_area": 0.3793,
+          "sew_perimeter": 270.0926,
+          "size_x": 30.315,
+          "size_y": 79.4055
+        },
+        {
+          "name": "XL",
+          "area": 0.4324,
+          "perimeter": 287.5029,
+          "sew_area": 0.3999,
+          "sew_perimeter": 276.4883,
+          "size_x": 31.5865,
+          "size_y": 80.3562
+        },
+        {
+          "name": "2XL",
+          "area": 0.4542,
+          "perimeter": 293.9326,
+          "sew_area": 0.4207,
+          "sew_perimeter": 282.9078,
+          "size_x": 32.8578,
+          "size_y": 81.3071
+        },
+        {
+          "name": "3XL",
+          "area": 0.4762,
+          "perimeter": 300.3877,
+          "sew_area": 0.4419,
+          "sew_perimeter": 289.3493,
+          "size_x": 34.1292,
+          "size_y": 82.2581
+        },
+        {
+          "name": "4XL",
+          "area": 0.4986,
+          "perimeter": 306.8661,
+          "sew_area": 0.4635,
+          "sew_perimeter": 295.811,
+          "size_x": 35.4004,
+          "size_y": 83.2091
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Back",
+      "code": "",
+      "unique_id": "U00002",
+      "description": "",
+      "material": "Self",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -145.5534,
+        "y": 40.7172
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "XS",
+          "area": 0.3667,
+          "perimeter": 256.7051,
+          "sew_area": 0.3381,
+          "sew_perimeter": 245.796,
+          "size_x": 26.5071,
+          "size_y": 77.7612
+        },
+        {
+          "name": "Small",
+          "area": 0.3876,
+          "perimeter": 262.9873,
+          "sew_area": 0.3582,
+          "sew_perimeter": 252.0452,
+          "size_x": 27.7787,
+          "size_y": 78.7167
+        },
+        {
+          "name": "Medium",
+          "area": 0.4089,
+          "perimeter": 269.3072,
+          "sew_area": 0.3786,
+          "sew_perimeter": 258.3282,
+          "size_x": 29.0503,
+          "size_y": 79.6721
+        },
+        {
+          "name": "Large",
+          "area": 0.4306,
+          "perimeter": 275.661,
+          "sew_area": 0.3994,
+          "sew_perimeter": 264.6417,
+          "size_x": 30.3219,
+          "size_y": 80.6272
+        },
+        {
+          "name": "XL",
+          "area": 0.4525,
+          "perimeter": 282.0454,
+          "sew_area": 0.4205,
+          "sew_perimeter": 270.9832,
+          "size_x": 31.5933,
+          "size_y": 81.5821
+        },
+        {
+          "name": "2XL",
+          "area": 0.4748,
+          "perimeter": 288.4577,
+          "sew_area": 0.4419,
+          "sew_perimeter": 277.3504,
+          "size_x": 32.8648,
+          "size_y": 82.5369
+        },
+        {
+          "name": "3XL",
+          "area": 0.4974,
+          "perimeter": 294.8955,
+          "sew_area": 0.4637,
+          "sew_perimeter": 283.7413,
+          "size_x": 34.1361,
+          "size_y": 83.4915
+        },
+        {
+          "name": "4XL",
+          "area": 0.5204,
+          "perimeter": 301.3568,
+          "sew_area": 0.4858,
+          "sew_perimeter": 290.1535,
+          "size_x": 35.4074,
+          "size_y": 84.4459
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Right Sleeve",
+      "code": "",
+      "unique_id": "U00007",
+      "description": "",
+      "material": "Self",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -93.1738,
+        "y": 66.3049
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "XS",
+          "area": 0.0754,
+          "perimeter": 112.0317,
+          "sew_area": 0.0619,
+          "sew_perimeter": 101.252,
+          "size_x": 25.2845,
+          "size_y": 40.9779
+        },
+        {
+          "name": "Small",
+          "area": 0.0798,
+          "perimeter": 115.3212,
+          "sew_area": 0.0659,
+          "sew_perimeter": 104.5919,
+          "size_x": 25.92,
+          "size_y": 42.2347
+        },
+        {
+          "name": "Medium",
+          "area": 0.0844,
+          "perimeter": 118.616,
+          "sew_area": 0.07,
+          "sew_perimeter": 107.9336,
+          "size_x": 26.5556,
+          "size_y": 43.4923
+        },
+        {
+          "name": "Large",
+          "area": 0.089,
+          "perimeter": 121.9158,
+          "sew_area": 0.0743,
+          "sew_perimeter": 111.277,
+          "size_x": 27.1914,
+          "size_y": 44.7505
+        },
+        {
+          "name": "XL",
+          "area": 0.0938,
+          "perimeter": 125.2201,
+          "sew_area": 0.0787,
+          "sew_perimeter": 114.622,
+          "size_x": 27.8272,
+          "size_y": 46.0094
+        },
+        {
+          "name": "2XL",
+          "area": 0.0988,
+          "perimeter": 128.5284,
+          "sew_area": 0.0832,
+          "sew_perimeter": 117.9685,
+          "size_x": 28.4631,
+          "size_y": 47.2688
+        },
+        {
+          "name": "3XL",
+          "area": 0.1038,
+          "perimeter": 131.8405,
+          "sew_area": 0.0878,
+          "sew_perimeter": 121.3162,
+          "size_x": 29.0991,
+          "size_y": 48.5288
+        },
+        {
+          "name": "4XL",
+          "area": 0.109,
+          "perimeter": 135.156,
+          "sew_area": 0.0925,
+          "sew_perimeter": 124.6652,
+          "size_x": 29.7352,
+          "size_y": 49.7894
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Neck Binding",
+      "code": "",
+      "unique_id": "U00003",
+      "description": "",
+      "material": "Contrast 1",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -47.4169,
+        "y": 87.6782
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "XS",
+          "area": 0.0176,
+          "perimeter": 100.0864,
+          "sew_area": 0.0084,
+          "sew_perimeter": 92.4663,
+          "size_x": 23.1318,
+          "size_y": 3.8159
+        },
+        {
+          "name": "Small",
+          "area": 0.0183,
+          "perimeter": 103.7627,
+          "sew_area": 0.0088,
+          "sew_perimeter": 96.1427,
+          "size_x": 24.042,
+          "size_y": 3.8165
+        },
+        {
+          "name": "Medium",
+          "area": 0.019,
+          "perimeter": 107.4283,
+          "sew_area": 0.0091,
+          "sew_perimeter": 99.8083,
+          "size_x": 24.953,
+          "size_y": 3.8174
+        },
+        {
+          "name": "Large",
+          "area": 0.0197,
+          "perimeter": 111.1223,
+          "sew_area": 0.0095,
+          "sew_perimeter": 103.5023,
+          "size_x": 25.8788,
+          "size_y": 3.8208
+        },
+        {
+          "name": "XL",
+          "area": 0.0204,
+          "perimeter": 114.8039,
+          "sew_area": 0.0098,
+          "sew_perimeter": 107.1839,
+          "size_x": 26.8008,
+          "size_y": 3.8222
+        },
+        {
+          "name": "2XL",
+          "area": 0.0211,
+          "perimeter": 118.4867,
+          "sew_area": 0.0102,
+          "sew_perimeter": 110.8666,
+          "size_x": 27.7227,
+          "size_y": 3.824
+        },
+        {
+          "name": "3XL",
+          "area": 0.0218,
+          "perimeter": 122.1705,
+          "sew_area": 0.0105,
+          "sew_perimeter": 114.5504,
+          "size_x": 28.6444,
+          "size_y": 3.8252
+        },
+        {
+          "name": "4XL",
+          "area": 0.0224,
+          "perimeter": 125.8544,
+          "sew_area": 0.0108,
+          "sew_perimeter": 118.2344,
+          "size_x": 29.5659,
+          "size_y": 3.8245
+        }
+      ],
+      "grading_rules": []
+    }
+  ],
+  "summary": {
+    "piece_count": 4,
+    "size_count": 8,
+    "total_area": 0.0,
+    "total_perimeter": 0.0
+  }
+}

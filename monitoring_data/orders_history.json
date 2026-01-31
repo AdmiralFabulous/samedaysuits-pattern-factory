@@ -1,0 +1,222 @@
+[
+  {
+    "order_id": "ORD-0001",
+    "garment_type": "tee",
+    "timestamp": "2026-01-31T01:04:14.312244",
+    "success": true,
+    "processing_time_seconds": 12.285576561928544,
+    "nesting_utilization": 84.64339145072253,
+    "fabric_length_cm": 86.27362232544522,
+    "piece_count": 9,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0002",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:04:14.312430",
+    "success": true,
+    "processing_time_seconds": 13.30135685035887,
+    "nesting_utilization": 78.89784250661508,
+    "fabric_length_cm": 68.32842175845936,
+    "piece_count": 6,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0003",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:04:14.312496",
+    "success": true,
+    "processing_time_seconds": 17.11357261575212,
+    "nesting_utilization": 83.75247904624214,
+    "fabric_length_cm": 164.80478915910942,
+    "piece_count": 7,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0004",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:04:14.312547",
+    "success": true,
+    "processing_time_seconds": 15.761971657338272,
+    "nesting_utilization": 74.06710109279504,
+    "fabric_length_cm": 82.5204193168565,
+    "piece_count": 15,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0005",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:04:14.312585",
+    "success": true,
+    "processing_time_seconds": 20.5245397131893,
+    "nesting_utilization": 87.93919614463289,
+    "fabric_length_cm": 81.02050632148227,
+    "piece_count": 14,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0006",
+    "garment_type": "trousers",
+    "timestamp": "2026-01-31T01:04:14.312624",
+    "success": true,
+    "processing_time_seconds": 24.783179891907096,
+    "nesting_utilization": 78.63983043911668,
+    "fabric_length_cm": 70.96722371002427,
+    "piece_count": 5,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0007",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:04:14.312662",
+    "success": true,
+    "processing_time_seconds": 14.816910559287884,
+    "nesting_utilization": 80.52368239779499,
+    "fabric_length_cm": 133.1700637477436,
+    "piece_count": 12,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0008",
+    "garment_type": "trousers",
+    "timestamp": "2026-01-31T01:04:14.312700",
+    "success": true,
+    "processing_time_seconds": 17.76086103569361,
+    "nesting_utilization": 89.58398631625748,
+    "fabric_length_cm": 179.5192932856996,
+    "piece_count": 7,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0009",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:04:14.312736",
+    "success": true,
+    "processing_time_seconds": 21.88044045618594,
+    "nesting_utilization": 80.84153434762987,
+    "fabric_length_cm": 72.20282431759307,
+    "piece_count": 8,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0010",
+    "garment_type": "tee",
+    "timestamp": "2026-01-31T01:04:14.312770",
+    "success": false,
+    "processing_time_seconds": 22.501333893957952,
+    "nesting_utilization": 0,
+    "fabric_length_cm": 0,
+    "piece_count": 0,
+    "error_message": "Processing error"
+  },
+  {
+    "order_id": "ORD-0001",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:19:09.363677",
+    "success": false,
+    "processing_time_seconds": 8.359265081541551,
+    "nesting_utilization": 0,
+    "fabric_length_cm": 0,
+    "piece_count": 0,
+    "error_message": "Processing error"
+  },
+  {
+    "order_id": "ORD-0002",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:19:09.363755",
+    "success": true,
+    "processing_time_seconds": 18.251229149870454,
+    "nesting_utilization": 86.59929550077273,
+    "fabric_length_cm": 78.93468714697076,
+    "piece_count": 6,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0003",
+    "garment_type": "tee",
+    "timestamp": "2026-01-31T01:19:09.363803",
+    "success": true,
+    "processing_time_seconds": 10.97144620539355,
+    "nesting_utilization": 74.15202285908912,
+    "fabric_length_cm": 85.22790042416865,
+    "piece_count": 10,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0004",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:19:09.363849",
+    "success": true,
+    "processing_time_seconds": 9.008889287175641,
+    "nesting_utilization": 84.97209401138781,
+    "fabric_length_cm": 111.23617506254821,
+    "piece_count": 9,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0005",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:19:09.363879",
+    "success": true,
+    "processing_time_seconds": 19.184704973328692,
+    "nesting_utilization": 89.61600925879176,
+    "fabric_length_cm": 137.1568620211312,
+    "piece_count": 11,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0006",
+    "garment_type": "cargo",
+    "timestamp": "2026-01-31T01:19:09.363904",
+    "success": true,
+    "processing_time_seconds": 11.114207012251594,
+    "nesting_utilization": 74.94677292065569,
+    "fabric_length_cm": 123.13612995959627,
+    "piece_count": 8,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0007",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:19:09.363927",
+    "success": true,
+    "processing_time_seconds": 23.83425919969753,
+    "nesting_utilization": 85.10668111900063,
+    "fabric_length_cm": 109.72422626206884,
+    "piece_count": 7,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0008",
+    "garment_type": "jacket",
+    "timestamp": "2026-01-31T01:19:09.363950",
+    "success": true,
+    "processing_time_seconds": 11.209133573236693,
+    "nesting_utilization": 81.31017116279686,
+    "fabric_length_cm": 90.72458351498807,
+    "piece_count": 8,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0009",
+    "garment_type": "tee",
+    "timestamp": "2026-01-31T01:19:09.363972",
+    "success": true,
+    "processing_time_seconds": 10.822478952011828,
+    "nesting_utilization": 88.60583332919786,
+    "fabric_length_cm": 98.49072794114406,
+    "piece_count": 8,
+    "error_message": ""
+  },
+  {
+    "order_id": "ORD-0010",
+    "garment_type": "trousers",
+    "timestamp": "2026-01-31T01:19:09.363993",
+    "success": true,
+    "processing_time_seconds": 15.13765980544553,
+    "nesting_utilization": 88.57930874250397,
+    "fabric_length_cm": 53.45813714540596,
+    "piece_count": 15,
+    "error_message": ""
+  }
+]

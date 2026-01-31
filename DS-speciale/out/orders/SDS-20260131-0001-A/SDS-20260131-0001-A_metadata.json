@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "SDS-20260131-0001-A",
+    "customer_id": "CUST-TEST-001",
+    "garment_type": "tee",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 96.0,
+      "waist_cm": 82.0,
+      "hip_cm": 96.0,
+      "shoulder_width_cm": 43.0,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "manual",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-31T09:47:14.616497"
+  },
+  "production": {
+    "template": "Basic Tee_2D.PDS",
+    "piece_count": 7,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 37.48429233419036,
+    "utilization_percent": 78.82850207168303,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": true,
+      "base_size": "Medium",
+      "scale_x": 0.9896907216494846,
+      "scale_y": 0.9347826086956522,
+      "size_match_quality": 0.9
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SDS-20260131-0001-A\\SDS-20260131-0001-A.plt"
+  },
+  "processed_at": "2026-01-31T09:48:08.580176"
+}

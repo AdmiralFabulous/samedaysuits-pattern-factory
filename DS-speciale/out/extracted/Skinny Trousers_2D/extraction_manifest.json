@@ -1,0 +1,32 @@
+{
+  "filename": "Skinny Trousers_2D.PDS",
+  "filesize": 376372,
+  "sha256": "1c5e525f372d1c191f40d053a07623b4cbf2ef5756a4aed16011037c46a3a715",
+  "file_type": "pds",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "STYLE",
+      "start_offset": 2584,
+      "end_offset": 33321,
+      "size": 30737,
+      "sha256": "b5452ff92e9f6a3506ea41414af11dcdc66a48024e85c9e83e237659f27de719",
+      "output_file": "xml_00_STYLE.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 62,
+      "end_offset": 2576,
+      "size": 2514,
+      "sha256": "70d59b9a40d24cc79f38193e0f67fc52101f2f55ae5645e1a72ea02d49e08d39",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted STYLE XML (30,737 bytes) to xml_00_STYLE.xml",
+    "Extracted JPEG (2,514 bytes) to image_00.jpg"
+  ]
+}

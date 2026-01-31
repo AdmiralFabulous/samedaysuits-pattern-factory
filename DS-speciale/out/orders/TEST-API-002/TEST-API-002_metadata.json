@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "TEST-API-002",
+    "customer_id": "CUST-TEST",
+    "garment_type": "jacket",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 108.0,
+      "waist_cm": 92.0,
+      "hip_cm": 104.0,
+      "shoulder_width_cm": null,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "web_api",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-30T23:45:28.888060"
+  },
+  "production": {
+    "template": "Light  Jacket_2D.PDS",
+    "piece_count": 15,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 56.10001730680949,
+    "utilization_percent": 78.12007774690206,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": false,
+      "base_size": "XL",
+      "scale_x": 1.0093457943925233,
+      "scale_y": 1.0,
+      "size_match_quality": 0.9
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\TEST-API-002\\TEST-API-002.plt"
+  },
+  "processed_at": "2026-01-30T23:45:28.893034"
+}

@@ -1,0 +1,641 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Jacket Sloper</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Jacket Sloper.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>601.3232</LENGTH>
+   <WIDTH>148.0000</WIDTH>
+   <EFFICIENCY>79.1333</EFFICIENCY>
+   <SUM_AREA>7.0425</SUM_AREA>
+   <SUM_PERIMETER>12905.8512</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>72</PLACED_ON_TABLE>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>156</QUANTITY>
+         <SUM_LENGTH>139.2002</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME>Jacket Sloper-For Eva</NAME>
+      <FILENAME>K:\Install\Ver10 Samples\PDS\Slopers-Blocks for Eva+3D\Jacket Sloper-For Eva.PDS</FILENAME>
+      <MATERIAL></MATERIAL>
+      <SIZE>
+         <NAME>34</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.0781</SUM_AREA>
+         <SUM_PERIMETER>2111.0324</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.3576" SIZE_Y="24.0640" AREA="0.1186" PERIMETER="245.8974" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.2251" Y="-22.9834" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="239.5658" Y-CENTER="126.1818" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="291.9646" Y-CENTER="23.2909" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.6257" SIZE_Y="27.1460" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.3164" Y-CENTER="93.9256" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="173.7338" Y-CENTER="39.5874" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="11.9150" AREA="0.0362" PERIMETER="115.5739" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="559.3556" Y-CENTER="113.8798" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="576.8995" Y-CENTER="79.4576" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="65.7024" SIZE_Y="18.6000" AREA="0.0881" PERIMETER="159.0503" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="554.1052" Y-CENTER="9.3096" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="567.7831" Y-CENTER="138.6903" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="61.9148" SIZE_Y="22.5340" AREA="0.0997" PERIMETER="148.2092" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="493.5865" Y-CENTER="24.2877" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="551.8568" Y-CENTER="41.7587" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="12.7071" AREA="0.0541" PERIMETER="129.8340" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="213.4996" Y-CENTER="60.9925" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="408.1013" Y-CENTER="141.6367" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1160</SUM_AREA>
+         <SUM_PERIMETER>2126.9329</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.0261" SIZE_Y="24.3152" AREA="0.1257" PERIMETER="248.9240" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.4207" Y="-22.9259" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="361.7230" Y-CENTER="37.0560" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="491.4205" Y-CENTER="66.0636" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.5321" SIZE_Y="26.3462" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="105.9153" Y-CENTER="134.8069" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="155.8512" Y-CENTER="74.9607" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="12.4150" AREA="0.0384" PERIMETER="116.4868" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="267.0772" Y-CENTER="64.7071" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="510.4990" Y-CENTER="141.7841" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="66.2024" SIZE_Y="19.1000" AREA="0.0921" PERIMETER="161.0310" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="33.1040" Y-CENTER="116.8124" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="443.7668" Y-CENTER="83.6944" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.1081" SIZE_Y="23.0340" AREA="0.1029" PERIMETER="149.3377" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="31.0575" Y-CENTER="52.9873" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="555.8824" Y-CENTER="63.5373" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="13.2071" AREA="0.0567" PERIMETER="130.7356" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="238.4558" Y-CENTER="141.3867" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="462.7974" Y-CENTER="141.2505" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1541</SUM_AREA>
+         <SUM_PERIMETER>2142.8996</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.6915" SIZE_Y="24.5825" AREA="0.1330" PERIMETER="251.9599" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.5907" Y="-22.8829" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="425.7846" Y-CENTER="51.9990" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="442.0967" Y-CENTER="105.5420" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4415" SIZE_Y="25.5825" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="227.0496" Y-CENTER="80.1470" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="305.1128" Y-CENTER="78.0783" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="12.9150" AREA="0.0405" PERIMETER="117.4084" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="559.3556" Y-CENTER="89.8193" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="559.3556" Y-CENTER="126.2947" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="66.7024" SIZE_Y="19.6000" AREA="0.0960" PERIMETER="163.0155" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="374.3909" Y-CENTER="100.9329" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="429.0523" Y-CENTER="31.4620" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.3015" SIZE_Y="23.5340" AREA="0.1060" PERIMETER="150.4693" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="31.1543" Y-CENTER="74.8392" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="441.4583" Y-CENTER="124.9178" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="13.7071" AREA="0.0592" PERIMETER="131.6453" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="149.3806" Y-CENTER="55.0650" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="549.4252" Y-CENTER="24.7586" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1925</SUM_AREA>
+         <SUM_PERIMETER>2158.9153</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="69.4699" SIZE_Y="25.5922" AREA="0.1403" PERIMETER="255.0044" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.7375" Y="-22.8530" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="375.5806" Y-CENTER="119.5143" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="428.7747" Y-CENTER="12.8055" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4699" SIZE_Y="25.5922" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.2383" Y-CENTER="135.0569" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="305.8736" Y-CENTER="103.6623" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="13.4150" AREA="0.0427" PERIMETER="118.3366" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="430.1043" Y-CENTER="71.0042" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="508.1785" Y-CENTER="127.2454" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.2024" SIZE_Y="20.1000" AREA="0.1000" PERIMETER="164.9997" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="33.6041" Y-CENTER="32.6365" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="174.4210" Y-CENTER="95.0742" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.4950" SIZE_Y="24.0340" AREA="0.1092" PERIMETER="151.6032" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="360.5927" Y-CENTER="56.0651" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="508.1671" Y-CENTER="89.2795" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="14.2071" AREA="0.0617" PERIMETER="132.5623" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="492.7286" Y-CENTER="7.1133" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="564.1933" Y-CENTER="101.7828" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.2313</SUM_AREA>
+         <SUM_PERIMETER>2174.9798</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.2435" SIZE_Y="26.5979" AREA="0.1478" PERIMETER="258.0569" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.8628" Y="-22.8351" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.1315" Y-CENTER="13.3083" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="170.8789" Y-CENTER="114.9763" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4877" SIZE_Y="25.5981" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="293.5297" Y-CENTER="46.5102" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="358.8327" Y-CENTER="12.8082" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="13.9150" AREA="0.0449" PERIMETER="119.2704" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="233.8522" Y-CENTER="21.3904" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="232.9128" Y-CENTER="35.3519" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.7024" SIZE_Y="20.6000" AREA="0.1041" PERIMETER="166.9854" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="101.8974" Y-CENTER="115.2564" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="306.9920" Y-CENTER="122.8141" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.6884" SIZE_Y="24.5340" AREA="0.1124" PERIMETER="152.7399" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="239.3748" Y-CENTER="102.7197" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="491.2226" Y-CENTER="46.6197" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="14.7071" AREA="0.0643" PERIMETER="133.4858" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="287.5471" Y-CENTER="7.3632" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="351.6107" Y-CENTER="140.6368" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.2705</SUM_AREA>
+         <SUM_PERIMETER>2191.0912</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="71.0135" SIZE_Y="27.5997" AREA="0.1554" PERIMETER="261.1181" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.9870" Y="-22.8188" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="102.7207" Y-CENTER="32.6960" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="173.9277" Y-CENTER="13.8092" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4966" SIZE_Y="25.6009" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="105.6343" Y-CENTER="93.9794" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="375.5018" Y-CENTER="80.1642" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="14.4150" AREA="0.0470" PERIMETER="120.2087" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="233.8310" Y-CENTER="7.2171" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="232.8453" Y-CENTER="49.5315" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.2024" SIZE_Y="21.1000" AREA="0.1082" PERIMETER="168.9726" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="104.3101" Y-CENTER="10.5596" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="175.0833" Y-CENTER="137.4404" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.8845" SIZE_Y="25.0340" AREA="0.1156" PERIMETER="153.8795" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="93.5198" Y-CENTER="56.7334" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="507.1621" Y-CENTER="112.4876" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="15.2071" AREA="0.0668" PERIMETER="134.4153" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="90.2906" Y-CENTER="75.8654" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="295.0269" Y-CENTER="140.3868" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>

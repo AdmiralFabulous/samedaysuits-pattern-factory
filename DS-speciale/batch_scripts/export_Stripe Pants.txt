@@ -1,0 +1,8 @@
+REM Optitex Mark Batch Export Script
+REM Generated: 2026-01-29T19:45:16.756219
+REM Source: D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\mrk\Stripe Pants.MRK
+
+@OPEN "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\mrk\Stripe Pants.MRK"
+@EXPORT "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\mrk\Stripe Pants.dxf" /FORMAT=DXF
+@EXPORT "D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\mrk\Stripe Pants.plt" /FORMAT=HPGL /NAME=HPGL2
+@EXIT

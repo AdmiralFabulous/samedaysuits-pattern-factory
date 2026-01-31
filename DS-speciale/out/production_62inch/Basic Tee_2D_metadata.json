@@ -1,0 +1,44 @@
+{
+  "source_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Basic Tee_2D.PDS",
+  "contour_count": 7,
+  "pieces": {
+    "Front": {
+      "size_x": 27.772,
+      "size_y": 77.5041,
+      "area": 0.3692,
+      "perimeter": 268.3898
+    },
+    "Back": {
+      "size_x": 27.7787,
+      "size_y": 78.7167,
+      "area": 0.3876,
+      "perimeter": 262.9873
+    },
+    "Right Sleeve": {
+      "size_x": 25.92,
+      "size_y": 42.2347,
+      "area": 0.0798,
+      "perimeter": 115.3212
+    },
+    "Neck Binding": {
+      "size_x": 24.042,
+      "size_y": 3.8165,
+      "area": 0.0183,
+      "perimeter": 103.7627
+    }
+  },
+  "original_layout_cm": {
+    "width": 104.14790593220339,
+    "height": 76.94955470104468
+  },
+  "svg_metadata": {
+    "view_factor": 0.07,
+    "viewbox": {
+      "min_x": 0.0,
+      "min_y": 0.0,
+      "width": 15694.0,
+      "height": 8998.0
+    },
+    "scale_cm_per_unit": 0.0007000000000000001
+  }
+}

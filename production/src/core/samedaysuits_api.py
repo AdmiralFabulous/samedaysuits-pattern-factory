@@ -19,6 +19,7 @@ Date: 2026-01-30
 """
 
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
@@ -27,6 +28,9 @@ from datetime import datetime
 from enum import Enum
 import logging
 
+# v6.4.3 Order ID format: SDS-YYYYMMDD-NNNN-R
+ORDER_ID_PATTERN = re.compile(r"^SDS-(\d{8})-(\d{4})-([A-Z])$")
+
 # Setup logging
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
@@ -34,8 +38,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Add paths
-project_root = Path(__file__).parent
+project_root = Path(
+    __file__
+).parent.parent.parent.parent  # Go up to REVERSE-ENGINEER-PDS
 sys.path.insert(0, str(project_root))
+sys.path.insert(0, str(project_root / "production" / "src" / "core"))
 
 # Import our production pipeline
 from production_pipeline import (
@@ -202,6 +209,19 @@ class SameDaySuitsAPI:
         logger.info(f"SameDaySuits API initialized")
         logger.info(f"Templates: {self.templates_dir}")
         logger.info(f"Output: {self.output_dir}")
+
+    def _validate_order_id_format(self, order_id: str) -> bool:
+        """Validate v6.4.3 order ID format: SDS-YYYYMMDD-NNNN-R."""
+        match = ORDER_ID_PATTERN.match(order_id)
+        if not match:
+            return False
+
+        date_str = match.group(1)
+        try:
+            datetime.strptime(date_str, "%Y%m%d")
+            return True
+        except ValueError:
+            return False
         logger.info(f"Fabric width: {self.fabric_width_cm} cm")
 
     def list_available_templates(self) -> Dict[str, bool]:
@@ -253,6 +273,16 @@ class SameDaySuitsAPI:
             if validation_errors:
                 errors.extend(validation_errors)
                 return self._create_failure_result(order, errors, start_time)
+
+            # Update database status to PROCESSING
+            try:
+                from database_integration import OrderDatabase, OrderStatus
+
+                db = OrderDatabase()
+                db.update_order_status(order.order_id, OrderStatus.PROCESSING)
+                logger.info(f"Order {order.order_id} status updated to PROCESSING")
+            except Exception as db_error:
+                logger.warning(f"Failed to update PROCESSING status: {db_error}")
 
             # Step 2: Get template
             try:
@@ -458,6 +488,20 @@ class SameDaySuitsAPI:
 
             logger.info(f"Order {order.order_id} completed in {processing_time:.0f}ms")
 
+            # Create result first so we can use it for database update
+            result = ProductionResult(
+                success=True,
+                order_id=order.order_id,
+                plt_file=plt_file,
+                metadata_file=metadata_file,
+                fabric_length_cm=nesting_result.fabric_length,
+                fabric_utilization=nesting_result.utilization,
+                piece_count=len(contours),
+                processing_time_ms=processing_time,
+                errors=errors,
+                warnings=warnings,
+            )
+
             # Record metrics
             if MONITORING_AVAILABLE:
                 monitor = get_monitor()
@@ -471,52 +515,65 @@ class SameDaySuitsAPI:
                     piece_count=len(contours),
                 )
 
-            # Save to database
+            # Save to database with production details
             try:
                 from database_integration import OrderDatabase, OrderStatus
 
                 db = OrderDatabase()
+                # Pass production data as dict to avoid circular import type issues
                 db.update_order_status(
                     order.order_id,
                     OrderStatus.COMPLETE,
-                    {
-                        "plt_file": str(plt_file) if plt_file else None,
-                        "metadata_file": str(metadata_file) if metadata_file else None,
-                        "fabric_length": nesting_result.fabric_length,
-                        "utilization": nesting_result.utilization,
-                        "processing_time": processing_time / 1000,
+                    production_result={
+                        "plt_file": str(result.plt_file) if result.plt_file else None,
+                        "metadata_file": str(result.metadata_file)
+                        if result.metadata_file
+                        else None,
+                        "fabric_length_cm": result.fabric_length_cm,
+                        "fabric_utilization": result.fabric_utilization,
+                        "piece_count": result.piece_count,
+                        "processing_time_ms": result.processing_time_ms,
+                        "errors": result.errors if result.errors else None,
+                        "warnings": result.warnings if result.warnings else None,
                     },
                 )
-                # Save QC report to database if available
-                if QC_AVAILABLE and qc_report:
-                    db.save_qc_report(order.order_id, qc_report)
+                logger.info(
+                    f"Order {order.order_id} status updated to COMPLETE in database"
+                )
             except Exception as db_error:
-                logger.warning(f"Failed to save to database: {db_error}")
+                logger.warning(f"Failed to update database: {db_error}")
 
-            return ProductionResult(
-                success=True,
-                order_id=order.order_id,
-                plt_file=plt_file,
-                metadata_file=metadata_file,
-                fabric_length_cm=nesting_result.fabric_length,
-                fabric_utilization=nesting_result.utilization,
-                piece_count=len(contours),
-                processing_time_ms=processing_time,
-                errors=errors,
-                warnings=warnings,
-            )
+            return result
 
         except Exception as e:
             logger.exception(f"Error processing order {order.order_id}")
             errors.append(f"Processing error: {e}")
+
+            # Update database status to ERROR
+            try:
+                from database_integration import OrderDatabase, OrderStatus
+
+                db = OrderDatabase()
+                db.update_order_status(order.order_id, OrderStatus.ERROR)
+                logger.info(f"Order {order.order_id} status updated to ERROR")
+            except Exception as db_error:
+                logger.warning(f"Failed to update ERROR status: {db_error}")
+
             return self._create_failure_result(order, errors, start_time)
 
     def _validate_order(self, order: Order) -> List[str]:
-        """Validate order data."""
+        """Validate order data including v6.4.3 order ID format."""
         errors = []
 
         if not order.order_id:
             errors.append("Order ID is required")
+        else:
+            # Validate v6.4.3 order ID format: SDS-YYYYMMDD-NNNN-R
+            if not self._validate_order_id_format(order.order_id):
+                errors.append(
+                    f"Invalid order ID format: {order.order_id}. "
+                    f"Required format: SDS-YYYYMMDD-NNNN-R (e.g., SDS-20260131-0001-A)"
+                )
 
         if not order.customer_id:
             errors.append("Customer ID is required")

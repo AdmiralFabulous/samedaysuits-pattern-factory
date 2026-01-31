@@ -1,0 +1,1966 @@
+{
+  "Front_XS_size_x": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "size_x",
+      "value": 26.5004
+    },
+    "matches": [
+      {
+        "offset": 145949,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 171982,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 172934,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 173769,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 243957,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 272127,
+        "type": "int16_scaled_10",
+        "target": 26.5004,
+        "found_raw": 265,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 139000,
+        "type": "int16_scaled_100",
+        "target": 26.5004,
+        "found_raw": 2650,
+        "found_scaled": 26.5
+      },
+      {
+        "offset": 270124,
+        "type": "int16_scaled_100",
+        "target": 26.5004,
+        "found_raw": 2650,
+        "found_scaled": 26.5
+      }
+    ],
+    "total_matches": 8,
+    "context": {
+      "hex": "7f0d8b454922810ff13ccbf0d24b470088d3e4bd637370c0ed78c2004807b0800901446e8fa2460a82612224d237788b0e2cd00207075755459d909870e889cd",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 145933,
+          "float32": -0.1117
+        },
+        {
+          "relative": -12,
+          "offset": 145937,
+          "float32": -3.757
+        },
+        {
+          "relative": -8,
+          "offset": 145941,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 145945,
+          "float32": -0.0
+        },
+        {
+          "relative": 4,
+          "offset": 145953,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 145957,
+          "float32": 0.0
+        },
+        {
+          "relative": 12,
+          "offset": 145961,
+          "float32": -0.0
+        },
+        {
+          "relative": 16,
+          "offset": 145965,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_XS_size_y": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "size_y",
+      "value": 76.5536
+    },
+    "matches": [
+      {
+        "offset": 129123,
+        "type": "int16_scaled_10",
+        "target": 76.5536,
+        "found_raw": 766,
+        "found_scaled": 76.6
+      },
+      {
+        "offset": 137811,
+        "type": "int16_scaled_10",
+        "target": 76.5536,
+        "found_raw": 766,
+        "found_scaled": 76.6
+      },
+      {
+        "offset": 196276,
+        "type": "int16_scaled_10",
+        "target": 76.5536,
+        "found_raw": 766,
+        "found_scaled": 76.6
+      },
+      {
+        "offset": 129364,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      },
+      {
+        "offset": 147373,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      },
+      {
+        "offset": 163912,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      },
+      {
+        "offset": 165199,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      },
+      {
+        "offset": 194068,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      },
+      {
+        "offset": 194234,
+        "type": "int16_scaled_100",
+        "target": 76.5536,
+        "found_raw": 7655,
+        "found_scaled": 76.55
+      }
+    ],
+    "total_matches": 9,
+    "context": {
+      "hex": "801010008a561b7ff3fff06fe3db3ff18d582e2b84e0e07d00e091e705feee4ffe02fee3bff963c8b4465dd70004a49470d6e3ad8fbd81bffe37fe22baad1cc6",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 129107,
+          "float32": 0.0
+        },
+        {
+          "relative": 12,
+          "offset": 129135,
+          "float32": -0.0
+        },
+        {
+          "relative": 16,
+          "offset": 129139,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_XS_area": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "area",
+      "value": 0.3487
+    },
+    "matches": [
+      {
+        "offset": 255249,
+        "type": "float64_le",
+        "target": 0.3487,
+        "found": 0.3484904070743771,
+        "diff": 0.00020959292562289233
+      },
+      {
+        "offset": 53058,
+        "type": "int32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 53058,
+        "type": "uint32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "int32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "uint32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "int32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "uint32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "int32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "uint32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 85000,
+        "type": "int32_scaled_10",
+        "target": 0.3487,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      }
+    ],
+    "total_matches": 147,
+    "context": {
+      "hex": "983a79a2a85616b09b8ebb3130522cd3d979859ada5a5e79f9353a2e74542f5ad5aa56b5aa4dd63f942a0ef7f0c107fbf88bbf78862449f8addffa2c77df7933",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 255233,
+          "float32": -0.0
+        },
+        {
+          "relative": -8,
+          "offset": 255241,
+          "float32": 0.0
+        },
+        {
+          "relative": 0,
+          "offset": 255249,
+          "float32": -0.0
+        },
+        {
+          "relative": 4,
+          "offset": 255253,
+          "float32": 1.6742
+        }
+      ]
+    }
+  },
+  "Front_XS_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "perimeter",
+      "value": 262.0868
+    },
+    "matches": [
+      {
+        "offset": 179506,
+        "type": "int16_scaled_10",
+        "target": 262.0868,
+        "found_raw": 2621,
+        "found_scaled": 262.1
+      },
+      {
+        "offset": 207688,
+        "type": "int16_scaled_10",
+        "target": 262.0868,
+        "found_raw": 2621,
+        "found_scaled": 262.1
+      },
+      {
+        "offset": 272944,
+        "type": "int16_scaled_10",
+        "target": 262.0868,
+        "found_raw": 2621,
+        "found_scaled": 262.1
+      },
+      {
+        "offset": 73168,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      },
+      {
+        "offset": 82813,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      },
+      {
+        "offset": 108583,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      },
+      {
+        "offset": 108842,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      },
+      {
+        "offset": 109215,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      },
+      {
+        "offset": 111252,
+        "type": "int16_scaled_100",
+        "target": 262.0868,
+        "found_raw": 26209,
+        "found_scaled": 262.09
+      }
+    ],
+    "total_matches": 9,
+    "context": {
+      "hex": "2c3522be83e3746cd7cf8f93a36f2c57b3626e21a14afc3c159a2b678205678c3d0a9ed86f314e2745ecf039014830b1624ba058efdd390231054b734593a63a",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 179490,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 179494,
+          "float32": 0.0308
+        },
+        {
+          "relative": -4,
+          "offset": 179502,
+          "float32": -0.0
+        },
+        {
+          "relative": 4,
+          "offset": 179510,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 179514,
+          "float32": 0.0005
+        },
+        {
+          "relative": 12,
+          "offset": 179518,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_XS_sew_area": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "sew_area",
+      "value": 0.3196
+    },
+    "matches": [
+      {
+        "offset": 134233,
+        "type": "float32_le",
+        "target": 0.3196,
+        "found": 0.31983375549316406,
+        "diff": 0.0002337554931640673
+      },
+      {
+        "offset": 141932,
+        "type": "float32_le",
+        "target": 0.3196,
+        "found": 0.3188934326171875,
+        "diff": 0.0007065673828124952
+      },
+      {
+        "offset": 53058,
+        "type": "int32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 53058,
+        "type": "uint32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "int32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "uint32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "int32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "uint32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "int32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "uint32_scaled_10",
+        "target": 0.3196,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      }
+    ],
+    "total_matches": 159,
+    "context": {
+      "hex": "e26e7c3b49db94711475776415ef19210928f2872f939004ce61365f44e5c59d40c1a33e127d3b3b5bd8da1ac139167b008fbe68f43a9d2d51d6868522f1c6c0",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 134217,
+          "float32": -0.0
+        },
+        {
+          "relative": -12,
+          "offset": 134221,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 134229,
+          "float32": -0.0
+        },
+        {
+          "relative": 0,
+          "offset": 134233,
+          "float32": 0.3198
+        },
+        {
+          "relative": 4,
+          "offset": 134237,
+          "float32": 0.0029
+        },
+        {
+          "relative": 8,
+          "offset": 134241,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_XS_sew_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "XS",
+      "field": "sew_perimeter",
+      "value": 251.0689
+    },
+    "matches": [
+      {
+        "offset": 143967,
+        "type": "int16_scaled_10",
+        "target": 251.0689,
+        "found_raw": 2511,
+        "found_scaled": 251.1
+      },
+      {
+        "offset": 213137,
+        "type": "int16_scaled_10",
+        "target": 251.0689,
+        "found_raw": 2511,
+        "found_scaled": 251.1
+      },
+      {
+        "offset": 137645,
+        "type": "int16_scaled_100",
+        "target": 251.0689,
+        "found_raw": 25107,
+        "found_scaled": 251.07
+      },
+      {
+        "offset": 150049,
+        "type": "int16_scaled_100",
+        "target": 251.0689,
+        "found_raw": 25107,
+        "found_scaled": 251.07
+      }
+    ],
+    "total_matches": 4,
+    "context": {
+      "hex": "c06a4162c73b8fdff88ddfc67cbe48e31a6f89f9141070ef6097f00d105032e6cf094ca72516cb158df8383b301ede5a6bc636c4b8170b9d69cca6d394b7678c",
+      "neighbors": [
+        {
+          "relative": -8,
+          "offset": 143959,
+          "float32": 0.0
+        },
+        {
+          "relative": 0,
+          "offset": 143967,
+          "float32": -0.0
+        },
+        {
+          "relative": 4,
+          "offset": 143971,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 143975,
+          "float32": 0.0028
+        },
+        {
+          "relative": 16,
+          "offset": 143983,
+          "float32": -731.1003
+        }
+      ]
+    }
+  },
+  "Front_Small_size_x": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "size_x",
+      "value": 27.772
+    },
+    "matches": [
+      {
+        "offset": 206501,
+        "type": "int16_scaled_10",
+        "target": 27.772,
+        "found_raw": 278,
+        "found_scaled": 27.8
+      },
+      {
+        "offset": 272428,
+        "type": "int16_scaled_10",
+        "target": 27.772,
+        "found_raw": 278,
+        "found_scaled": 27.8
+      },
+      {
+        "offset": 199115,
+        "type": "int16_scaled_100",
+        "target": 27.772,
+        "found_raw": 2777,
+        "found_scaled": 27.77
+      },
+      {
+        "offset": 201925,
+        "type": "int16_scaled_100",
+        "target": 27.772,
+        "found_raw": 2777,
+        "found_scaled": 27.77
+      },
+      {
+        "offset": 268131,
+        "type": "int16_scaled_1000",
+        "target": 27.772,
+        "found_raw": 27772,
+        "found_scaled": 27.772
+      }
+    ],
+    "total_matches": 5,
+    "context": {
+      "hex": "ad1c99dd79c67cbf91c26c5535ac2c8ba85945563af8aa33f33bff56a7d36e8a16018baac62bd5ebf54ffa566d91733c6fdeb0a8c10ea350a32a14925539717c",
+      "neighbors": [
+        {
+          "relative": -12,
+          "offset": 206489,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 206497,
+          "float32": -0.0
+        },
+        {
+          "relative": 0,
+          "offset": 206501,
+          "float32": -0.0
+        },
+        {
+          "relative": 12,
+          "offset": 206513,
+          "float32": 0.0149
+        },
+        {
+          "relative": 16,
+          "offset": 206517,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_Small_size_y": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "size_y",
+      "value": 77.5041
+    },
+    "matches": [
+      {
+        "offset": 183157,
+        "type": "int16_scaled_10",
+        "target": 77.5041,
+        "found_raw": 775,
+        "found_scaled": 77.5
+      },
+      {
+        "offset": 185900,
+        "type": "int16_scaled_10",
+        "target": 77.5041,
+        "found_raw": 775,
+        "found_scaled": 77.5
+      },
+      {
+        "offset": 191458,
+        "type": "int16_scaled_10",
+        "target": 77.5041,
+        "found_raw": 775,
+        "found_scaled": 77.5
+      },
+      {
+        "offset": 207011,
+        "type": "int16_scaled_10",
+        "target": 77.5041,
+        "found_raw": 775,
+        "found_scaled": 77.5
+      },
+      {
+        "offset": 154896,
+        "type": "int16_scaled_100",
+        "target": 77.5041,
+        "found_raw": 7750,
+        "found_scaled": 77.5
+      },
+      {
+        "offset": 264911,
+        "type": "int16_scaled_100",
+        "target": 77.5041,
+        "found_raw": 7750,
+        "found_scaled": 77.5
+      }
+    ],
+    "total_matches": 6,
+    "context": {
+      "hex": "37e8bca56aa1ed119c85e1706bef1c32add13435a65585aa9a910810024a090c0703982cc77038844b21c5021ffbeb3bf18f5ef1835475e2332ed5ce293d91da",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 183141,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 183145,
+          "float32": -0.0
+        },
+        {
+          "relative": -8,
+          "offset": 183149,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 183153,
+          "float32": 0.0
+        },
+        {
+          "relative": 0,
+          "offset": 183157,
+          "float32": 0.0
+        },
+        {
+          "relative": 4,
+          "offset": 183161,
+          "float32": -0.0
+        },
+        {
+          "relative": 8,
+          "offset": 183165,
+          "float32": 0.0
+        },
+        {
+          "relative": 12,
+          "offset": 183169,
+          "float32": 0.0072
+        }
+      ]
+    }
+  },
+  "Front_Small_area": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "area",
+      "value": 0.3692
+    },
+    "matches": [
+      {
+        "offset": 242382,
+        "type": "float32_le",
+        "target": 0.3692,
+        "found": 0.3697943091392517,
+        "diff": 0.0005943091392517363
+      },
+      {
+        "offset": 17306,
+        "type": "int32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 17306,
+        "type": "uint32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "int32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "uint32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "int32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "uint32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 84724,
+        "type": "int32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 84724,
+        "type": "uint32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 92020,
+        "type": "int32_scaled_10",
+        "target": 0.3692,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      }
+    ],
+    "total_matches": 201,
+    "context": {
+      "hex": "3b55c04d375c435d5d2d1bde7e8f7befbd956953c65bd8acc94689aee767d98dae55bd3ed8758077b77e7895213e05879a6cd9a0528918dbdecaed6b5751575b",
+      "neighbors": [
+        {
+          "relative": -12,
+          "offset": 242370,
+          "float32": -0.0
+        },
+        {
+          "relative": -8,
+          "offset": 242374,
+          "float32": -0.0
+        },
+        {
+          "relative": -4,
+          "offset": 242378,
+          "float32": -0.0
+        },
+        {
+          "relative": 0,
+          "offset": 242382,
+          "float32": 0.3698
+        },
+        {
+          "relative": 8,
+          "offset": 242390,
+          "float32": -0.0
+        },
+        {
+          "relative": 12,
+          "offset": 242394,
+          "float32": -0.0
+        },
+        {
+          "relative": 16,
+          "offset": 242398,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_Small_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "perimeter",
+      "value": 268.3898
+    },
+    "matches": [
+      {
+        "offset": 182417,
+        "type": "int16_scaled_10",
+        "target": 268.3898,
+        "found_raw": 2684,
+        "found_scaled": 268.4
+      },
+      {
+        "offset": 265455,
+        "type": "int16_scaled_10",
+        "target": 268.3898,
+        "found_raw": 2684,
+        "found_scaled": 268.4
+      },
+      {
+        "offset": 154525,
+        "type": "int16_scaled_100",
+        "target": 268.3898,
+        "found_raw": 26839,
+        "found_scaled": 268.39
+      },
+      {
+        "offset": 159827,
+        "type": "int16_scaled_100",
+        "target": 268.3898,
+        "found_raw": 26839,
+        "found_scaled": 268.39
+      },
+      {
+        "offset": 175087,
+        "type": "int16_scaled_100",
+        "target": 268.3898,
+        "found_raw": 26839,
+        "found_scaled": 268.39
+      },
+      {
+        "offset": 182557,
+        "type": "int16_scaled_100",
+        "target": 268.3898,
+        "found_raw": 26839,
+        "found_scaled": 268.39
+      }
+    ],
+    "total_matches": 6,
+    "context": {
+      "hex": "19a6b30aa74e9e4ed0d5b2ccb16fdf6e04ef7176630b4ddbe2e0932ec768345e7c0a2fd6622dd642643d91ab6b1b28a5b0bdb581aded2d54559d8cc7dbdb5bec",
+      "neighbors": [
+        {
+          "relative": -8,
+          "offset": 182409,
+          "float32": 0.0
+        },
+        {
+          "relative": 4,
+          "offset": 182421,
+          "float32": 107.0886
+        },
+        {
+          "relative": 8,
+          "offset": 182425,
+          "float32": -0.0
+        },
+        {
+          "relative": 12,
+          "offset": 182429,
+          "float32": -0.0
+        },
+        {
+          "relative": 16,
+          "offset": 182433,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_Small_sew_area": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "sew_area",
+      "value": 0.3392
+    },
+    "matches": [
+      {
+        "offset": 258081,
+        "type": "float32_le",
+        "target": 0.3392,
+        "found": 0.33899861574172974,
+        "diff": 0.00020138425827026518
+      },
+      {
+        "offset": 53058,
+        "type": "int32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 53058,
+        "type": "uint32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "int32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 55822,
+        "type": "uint32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "int32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84772,
+        "type": "uint32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "int32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 84886,
+        "type": "uint32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      },
+      {
+        "offset": 85000,
+        "type": "int32_scaled_10",
+        "target": 0.3392,
+        "found_raw": 3,
+        "found_scaled": 0.3
+      }
+    ],
+    "total_matches": 143,
+    "context": {
+      "hex": "d4e4737ceab17b696e6e224a92ece0570ed961ed2887ad5b76495c8aef67c1c13a91ad3ecff3703d97388a58b56a19ede3da08723e8ea3b2381bc78e79401e5b",
+      "neighbors": [
+        {
+          "relative": -8,
+          "offset": 258073,
+          "float32": -0.0
+        },
+        {
+          "relative": -4,
+          "offset": 258077,
+          "float32": -24.1757
+        },
+        {
+          "relative": 0,
+          "offset": 258081,
+          "float32": 0.339
+        },
+        {
+          "relative": 4,
+          "offset": 258085,
+          "float32": 0.0588
+        }
+      ]
+    }
+  },
+  "Front_Small_sew_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "Small",
+      "field": "sew_perimeter",
+      "value": 257.3806
+    },
+    "matches": [
+      {
+        "offset": 129810,
+        "type": "int16_scaled_10",
+        "target": 257.3806,
+        "found_raw": 2574,
+        "found_scaled": 257.4
+      },
+      {
+        "offset": 168109,
+        "type": "int16_scaled_10",
+        "target": 257.3806,
+        "found_raw": 2574,
+        "found_scaled": 257.4
+      },
+      {
+        "offset": 206178,
+        "type": "int16_scaled_10",
+        "target": 257.3806,
+        "found_raw": 2574,
+        "found_scaled": 257.4
+      },
+      {
+        "offset": 42547,
+        "type": "int16_scaled_100",
+        "target": 257.3806,
+        "found_raw": 25738,
+        "found_scaled": 257.38
+      },
+      {
+        "offset": 224801,
+        "type": "int16_scaled_100",
+        "target": 257.3806,
+        "found_raw": 25738,
+        "found_scaled": 257.38
+      },
+      {
+        "offset": 261359,
+        "type": "int16_scaled_100",
+        "target": 257.3806,
+        "found_raw": 25738,
+        "found_scaled": 257.38
+      }
+    ],
+    "total_matches": 6,
+    "context": {
+      "hex": "172bdcde4e91690d29259494e970a6cb08d8d818a2dd69014222002422ad83770e0ac0edcd04abb242f09ec58b8435264a390001f70e76a1948260f120a58410",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 129794,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 129798,
+          "float32": 0.0
+        },
+        {
+          "relative": -8,
+          "offset": 129802,
+          "float32": 0.0
+        },
+        {
+          "relative": 4,
+          "offset": 129814,
+          "float32": -0.0
+        },
+        {
+          "relative": 8,
+          "offset": 129818,
+          "float32": -5086.0322
+        },
+        {
+          "relative": 12,
+          "offset": 129822,
+          "float32": 0.0
+        },
+        {
+          "relative": 16,
+          "offset": 129826,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_Medium_size_x": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "size_x",
+      "value": 29.0435
+    },
+    "matches": [
+      {
+        "offset": 128934,
+        "type": "int16_scaled_10",
+        "target": 29.0435,
+        "found_raw": 290,
+        "found_scaled": 29.0
+      },
+      {
+        "offset": 169173,
+        "type": "int16_scaled_10",
+        "target": 29.0435,
+        "found_raw": 290,
+        "found_scaled": 29.0
+      },
+      {
+        "offset": 195969,
+        "type": "int16_scaled_10",
+        "target": 29.0435,
+        "found_raw": 290,
+        "found_scaled": 29.0
+      },
+      {
+        "offset": 284628,
+        "type": "int16_scaled_10",
+        "target": 29.0435,
+        "found_raw": 290,
+        "found_scaled": 29.0
+      },
+      {
+        "offset": 144946,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      },
+      {
+        "offset": 171604,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      },
+      {
+        "offset": 171736,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      },
+      {
+        "offset": 181941,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      },
+      {
+        "offset": 195402,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      },
+      {
+        "offset": 218048,
+        "type": "int16_scaled_100",
+        "target": 29.0435,
+        "found_raw": 2904,
+        "found_scaled": 29.04
+      }
+    ],
+    "total_matches": 11,
+    "context": {
+      "hex": "4d49215032c3629012151215219394ed08fb2f87849014528443b6c3545361c1220181c42ca01b13d1e86ef4f0c63bd73ce49ce79c3df98fb5f6ce7a04485344",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 128918,
+          "float32": -0.0
+        },
+        {
+          "relative": -8,
+          "offset": 128926,
+          "float32": -364.5275
+        },
+        {
+          "relative": -4,
+          "offset": 128930,
+          "float32": -14.0828
+        },
+        {
+          "relative": 0,
+          "offset": 128934,
+          "float32": -1032.0354
+        },
+        {
+          "relative": 4,
+          "offset": 128938,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_Medium_size_y": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "size_y",
+      "value": 78.4547
+    },
+    "matches": [
+      {
+        "offset": 20157,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 20546,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 20935,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 28035,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 28424,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 28813,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 36178,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 36567,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 36956,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      },
+      {
+        "offset": 43882,
+        "type": "int16_scaled_10",
+        "target": 78.4547,
+        "found_raw": 785,
+        "found_scaled": 78.5
+      }
+    ],
+    "total_matches": 18,
+    "context": {
+      "hex": "3f1a26e83f9a19e83f9a19e83f9a19e83f9a191151ffff000001000000010019110328e029302b0ed9ffffffffdd750f00000000000000000000000000000000",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 20141,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 20145,
+          "float32": 0.0
+        },
+        {
+          "relative": -8,
+          "offset": 20149,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 20153,
+          "float32": 0.0
+        },
+        {
+          "relative": 4,
+          "offset": 20161,
+          "float32": 0.0
+        },
+        {
+          "relative": 12,
+          "offset": 20169,
+          "float32": 0.0
+        },
+        {
+          "relative": 16,
+          "offset": 20173,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_Medium_area": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "area",
+      "value": 0.3899
+    },
+    "matches": [
+      {
+        "offset": 167353,
+        "type": "float32_le",
+        "target": 0.3899,
+        "found": 0.3893727958202362,
+        "diff": 0.0005272041797638183
+      },
+      {
+        "offset": 193956,
+        "type": "float32_le",
+        "target": 0.3899,
+        "found": 0.39016053080558777,
+        "diff": 0.0002605308055877442
+      },
+      {
+        "offset": 207485,
+        "type": "float32_le",
+        "target": 0.3899,
+        "found": 0.39057138562202454,
+        "diff": 0.0006713856220245118
+      },
+      {
+        "offset": 208787,
+        "type": "float32_le",
+        "target": 0.3899,
+        "found": 0.39018428325653076,
+        "diff": 0.0002842832565307374
+      },
+      {
+        "offset": 17306,
+        "type": "int32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 17306,
+        "type": "uint32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "int32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "uint32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "int32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "uint32_scaled_10",
+        "target": 0.3899,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      }
+    ],
+    "total_matches": 203,
+    "context": {
+      "hex": "229d4fd751a40c19b5250bc908968514188d4a8c86436ab371ed482b12bdd180df5bc73e369f041c45ee50ab71341a1205de934873d691b13d5075b4693a06d7",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 167337,
+          "float32": -0.0
+        },
+        {
+          "relative": -12,
+          "offset": 167341,
+          "float32": -0.0
+        },
+        {
+          "relative": -8,
+          "offset": 167345,
+          "float32": 0.0
+        },
+        {
+          "relative": -4,
+          "offset": 167349,
+          "float32": -0.0
+        },
+        {
+          "relative": 0,
+          "offset": 167353,
+          "float32": 0.3894
+        },
+        {
+          "relative": 4,
+          "offset": 167357,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 167361,
+          "float32": -0.0
+        },
+        {
+          "relative": 12,
+          "offset": 167365,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_Medium_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "perimeter",
+      "value": 274.7288
+    },
+    "matches": [
+      {
+        "offset": 34665,
+        "type": "int16_scaled_10",
+        "target": 274.7288,
+        "found_raw": 2747,
+        "found_scaled": 274.7
+      },
+      {
+        "offset": 209819,
+        "type": "int16_scaled_10",
+        "target": 274.7288,
+        "found_raw": 2747,
+        "found_scaled": 274.7
+      },
+      {
+        "offset": 175669,
+        "type": "int16_scaled_100",
+        "target": 274.7288,
+        "found_raw": 27473,
+        "found_scaled": 274.73
+      },
+      {
+        "offset": 177220,
+        "type": "int16_scaled_100",
+        "target": 274.7288,
+        "found_raw": 27473,
+        "found_scaled": 274.73
+      },
+      {
+        "offset": 192066,
+        "type": "int16_scaled_100",
+        "target": 274.7288,
+        "found_raw": 27473,
+        "found_scaled": 274.73
+      },
+      {
+        "offset": 283638,
+        "type": "int16_scaled_100",
+        "target": 274.7288,
+        "found_raw": 27473,
+        "found_scaled": 274.73
+      }
+    ],
+    "total_matches": 6,
+    "context": {
+      "hex": "ffffffff5ea03a00e8490be5b71b816403a20ae5b71b8164025f16e5ba1b8164bb0a13e56b7a81646a1712e5b5bf816485571de58c18866400241de5efe98664",
+      "neighbors": []
+    }
+  },
+  "Front_Medium_sew_area": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "sew_area",
+      "value": 0.3591
+    },
+    "matches": [
+      {
+        "offset": 139074,
+        "type": "float32_le",
+        "target": 0.3591,
+        "found": 0.35924139618873596,
+        "diff": 0.00014139618873598714
+      },
+      {
+        "offset": 162000,
+        "type": "float32_le",
+        "target": 0.3591,
+        "found": 0.35913676023483276,
+        "diff": 3.6760234832788896e-05
+      },
+      {
+        "offset": 170644,
+        "type": "float32_le",
+        "target": 0.3591,
+        "found": 0.3587479293346405,
+        "diff": 0.00035207066535947185
+      },
+      {
+        "offset": 184797,
+        "type": "float32_le",
+        "target": 0.3591,
+        "found": 0.3591102361679077,
+        "diff": 1.0236167907740068e-05
+      },
+      {
+        "offset": 17306,
+        "type": "int32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 17306,
+        "type": "uint32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "int32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 18849,
+        "type": "uint32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "int32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      },
+      {
+        "offset": 53253,
+        "type": "uint32_scaled_10",
+        "target": 0.3591,
+        "found_raw": 4,
+        "found_scaled": 0.4
+      }
+    ],
+    "total_matches": 192,
+    "context": {
+      "hex": "9c5c50d5357a7dcab08c5b9a8105276518ae5f732925f23c4b82b2ac6a047e2f7deeb73ed76c1836d554538dc86aeac3d5e9b4b1bb7b8093934b74bbdd3ba32c",
+      "neighbors": [
+        {
+          "relative": -12,
+          "offset": 139062,
+          "float32": 0.0296
+        },
+        {
+          "relative": -8,
+          "offset": 139066,
+          "float32": -0.0
+        },
+        {
+          "relative": -4,
+          "offset": 139070,
+          "float32": 0.0
+        },
+        {
+          "relative": 0,
+          "offset": 139074,
+          "float32": 0.3592
+        },
+        {
+          "relative": 4,
+          "offset": 139078,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 139082,
+          "float32": -0.0
+        },
+        {
+          "relative": 12,
+          "offset": 139086,
+          "float32": -468.8342
+        },
+        {
+          "relative": 16,
+          "offset": 139090,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_Medium_sew_perimeter": {
+    "target": {
+      "piece": "Front",
+      "size": "Medium",
+      "field": "sew_perimeter",
+      "value": 263.7226
+    },
+    "matches": [
+      {
+        "offset": 187856,
+        "type": "int16_scaled_10",
+        "target": 263.7226,
+        "found_raw": 2637,
+        "found_scaled": 263.7
+      },
+      {
+        "offset": 145378,
+        "type": "int16_scaled_100",
+        "target": 263.7226,
+        "found_raw": 26372,
+        "found_scaled": 263.72
+      },
+      {
+        "offset": 184293,
+        "type": "int16_scaled_100",
+        "target": 263.7226,
+        "found_raw": 26372,
+        "found_scaled": 263.72
+      }
+    ],
+    "total_matches": 3,
+    "context": {
+      "hex": "305949ed3f63988e4d9c24677bf45d87a62508a8b70e7ddb4208955a6ed652a54d0a6aa959ce4c34fc58d4c609d04ac064199aa6c1f6f63651da83c76858424a",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 187840,
+          "float32": -0.0
+        },
+        {
+          "relative": -4,
+          "offset": 187852,
+          "float32": -0.0
+        },
+        {
+          "relative": 0,
+          "offset": 187856,
+          "float32": -0.0
+        },
+        {
+          "relative": 4,
+          "offset": 187860,
+          "float32": 0.0
+        },
+        {
+          "relative": 12,
+          "offset": 187868,
+          "float32": -3.1689
+        },
+        {
+          "relative": 16,
+          "offset": 187872,
+          "float32": -0.0
+        }
+      ]
+    }
+  },
+  "Front_Large_size_x": {
+    "target": {
+      "piece": "Front",
+      "size": "Large",
+      "field": "size_x",
+      "value": 30.315
+    },
+    "matches": [
+      {
+        "offset": 150011,
+        "type": "int16_scaled_100",
+        "target": 30.315,
+        "found_raw": 3032,
+        "found_scaled": 30.32
+      },
+      {
+        "offset": 151163,
+        "type": "int16_scaled_100",
+        "target": 30.315,
+        "found_raw": 3032,
+        "found_scaled": 30.32
+      },
+      {
+        "offset": 184646,
+        "type": "int16_scaled_100",
+        "target": 30.315,
+        "found_raw": 3032,
+        "found_scaled": 30.32
+      },
+      {
+        "offset": 145360,
+        "type": "int16_scaled_1000",
+        "target": 30.315,
+        "found_raw": 30315,
+        "found_scaled": 30.315
+      },
+      {
+        "offset": 176517,
+        "type": "int16_scaled_1000",
+        "target": 30.315,
+        "found_raw": 30315,
+        "found_scaled": 30.315
+      },
+      {
+        "offset": 227119,
+        "type": "int16_scaled_1000",
+        "target": 30.315,
+        "found_raw": 30315,
+        "found_scaled": 30.315
+      },
+      {
+        "offset": 227938,
+        "type": "int16_scaled_1000",
+        "target": 30.315,
+        "found_raw": 30315,
+        "found_scaled": 30.315
+      },
+      {
+        "offset": 263337,
+        "type": "int16_scaled_1000",
+        "target": 30.315,
+        "found_raw": 30315,
+        "found_scaled": 30.315
+      }
+    ],
+    "total_matches": 8,
+    "context": {
+      "hex": "d0786eb52a511beaec80d96231481b00e53b06127052c9c4d102026a1ecf1963d80b65618da5e0e3ba668abee06c3e628a49ad1324d679bb8ef521ed98046859",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 149995,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 149999,
+          "float32": -1610.5762
+        },
+        {
+          "relative": 8,
+          "offset": 150019,
+          "float32": -0.2703
+        },
+        {
+          "relative": 16,
+          "offset": 150027,
+          "float32": 0.0
+        }
+      ]
+    }
+  },
+  "Front_Large_size_y": {
+    "target": {
+      "piece": "Front",
+      "size": "Large",
+      "field": "size_y",
+      "value": 79.4055
+    },
+    "matches": [
+      {
+        "offset": 181030,
+        "type": "int16_scaled_10",
+        "target": 79.4055,
+        "found_raw": 794,
+        "found_scaled": 79.4
+      },
+      {
+        "offset": 278669,
+        "type": "int16_scaled_10",
+        "target": 79.4055,
+        "found_raw": 794,
+        "found_scaled": 79.4
+      },
+      {
+        "offset": 279020,
+        "type": "int16_scaled_10",
+        "target": 79.4055,
+        "found_raw": 794,
+        "found_scaled": 79.4
+      },
+      {
+        "offset": 227110,
+        "type": "int16_scaled_100",
+        "target": 79.4055,
+        "found_raw": 7941,
+        "found_scaled": 79.41
+      },
+      {
+        "offset": 260598,
+        "type": "int16_scaled_100",
+        "target": 79.4055,
+        "found_raw": 7941,
+        "found_scaled": 79.41
+      }
+    ],
+    "total_matches": 5,
+    "context": {
+      "hex": "b2cee3e88eb93d9e83892da6d329f1a99440db36583fbb0e210486c3215496411a0353e4e4c3ca0ac007982c4340e0c9434386636eff78eb28605913e0d1e439",
+      "neighbors": [
+        {
+          "relative": -16,
+          "offset": 181014,
+          "float32": 0.0
+        },
+        {
+          "relative": -12,
+          "offset": 181018,
+          "float32": 0.0
+        },
+        {
+          "relative": -8,
+          "offset": 181022,
+          "float32": -268.0323
+        },
+        {
+          "relative": -4,
+          "offset": 181026,
+          "float32": 18.7911
+        },
+        {
+          "relative": 4,
+          "offset": 181034,
+          "float32": 0.0
+        },
+        {
+          "relative": 8,
+          "offset": 181038,
+          "float32": 0.0
+        }
+      ]
+    }
+  }
+}

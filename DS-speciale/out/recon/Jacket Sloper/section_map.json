@@ -1,0 +1,319 @@
+{
+  "filename": "Jacket Sloper.MRK",
+  "filesize": 238787,
+  "sha256": "abf33a5d5f370aeb36fed20a7a939286bf64d1732403f2b2e27f1db29fade012",
+  "file_type": "mrk",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      44,
+      41,
+      419240441,
+      20,
+      10,
+      51,
+      537724214,
+      1634100548,
+      544500853,
+      1818386772,
+      470629477,
+      1006633309,
+      1819113535,
+      1919252000,
+      1852795251
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      6.165713243029195e-44,
+      5.74532370373175e-44,
+      6.542519286076782e-24,
+      2.802596928649634e-44,
+      1.401298464324817e-44,
+      7.146622168056567e-44,
+      1.1944888710874925e-19,
+      2.0703489334422951e-19,
+      4.673104465010674e-22,
+      0.00781282503157854
+    ],
+    "likely_version": "44.41",
+    "likely_section_count": 20
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 51,
+      "end_offset": 29467,
+      "size": 29416,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<MARKER>\r\n   <OPTITEX>15.0.134.0</OPTITEX>\r\n   <NEST>\r\n    ",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 89437,
+      "end_offset": 95105,
+      "size": 5668,
+      "preview": "JPEG image (5668 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 15,
+      "string": " Default Table<"
+    },
+    {
+      "offset": 51,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 92,
+      "length": 8,
+      "string": "<MARKER>"
+    },
+    {
+      "offset": 102,
+      "length": 32,
+      "string": "   <OPTITEX>15.0.134.0</OPTITEX>"
+    },
+    {
+      "offset": 136,
+      "length": 9,
+      "string": "   <NEST>"
+    },
+    {
+      "offset": 147,
+      "length": 41,
+      "string": "      <NAME>Standard Quick Nesting</NAME>"
+    },
+    {
+      "offset": 190,
+      "length": 29,
+      "string": "      <VERSION>0.00</VERSION>"
+    },
+    {
+      "offset": 221,
+      "length": 22,
+      "string": "      <BUILD>0</BUILD>"
+    },
+    {
+      "offset": 245,
+      "length": 41,
+      "string": "      <AUTOCOMPACTION>-1</AUTOCOMPACTION>"
+    },
+    {
+      "offset": 288,
+      "length": 10,
+      "string": "   </NEST>"
+    },
+    {
+      "offset": 300,
+      "length": 38,
+      "string": "   <UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 340,
+      "length": 51,
+      "string": "   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>"
+    },
+    {
+      "offset": 393,
+      "length": 29,
+      "string": "   <NAME>Jacket Sloper</NAME>"
+    },
+    {
+      "offset": 424,
+      "length": 78,
+      "string": "   <FILENAME>V:\\3D Samples\\Sample pack O15\\Marker\\Jacket Sloper.MRK</FILENAME>"
+    },
+    {
+      "offset": 504,
+      "length": 24,
+      "string": "   <DATE>12.05.15</DATE>"
+    },
+    {
+      "offset": 530,
+      "length": 28,
+      "string": "   <LENGTH>601.3232</LENGTH>"
+    },
+    {
+      "offset": 560,
+      "length": 26,
+      "string": "   <WIDTH>148.0000</WIDTH>"
+    },
+    {
+      "offset": 588,
+      "length": 35,
+      "string": "   <EFFICIENCY>79.1333</EFFICIENCY>"
+    },
+    {
+      "offset": 625,
+      "length": 30,
+      "string": "   <SUM_AREA>7.0425</SUM_AREA>"
+    },
+    {
+      "offset": 657,
+      "length": 44,
+      "string": "   <SUM_PERIMETER>12905.8512</SUM_PERIMETER>"
+    },
+    {
+      "offset": 703,
+      "length": 31,
+      "string": "   <NB_OF_PLIES>1</NB_OF_PLIES>"
+    },
+    {
+      "offset": 736,
+      "length": 36,
+      "string": "   <LAYOUT_MODE>Single</LAYOUT_MODE>"
+    },
+    {
+      "offset": 774,
+      "length": 26,
+      "string": "   <FOLDING>none</FOLDING>"
+    },
+    {
+      "offset": 802,
+      "length": 40,
+      "string": "   <PLACED_ON_TABLE>72</PLACED_ON_TABLE>"
+    },
+    {
+      "offset": 844,
+      "length": 12,
+      "string": "   <NOTCHES>"
+    },
+    {
+      "offset": 858,
+      "length": 11,
+      "string": "      <CUT>"
+    },
+    {
+      "offset": 871,
+      "length": 33,
+      "string": "         <QUANTITY>156</QUANTITY>"
+    },
+    {
+      "offset": 906,
+      "length": 42,
+      "string": "         <SUM_LENGTH>139.2002</SUM_LENGTH>"
+    },
+    {
+      "offset": 950,
+      "length": 12,
+      "string": "      </CUT>"
+    },
+    {
+      "offset": 964,
+      "length": 13,
+      "string": "   </NOTCHES>"
+    },
+    {
+      "offset": 979,
+      "length": 10,
+      "string": "   <STYLE>"
+    },
+    {
+      "offset": 991,
+      "length": 40,
+      "string": "      <NAME>Jacket Sloper-For Eva</NAME>"
+    },
+    {
+      "offset": 1033,
+      "length": 107,
+      "string": "      <FILENAME>K:\\Install\\Ver10 Samples\\PDS\\Slopers-Blocks for Eva+3D\\Jacket Sloper-For Eva.PDS</FI"
+    },
+    {
+      "offset": 1142,
+      "length": 27,
+      "string": "      <MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1171,
+      "length": 12,
+      "string": "      <SIZE>"
+    },
+    {
+      "offset": 1185,
+      "length": 24,
+      "string": "         <NAME>34</NAME>"
+    },
+    {
+      "offset": 1211,
+      "length": 35,
+      "string": "         <NB_OF_SETS>1</NB_OF_SETS>"
+    },
+    {
+      "offset": 1248,
+      "length": 36,
+      "string": "         <SUM_AREA>1.0781</SUM_AREA>"
+    },
+    {
+      "offset": 1286,
+      "length": 49,
+      "string": "         <SUM_PERIMETER>2111.0324</SUM_PERIMETER>"
+    },
+    {
+      "offset": 1337,
+      "length": 16,
+      "string": "         <PIECE>"
+    },
+    {
+      "offset": 1355,
+      "length": 35,
+      "string": "            <NAME>frontpanel</NAME>"
+    },
+    {
+      "offset": 1392,
+      "length": 25,
+      "string": "            <CODE></CODE>"
+    },
+    {
+      "offset": 1419,
+      "length": 33,
+      "string": "            <MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1454,
+      "length": 94,
+      "string": "            <GEOM_INFO SIZE_X=\"67.3576\" SIZE_Y=\"24.0640\" AREA=\"0.1186\" PERIMETER=\"245.8974\" />"
+    },
+    {
+      "offset": 1550,
+      "length": 35,
+      "string": "            <BUFFER>0.0000</BUFFER>"
+    },
+    {
+      "offset": 1587,
+      "length": 63,
+      "string": "            <ORDER_INFO NESTED=\"2\" TOTAL=\"2\" QUANT=\"1,1,0,0\" />"
+    },
+    {
+      "offset": 1652,
+      "length": 102,
+      "string": "            <NESTING_ENABLES ROTATION=\"none\" OPPOSITE=\"Up/Down\" TILT=\"0 deg.\" FLIP=\"no\" FOLD=\"none\" "
+    },
+    {
+      "offset": 1756,
+      "length": 19,
+      "string": "            <MATCH>"
+    },
+    {
+      "offset": 1777,
+      "length": 55,
+      "string": "               <ABS X=\"3.2251\" Y=\"-22.9834\" DIR=\"XY\" />"
+    },
+    {
+      "offset": 1834,
+      "length": 20,
+      "string": "            </MATCH>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 51-29467 (29416 bytes)",
+    "Found JPEG at offset 89437-95105 (5668 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}

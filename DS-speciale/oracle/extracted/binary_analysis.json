@@ -1,0 +1,56 @@
+{
+  "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Basic Tee_2D.PDS",
+  "size": 287395,
+  "magic": "dc54ef12",
+  "float32_matches": [
+    {
+      "value": 6.996046071161229,
+      "offsets": [
+        222887
+      ],
+      "count": 1
+    },
+    {
+      "value": 6.998118655878106,
+      "offsets": [
+        222887
+      ],
+      "count": 1
+    },
+    {
+      "value": 6.950690949417782,
+      "offsets": [
+        200002,
+        265719
+      ],
+      "count": 2
+    },
+    {
+      "value": 40.85584550753576,
+      "offsets": [
+        262135
+      ],
+      "count": 1
+    },
+    {
+      "value": 45.42108883490835,
+      "offsets": [
+        140551,
+        270521,
+        273819
+      ],
+      "count": 3
+    }
+  ],
+  "float64_matches": [],
+  "coordinate_pairs": [],
+  "zlib_offsets": [
+    939,
+    104583,
+    128854,
+    157801,
+    173298,
+    200146,
+    285189
+  ]
+}

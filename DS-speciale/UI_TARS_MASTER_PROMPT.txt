@@ -1,0 +1,77 @@
+You control my Windows desktop. Goal: create Optitex "oracle" exports with specific DXF/HPGL settings.
+
+Global rules:
+- Go slowly, be precise, and do not improvise filenames.
+- Use the file dialog address bar: paste folder paths, press Enter, then select the file by name.
+- If any dialog appears (overwrite, warning, export settings), take a screenshot first, then proceed.
+- If you can't find a required option, take a screenshot and choose the closest equivalent.
+
+ORACLE SETTINGS (apply consistently everywhere):
+DXF:
+- Version: AutoCAD 2000
+- Units: centimeters (cm)
+- Scale: 1:1
+- Include: contours, seam allowances, notches, internal lines, grainlines, labels/text
+- Curves: keep splines/beziers (do NOT force polyline-only)
+- Enable "Use blocks" if available
+- Enable grading export if available; if it offers a .RUL file, save it alongside with same base name
+
+HPGL/PLT:
+- HPGL/2 if available
+- Scale 1:1
+- Include cut lines and notches/internal if options exist
+
+A) PDS exports (PDML + DXF [+ optional RUL])
+Open:
+C:\Program Files\Optitex\Optitex 25\App\PDS.exe
+
+For each file in:
+D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\pds\
+- Basic Tee_2D.PDS
+- Light  Jacket_2D.PDS
+- Skinny Cargo_2D.PDS
+- Skinny Trousers_2D.PDS
+
+For each:
+1) File > Open (open the PDS)
+2) File > Save As:
+   - Format: PDML
+   - Output:
+     D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\pds\
+   - Name: same base name, .pdml
+3) File > Export:
+   - Format: DXF
+   - In the export options dialog apply ORACLE DXF settings above (screenshot the dialog)
+   - Output: same oracle\pds folder, same base name, .dxf
+   - If asked to export grading rules separately, save .rul with same base name in the same folder
+4) Close the file (keep the app open unless it gets unstable)
+
+B) MRK exports (DXF + PLT)
+Open:
+C:\Program Files\Optitex\Optitex 25\App\Mark.exe
+
+For each file in:
+D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\inputs\mrk\
+- Basic Pants.MRK
+- Jacket Sloper.MRK
+- Nest++Shirt_Result2.MRK
+- Stripe Pants.MRK
+- Stripe Pants_Result4.MRK
+
+For each:
+1) File > Open (open the MRK)
+2) File > Export DXF:
+   - Apply ORACLE DXF settings above (screenshot the dialog)
+   - Output:
+     D:\SameDaySuits\_SameDaySuits\PILLARS_SAMEDAYSUITS\XX-EXPERIMENTS\REVERSE-ENGINEER-PDS\DS-speciale\oracle\mrk\
+   - Name: same base name, .dxf
+3) File > Export HPGL/PLT:
+   - Choose HPGL/2 if available; apply ORACLE HPGL settings above (screenshot the dialog)
+   - Output: same oracle\mrk folder, same base name, .plt
+4) Close the file
+
+Finish:
+- Open File Explorer and show both folders contain the exported files:
+  ...\DS-speciale\oracle\pds\
+  ...\DS-speciale\oracle\mrk\
+- Stop.

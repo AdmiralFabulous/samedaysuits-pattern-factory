@@ -1,0 +1,347 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Basic Pants</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Basic Pants.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>602.4738</LENGTH>
+   <WIDTH>148.0000</WIDTH>
+   <EFFICIENCY>66.3042</EFFICIENCY>
+   <SUM_AREA>5.9121</SUM_AREA>
+   <SUM_PERIMETER>6127.0123</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>24</PLACED_ON_TABLE>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>84</QUANTITY>
+         <SUM_LENGTH>100.8001</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME>Basic pants-For Eva</NAME>
+      <FILENAME>K:\Install\Ver10 Samples\PDS\Slopers-Blocks for Eva+3D\Basic pants-For Eva.PDS</FILENAME>
+      <MATERIAL></MATERIAL>
+      <SIZE>
+         <NAME>34</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.8934</SUM_AREA>
+         <SUM_PERIMETER>994.0026</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="104.4795" SIZE_Y="32.2260" AREA="0.2397" PERIMETER="251.6956" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="260.8983" Y-CENTER="131.8774" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="342.2317" Y-CENTER="16.1226" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="102.4051" SIZE_Y="26.9420" AREA="0.2070" PERIMETER="245.3057" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="158.1104" Y-CENTER="13.4807" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="551.2712" Y-CENTER="13.4710" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.9297</SUM_AREA>
+         <SUM_PERIMETER>1004.7988</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="104.9895" SIZE_Y="33.5260" AREA="0.2489" PERIMETER="254.3783" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="52.5148" Y-CENTER="131.2170" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="159.0103" Y-CENTER="67.4405" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="102.9051" SIZE_Y="28.2338" AREA="0.2159" PERIMETER="248.0211" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="133.8952" Y-CENTER="40.0073" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="366.0122" Y-CENTER="102.3019" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.9663</SUM_AREA>
+         <SUM_PERIMETER>1015.6502</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="105.4996" SIZE_Y="34.8260" AREA="0.2582" PERIMETER="257.0771" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="470.6540" Y-CENTER="95.7547" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="469.7077" Y-CENTER="130.5775" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="103.4051" SIZE_Y="29.5338" AREA="0.2249" PERIMETER="250.7480" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="158.0754" Y-CENTER="98.5322" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="366.5510" Y-CENTER="73.9212" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0034</SUM_AREA>
+         <SUM_PERIMETER>1026.5528</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="106.0097" SIZE_Y="36.1260" AREA="0.2676" PERIMETER="259.7908" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="447.4491" Y-CENTER="18.0725" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="449.1514" Y-CENTER="54.1850" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="103.9051" SIZE_Y="30.8338" AREA="0.2340" PERIMETER="253.4855" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="263.0725" Y-CENTER="68.2343" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="547.1172" Y-CENTER="71.7552" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0408</SUM_AREA>
+         <SUM_PERIMETER>1037.5046</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="106.5197" SIZE_Y="37.4260" AREA="0.2771" PERIMETER="262.5186" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="53.2799" Y-CENTER="96.4673" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="238.3865" Y-CENTER="40.5482" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="104.4051" SIZE_Y="32.1338" AREA="0.2432" PERIMETER="256.2337" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="156.7860" Y-CENTER="128.9507" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="365.0654" Y-CENTER="131.9235" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0785</SUM_AREA>
+         <SUM_PERIMETER>1048.5033</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="107.0298" SIZE_Y="38.7260" AREA="0.2867" PERIMETER="265.2595" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="53.5247" Y-CENTER="19.3724" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="53.5349" Y-CENTER="59.1933" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="104.9051" SIZE_Y="33.4338" AREA="0.2525" PERIMETER="258.9922" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="262.1370" Y-CENTER="99.7283" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="344.0767" Y-CENTER="48.2155" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>

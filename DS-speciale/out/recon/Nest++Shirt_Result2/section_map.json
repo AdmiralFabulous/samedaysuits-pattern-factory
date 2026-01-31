@@ -1,0 +1,329 @@
+{
+  "filename": "Nest++Shirt_Result2.MRK",
+  "filesize": 221593,
+  "sha256": "057d79025660b6f29b1c6f03887a958d40f0e35ea8d50b297ddcb03c0367b133",
+  "file_type": "mrk",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      27,
+      76,
+      429346641,
+      88,
+      4,
+      10,
+      537527606,
+      1953723722,
+      1650553888,
+      222061932,
+      115155,
+      1836597052,
+      1702240364,
+      1869181810,
+      824327534
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      3.783505853677006e-44,
+      1.064986832886861e-43,
+      1.5645069703299423e-23,
+      1.233142648605839e-43,
+      5.605193857299268e-45,
+      1.401298464324817e-44,
+      1.1690778826698635e-19,
+      5.805405486846705e-31,
+      1.613665246593243e-40,
+      2.360902140452481e-09
+    ],
+    "likely_version": "27.76",
+    "likely_section_count": 88
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 48,
+      "end_offset": 19179,
+      "size": 19131,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<MARKER>\r\n   <OPTITEX>15.0.134.0</OPTITEX>\r\n   <NEST>\r\n    ",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "xml",
+      "start_offset": 19184,
+      "end_offset": 22161,
+      "size": 2977,
+      "preview": "<STYLE>\r\n      <NAME></NAME>\r\n      <FILENAME>C:\\DEMOFILE\\FB-BODY.DSN</FILENAME>\r\n      <MATERIAL></",
+      "signature": "3c5354594c453e0d0a2020202020203c4e414d45"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 115217,
+      "end_offset": 119461,
+      "size": 4244,
+      "preview": "JPEG image (4244 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 12,
+      "string": " Just table<"
+    },
+    {
+      "offset": 48,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 89,
+      "length": 8,
+      "string": "<MARKER>"
+    },
+    {
+      "offset": 99,
+      "length": 32,
+      "string": "   <OPTITEX>15.0.134.0</OPTITEX>"
+    },
+    {
+      "offset": 133,
+      "length": 9,
+      "string": "   <NEST>"
+    },
+    {
+      "offset": 144,
+      "length": 41,
+      "string": "      <NAME>Standard Quick Nesting</NAME>"
+    },
+    {
+      "offset": 187,
+      "length": 29,
+      "string": "      <VERSION>0.00</VERSION>"
+    },
+    {
+      "offset": 218,
+      "length": 22,
+      "string": "      <BUILD>0</BUILD>"
+    },
+    {
+      "offset": 242,
+      "length": 41,
+      "string": "      <AUTOCOMPACTION>-1</AUTOCOMPACTION>"
+    },
+    {
+      "offset": 285,
+      "length": 10,
+      "string": "   </NEST>"
+    },
+    {
+      "offset": 297,
+      "length": 38,
+      "string": "   <UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 337,
+      "length": 51,
+      "string": "   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>"
+    },
+    {
+      "offset": 390,
+      "length": 26,
+      "string": "   <NAME>Just table</NAME>"
+    },
+    {
+      "offset": 418,
+      "length": 84,
+      "string": "   <FILENAME>V:\\3D Samples\\Sample pack O15\\Marker\\Nest++Shirt_Result2.MRK</FILENAME>"
+    },
+    {
+      "offset": 504,
+      "length": 24,
+      "string": "   <DATE>12.05.15</DATE>"
+    },
+    {
+      "offset": 530,
+      "length": 28,
+      "string": "   <LENGTH>571.0599</LENGTH>"
+    },
+    {
+      "offset": 560,
+      "length": 26,
+      "string": "   <WIDTH>147.3211</WIDTH>"
+    },
+    {
+      "offset": 588,
+      "length": 35,
+      "string": "   <EFFICIENCY>81.9171</EFFICIENCY>"
+    },
+    {
+      "offset": 625,
+      "length": 30,
+      "string": "   <SUM_AREA>6.8916</SUM_AREA>"
+    },
+    {
+      "offset": 657,
+      "length": 44,
+      "string": "   <SUM_PERIMETER>10802.0333</SUM_PERIMETER>"
+    },
+    {
+      "offset": 703,
+      "length": 31,
+      "string": "   <NB_OF_PLIES>1</NB_OF_PLIES>"
+    },
+    {
+      "offset": 736,
+      "length": 36,
+      "string": "   <LAYOUT_MODE>Single</LAYOUT_MODE>"
+    },
+    {
+      "offset": 774,
+      "length": 26,
+      "string": "   <FOLDING>none</FOLDING>"
+    },
+    {
+      "offset": 802,
+      "length": 40,
+      "string": "   <PLACED_ON_TABLE>82</PLACED_ON_TABLE>"
+    },
+    {
+      "offset": 844,
+      "length": 12,
+      "string": "   <STRIPES>"
+    },
+    {
+      "offset": 858,
+      "length": 61,
+      "string": "      <VERTICAL STEP=\"12.7000\" ANGLE=\"0.0\" OFFSET=\"2.5400\" />"
+    },
+    {
+      "offset": 921,
+      "length": 63,
+      "string": "      <HORIZONTAL STEP=\"22.8600\" ANGLE=\"0.0\" OFFSET=\"1.2700\" />"
+    },
+    {
+      "offset": 986,
+      "length": 13,
+      "string": "   </STRIPES>"
+    },
+    {
+      "offset": 1001,
+      "length": 14,
+      "string": "   <INTERNALS>"
+    },
+    {
+      "offset": 1017,
+      "length": 12,
+      "string": "      <DRAW>"
+    },
+    {
+      "offset": 1031,
+      "length": 32,
+      "string": "         <QUANTITY>24</QUANTITY>"
+    },
+    {
+      "offset": 1065,
+      "length": 42,
+      "string": "         <SUM_LENGTH>199.6361</SUM_LENGTH>"
+    },
+    {
+      "offset": 1109,
+      "length": 13,
+      "string": "      </DRAW>"
+    },
+    {
+      "offset": 1124,
+      "length": 11,
+      "string": "      <CUT>"
+    },
+    {
+      "offset": 1137,
+      "length": 32,
+      "string": "         <QUANTITY>60</QUANTITY>"
+    },
+    {
+      "offset": 1171,
+      "length": 42,
+      "string": "         <SUM_LENGTH>188.4956</SUM_LENGTH>"
+    },
+    {
+      "offset": 1215,
+      "length": 12,
+      "string": "      </CUT>"
+    },
+    {
+      "offset": 1229,
+      "length": 15,
+      "string": "   </INTERNALS>"
+    },
+    {
+      "offset": 1246,
+      "length": 12,
+      "string": "   <NOTCHES>"
+    },
+    {
+      "offset": 1260,
+      "length": 13,
+      "string": "      <PUNCH>"
+    },
+    {
+      "offset": 1275,
+      "length": 33,
+      "string": "         <QUANTITY>292</QUANTITY>"
+    },
+    {
+      "offset": 1310,
+      "length": 42,
+      "string": "         <SUM_LENGTH>511.0034</SUM_LENGTH>"
+    },
+    {
+      "offset": 1354,
+      "length": 14,
+      "string": "      </PUNCH>"
+    },
+    {
+      "offset": 1370,
+      "length": 13,
+      "string": "   </NOTCHES>"
+    },
+    {
+      "offset": 1385,
+      "length": 10,
+      "string": "   <STYLE>"
+    },
+    {
+      "offset": 1397,
+      "length": 19,
+      "string": "      <NAME></NAME>"
+    },
+    {
+      "offset": 1418,
+      "length": 46,
+      "string": "      <FILENAME>C:\\DEMOFILE\\JKT.DSN</FILENAME>"
+    },
+    {
+      "offset": 1466,
+      "length": 27,
+      "string": "      <MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1495,
+      "length": 12,
+      "string": "      <SIZE>"
+    },
+    {
+      "offset": 1509,
+      "length": 23,
+      "string": "         <NAME>M</NAME>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 48-19179 (19131 bytes)",
+    "Found XML at offset 19184-22161 (2977 bytes)",
+    "Found JPEG at offset 115217-119461 (4244 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted XML to embedded_01.xml",
+    "Extracted JPEG to embedded_02.jpg"
+  ]
+}

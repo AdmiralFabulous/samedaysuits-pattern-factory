@@ -1,0 +1,280 @@
+[
+  {
+    "filename": "Basic Pants.MRK",
+    "filesize": 313596,
+    "sha256": "d155e4f2947c864a4e7bace90fcf65a493b0e9c1818aa686d38e00a0e431dc6f",
+    "file_type": "mrk",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "MARKER",
+        "start_offset": 49,
+        "end_offset": 39196,
+        "size": 39147,
+        "sha256": "2aa0d0ae8b8ca4212f85e9b80327e8b4dfb260e43589ede8858acf67b9030a69",
+        "output_file": "xml_00_MARKER.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 39212,
+        "end_offset": 43549,
+        "size": 4337,
+        "sha256": "611746fb4118cdeda4ab55d27b3b0f73f630e3f2bdc6a689fdbbf81f84b6950d",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted MARKER XML (39,147 bytes) to xml_00_MARKER.xml",
+      "Extracted JPEG (4,337 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Jacket Sloper.MRK",
+    "filesize": 238787,
+    "sha256": "abf33a5d5f370aeb36fed20a7a939286bf64d1732403f2b2e27f1db29fade012",
+    "file_type": "mrk",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "MARKER",
+        "start_offset": 51,
+        "end_offset": 89421,
+        "size": 89370,
+        "sha256": "a880c33e5fcd2bf7ea3de813f057b3114a9e4b14e1c3ae1104d8b12576dcb277",
+        "output_file": "xml_00_MARKER.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 89437,
+        "end_offset": 95105,
+        "size": 5668,
+        "sha256": "142e2a073080d684596eb0293e27c5733f28064294cc68ae6a1e1177915d8a75",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted MARKER XML (89,370 bytes) to xml_00_MARKER.xml",
+      "Extracted JPEG (5,668 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Nest++Shirt_Result2.MRK",
+    "filesize": 221593,
+    "sha256": "057d79025660b6f29b1c6f03887a958d40f0e35ea8d50b297ddcb03c0367b133",
+    "file_type": "mrk",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "MARKER",
+        "start_offset": 48,
+        "end_offset": 115201,
+        "size": 115153,
+        "sha256": "cfaad16172f60fb47c9380a2817f46419ba04b0491c1ddb60a35dddbc49d549c",
+        "output_file": "xml_00_MARKER.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 115217,
+        "end_offset": 119461,
+        "size": 4244,
+        "sha256": "e80e3707afbbf41a08ff0c91832c77adceb936e061116dd65828b676cca7831f",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted MARKER XML (115,153 bytes) to xml_00_MARKER.xml",
+      "Extracted JPEG (4,244 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Stripe Pants.MRK",
+    "filesize": 155308,
+    "sha256": "40964d23c4bc33cc2647abdeebc1e6b566d37636414c1973541b57fe18854ec2",
+    "file_type": "mrk",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "MARKER",
+        "start_offset": 48,
+        "end_offset": 70758,
+        "size": 70710,
+        "sha256": "0fef7a15bdaef6cfc61c0f7240447e9a7b4c7d620f58700ab7a05619109995ae",
+        "output_file": "xml_00_MARKER.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 70774,
+        "end_offset": 77113,
+        "size": 6339,
+        "sha256": "8256513a56e6a4c4de518f57099e7fefb7ab579a4d5e2d462660441d4a68fb53",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted MARKER XML (70,710 bytes) to xml_00_MARKER.xml",
+      "Extracted JPEG (6,339 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Stripe Pants_Result4.MRK",
+    "filesize": 154934,
+    "sha256": "ac6e3a8748821d695920296f842252303464c398a4be58da2ec5fd8c8a31393f",
+    "file_type": "mrk",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "MARKER",
+        "start_offset": 48,
+        "end_offset": 70624,
+        "size": 70576,
+        "sha256": "da629f09742dc853cb699b2d8ec419c39ac5139cf4d88eedcf2c694700927ed6",
+        "output_file": "xml_00_MARKER.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 70640,
+        "end_offset": 76895,
+        "size": 6255,
+        "sha256": "3ce2fee56bd60f60260f2b36a200738a929030d83e792af465fce6b80f5dbaec",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted MARKER XML (70,576 bytes) to xml_00_MARKER.xml",
+      "Extracted JPEG (6,255 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Basic Tee_2D.PDS",
+    "filesize": 287395,
+    "sha256": "fbe616d6764d87cf70f437d6de09e17c297d634e6d57c023d55a4456c78f70d1",
+    "file_type": "pds",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "STYLE",
+        "start_offset": 2572,
+        "end_offset": 17243,
+        "size": 14671,
+        "sha256": "3c525bae0391d0ae044020476194adc280704ece241c63d8b15ff65b99a1707d",
+        "output_file": "xml_00_STYLE.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 74,
+        "end_offset": 2564,
+        "size": 2490,
+        "sha256": "d9dbe2a87316f805c1d48bd0b707c82de0a355341aa167d6857b4fec4b139b1f",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted STYLE XML (14,671 bytes) to xml_00_STYLE.xml",
+      "Extracted JPEG (2,490 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Light  Jacket_2D.PDS",
+    "filesize": 166659,
+    "sha256": "435635b73ced19674cc7e5e7956b4ed77570844c931407d33cf4ebbf0aebbd22",
+    "file_type": "pds",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "STYLE",
+        "start_offset": 44,
+        "end_offset": 22895,
+        "size": 22851,
+        "sha256": "14d7f35f95c0f27179de5d654249e5575bc16cc594e23990b3cdfd154c0ca891",
+        "output_file": "xml_00_STYLE.xml"
+      }
+    ],
+    "jpeg_images": [],
+    "notes": [
+      "Extracted STYLE XML (22,851 bytes) to xml_00_STYLE.xml"
+    ]
+  },
+  {
+    "filename": "Skinny Cargo_2D.PDS",
+    "filesize": 413842,
+    "sha256": "42f4e5334e010351b8a46ae4ca26a95a184ef7eb8d040d37c936300a502a4d86",
+    "file_type": "pds",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "STYLE",
+        "start_offset": 2606,
+        "end_offset": 56698,
+        "size": 54092,
+        "sha256": "7ceec65bfa34b08dad22555183ce56b0605f326656c196ea067f2c2b71d4d290",
+        "output_file": "xml_00_STYLE.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 62,
+        "end_offset": 2598,
+        "size": 2536,
+        "sha256": "0c6ad94bc4564ff58b751c006ebed934020979913a32fcdcda014c3365a8b782",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted STYLE XML (54,092 bytes) to xml_00_STYLE.xml",
+      "Extracted JPEG (2,536 bytes) to image_00.jpg"
+    ]
+  },
+  {
+    "filename": "Skinny Trousers_2D.PDS",
+    "filesize": 376372,
+    "sha256": "1c5e525f372d1c191f40d053a07623b4cbf2ef5756a4aed16011037c46a3a715",
+    "file_type": "pds",
+    "magic": "dc54ef12",
+    "xml_documents": [
+      {
+        "index": 0,
+        "root_tag": "STYLE",
+        "start_offset": 2584,
+        "end_offset": 33321,
+        "size": 30737,
+        "sha256": "b5452ff92e9f6a3506ea41414af11dcdc66a48024e85c9e83e237659f27de719",
+        "output_file": "xml_00_STYLE.xml"
+      }
+    ],
+    "jpeg_images": [
+      {
+        "index": 0,
+        "start_offset": 62,
+        "end_offset": 2576,
+        "size": 2514,
+        "sha256": "70d59b9a40d24cc79f38193e0f67fc52101f2f55ae5645e1a72ea02d49e08d39",
+        "output_file": "image_00.jpg"
+      }
+    ],
+    "notes": [
+      "Extracted STYLE XML (30,737 bytes) to xml_00_STYLE.xml",
+      "Extracted JPEG (2,514 bytes) to image_00.jpg"
+    ]
+  }
+]

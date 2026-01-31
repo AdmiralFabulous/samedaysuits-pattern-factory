@@ -1,0 +1,608 @@
+{
+  "type": "pattern",
+  "filename": "D:\\temp\\2D Sample Pack\\Light  Jacket_2D.PDS",
+  "name": "",
+  "optitex_version": "21.0.273.0",
+  "date": "04.02.21",
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "sizes": [
+    "Small",
+    "Medium",
+    "Large"
+  ],
+  "base_size": "Small",
+  "pieces": [
+    {
+      "name": "P1",
+      "code": "",
+      "unique_id": "U00001",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -178.1978,
+        "y": 78.8914
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.234,
+          "perimeter": 194.3067,
+          "sew_area": 0.2103,
+          "sew_perimeter": 182.0798,
+          "size_x": 21.4068,
+          "size_y": 63.5687
+        },
+        {
+          "name": "Medium",
+          "area": 0.2481,
+          "perimeter": 199.7035,
+          "sew_area": 0.2238,
+          "sew_perimeter": 187.4726,
+          "size_x": 22.1344,
+          "size_y": 65.0733
+        },
+        {
+          "name": "Large",
+          "area": 0.2627,
+          "perimeter": 205.0988,
+          "sew_area": 0.2376,
+          "sew_perimeter": 192.8666,
+          "size_x": 22.8634,
+          "size_y": 66.5777
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P3",
+      "code": "",
+      "unique_id": "U00018",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -96.1535,
+        "y": 70.9462
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.1192,
+          "perimeter": 158.1717,
+          "sew_area": 0.0988,
+          "sew_perimeter": 143.832,
+          "size_x": 22.4687,
+          "size_y": 60.386
+        },
+        {
+          "name": "Medium",
+          "area": 0.1258,
+          "perimeter": 161.9499,
+          "sew_area": 0.1049,
+          "sew_perimeter": 147.8461,
+          "size_x": 23.1039,
+          "size_y": 61.8841
+        },
+        {
+          "name": "Large",
+          "area": 0.1326,
+          "perimeter": 165.7349,
+          "sew_area": 0.1111,
+          "sew_perimeter": 151.8618,
+          "size_x": 23.7394,
+          "size_y": 63.3825
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P4",
+      "code": "",
+      "unique_id": "U00019",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -138.9795,
+        "y": 59.8497
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0476,
+          "perimeter": 111.8618,
+          "sew_area": 0.0341,
+          "sew_perimeter": 100.0353,
+          "size_x": 12.5795,
+          "size_y": 47.5325
+        },
+        {
+          "name": "Medium",
+          "area": 0.05,
+          "perimeter": 114.5431,
+          "sew_area": 0.0361,
+          "sew_perimeter": 102.7691,
+          "size_x": 12.8648,
+          "size_y": 48.661
+        },
+        {
+          "name": "Large",
+          "area": 0.0524,
+          "perimeter": 117.2295,
+          "sew_area": 0.0382,
+          "sew_perimeter": 105.5037,
+          "size_x": 13.1503,
+          "size_y": 49.7915
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P5",
+      "code": "",
+      "unique_id": "U00020",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -117.6019,
+        "y": 70.9662
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0494,
+          "perimeter": 114.7187,
+          "sew_area": 0.0355,
+          "sew_perimeter": 102.3235,
+          "size_x": 12.9568,
+          "size_y": 48.1391
+        },
+        {
+          "name": "Medium",
+          "area": 0.0521,
+          "perimeter": 117.5494,
+          "sew_area": 0.0379,
+          "sew_perimeter": 105.2484,
+          "size_x": 13.3264,
+          "size_y": 49.2516
+        },
+        {
+          "name": "Large",
+          "area": 0.055,
+          "perimeter": 120.3908,
+          "sew_area": 0.0403,
+          "sew_perimeter": 108.1748,
+          "size_x": 13.6963,
+          "size_y": 50.3686
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P6",
+      "code": "",
+      "unique_id": "U00021",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.2635,
+        "y": 96.5376
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.1685,
+          "perimeter": 181.4847,
+          "sew_area": 0.1463,
+          "sew_perimeter": 169.6008,
+          "size_x": 73.3122,
+          "size_y": 29.5742
+        },
+        {
+          "name": "Medium",
+          "area": 0.1757,
+          "perimeter": 184.5628,
+          "sew_area": 0.1532,
+          "sew_perimeter": 172.6873,
+          "size_x": 74.4174,
+          "size_y": 30.477
+        },
+        {
+          "name": "Large",
+          "area": 0.1831,
+          "perimeter": 187.6423,
+          "sew_area": 0.1602,
+          "sew_perimeter": 175.7758,
+          "size_x": 75.5222,
+          "size_y": 31.379
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P7",
+      "code": "",
+      "unique_id": "U00022",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -8.8529,
+        "y": 75.9056
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0443,
+          "perimeter": 123.2184,
+          "sew_area": 0.0294,
+          "sew_perimeter": 111.0018,
+          "size_x": 54.8439,
+          "size_y": 12.1096
+        },
+        {
+          "name": "Medium",
+          "area": 0.0458,
+          "perimeter": 124.703,
+          "sew_area": 0.0307,
+          "sew_perimeter": 112.5644,
+          "size_x": 55.4262,
+          "size_y": 12.2477
+        },
+        {
+          "name": "Large",
+          "area": 0.0474,
+          "perimeter": 126.1962,
+          "sew_area": 0.032,
+          "sew_perimeter": 114.1286,
+          "size_x": 56.0119,
+          "size_y": 12.4721
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "P8",
+      "code": "",
+      "unique_id": "U00023",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -10.5117,
+        "y": 115.9891
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0411,
+          "perimeter": 121.5475,
+          "sew_area": 0.0264,
+          "sew_perimeter": 109.2685,
+          "size_x": 54.5016,
+          "size_y": 10.7309
+        },
+        {
+          "name": "Medium",
+          "area": 0.0421,
+          "perimeter": 122.8231,
+          "sew_area": 0.0272,
+          "sew_perimeter": 110.6189,
+          "size_x": 55.0441,
+          "size_y": 10.9304
+        },
+        {
+          "name": "Large",
+          "area": 0.0431,
+          "perimeter": 124.1072,
+          "sew_area": 0.0281,
+          "sew_perimeter": 111.9712,
+          "size_x": 55.59,
+          "size_y": 11.1987
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Piece2",
+      "code": "",
+      "unique_id": "U00008",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -48.1421,
+        "y": 94.4514
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0155,
+          "perimeter": 58.2,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 7.0,
+          "size_y": 22.1
+        },
+        {
+          "name": "Medium",
+          "area": 0.0158,
+          "perimeter": 59.2,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 7.0,
+          "size_y": 22.6
+        },
+        {
+          "name": "Large",
+          "area": 0.0162,
+          "perimeter": 60.2,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 7.0,
+          "size_y": 23.1
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "@Piece1",
+      "code": "",
+      "unique_id": "U00010",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -130.8487,
+        "y": 8.2923
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.068,
+          "perimeter": 208.242,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 48.5605,
+          "size_y": 7.0
+        },
+        {
+          "name": "Medium",
+          "area": 0.0708,
+          "perimeter": 216.242,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 50.5605,
+          "size_y": 7.0
+        },
+        {
+          "name": "Large",
+          "area": 0.0736,
+          "perimeter": 224.242,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 52.5605,
+          "size_y": 7.0
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Piece3",
+      "code": "",
+      "unique_id": "U00004",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -127.6889,
+        "y": 126.6449
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0216,
+          "perimeter": 104.9937,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 22.7089,
+          "size_y": 13.6507
+        },
+        {
+          "name": "Medium",
+          "area": 0.0222,
+          "perimeter": 106.8528,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 23.0078,
+          "size_y": 14.0198
+        },
+        {
+          "name": "Large",
+          "area": 0.0229,
+          "perimeter": 108.7226,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 23.3067,
+          "size_y": 14.389
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "@P13",
+      "code": "",
+      "unique_id": "U00007",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": -75.061,
+        "y": 69.58
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "Small",
+          "area": 0.0063,
+          "perimeter": 128.24,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.5,
+          "size_y": 63.12
+        },
+        {
+          "name": "Medium",
+          "area": 0.0065,
+          "perimeter": 131.24,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.5,
+          "size_y": 64.62
+        },
+        {
+          "name": "Large",
+          "area": 0.0066,
+          "perimeter": 134.24,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.5,
+          "size_y": 66.12
+        }
+      ],
+      "grading_rules": []
+    }
+  ],
+  "summary": {
+    "piece_count": 11,
+    "size_count": 3,
+    "total_area": 0.0,
+    "total_perimeter": 0.0
+  }
+}

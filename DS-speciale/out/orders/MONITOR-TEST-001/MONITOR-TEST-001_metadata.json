@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "MONITOR-TEST-001",
+    "customer_id": "CLI-USER",
+    "garment_type": "tee",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 100.0,
+      "waist_cm": 90.0,
+      "hip_cm": 100.0,
+      "shoulder_width_cm": null,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "manual",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-31T01:19:24.358541"
+  },
+  "production": {
+    "template": "Basic Tee_2D.PDS",
+    "piece_count": 7,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 40.952582885085576,
+    "utilization_percent": 76.4611803114127,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": true,
+      "base_size": "Large",
+      "scale_x": 0.9803921568627451,
+      "scale_y": 1.0,
+      "size_match_quality": 0.8
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\MONITOR-TEST-001\\MONITOR-TEST-001.plt"
+  },
+  "processed_at": "2026-01-31T01:20:09.382559"
+}

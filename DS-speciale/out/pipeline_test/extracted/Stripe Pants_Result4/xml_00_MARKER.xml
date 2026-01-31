@@ -1,0 +1,1295 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Just table</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Stripe Pants_Result4.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>649.9252</LENGTH>
+   <WIDTH>160.0001</WIDTH>
+   <EFFICIENCY>70.1009</EFFICIENCY>
+   <SUM_AREA>7.2897</SUM_AREA>
+   <SUM_PERIMETER>8181.2763</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>50</PLACED_ON_TABLE>
+   <STRIPES>
+      <VERTICAL STEP="10.0000" ANGLE="0.0" OFFSET="0.0000" />
+      <HORIZONTAL STEP="0.0000" ANGLE="0.0" />
+   </STRIPES>
+   <INTERNALS>
+      <DRILL>
+         <HOLE DIAMETER="1.0000" QUANTITY="10" />
+      </DRILL>
+   </INTERNALS>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>210</QUANTITY>
+         <SUM_LENGTH>367.5000</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME></NAME>
+      <FILENAME>G:\SGS\ZMIRIT\PANTS WITH PLEATS IN FRONT.dsn</FILENAME>
+      <MATERIAL>MATERIAL</MATERIAL>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.3637</SUM_AREA>
+         <SUM_PERIMETER>1598.9321</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="109.7252" SIZE_Y="33.4212" AREA="0.2894" PERIMETER="271.3529" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.5438" Y="20.3034" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="546.2626" Y-CENTER="18.0895" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="595.0626" Y-CENTER="115.7895" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.5456" SIZE_Y="37.4174" AREA="0.3109" PERIMETER="276.9010" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.2801" Y="109.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="426.5728" Y-CENTER="81.3914" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="433.8728" Y-CENTER="118.7914" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="76.0000" SIZE_Y="9.0000" AREA="0.0684" PERIMETER="169.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="287.2000" Y-CENTER="44.6001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="97.1000" Y-CENTER="86.7001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.9000" Y-CENTER="157.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="129.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="13.8362" Y-CENTER="35.9451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="13.8362" Y-CENTER="48.3451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.4104</SUM_AREA>
+         <SUM_PERIMETER>1617.5546</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="110.2252" SIZE_Y="34.7214" AREA="0.3001" PERIMETER="274.0201" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.0438" Y="19.8040" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="537.0126" Y-CENTER="89.8394" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="544.3126" Y-CENTER="142.2394" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="112.0556" SIZE_Y="38.7152" AREA="0.3218" PERIMETER="279.5451" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.7800" Y="109.7583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="279.1278" Y-CENTER="68.1425" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="323.5278" Y-CENTER="140.6425" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="80.0000" SIZE_Y="9.0000" AREA="0.0720" PERIMETER="177.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="198.2000" Y-CENTER="145.4001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="203.5000" Y-CENTER="64.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.0000" Y-CENTER="155.8001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="133.3501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="13.8362" Y-CENTER="120.5451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="13.8362" Y-CENTER="151.8451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.4575</SUM_AREA>
+         <SUM_PERIMETER>1636.2166</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="110.7252" SIZE_Y="36.0216" AREA="0.3109" PERIMETER="276.6956" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.5439" Y="19.3046" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="436.3626" Y-CENTER="19.3893" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="500.8626" Y-CENTER="51.6893" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="112.5655" SIZE_Y="40.0133" AREA="0.3327" PERIMETER="282.2006" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.2800" Y="110.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="168.2827" Y-CENTER="46.3935" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="168.4827" Y-CENTER="86.4935" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="84.0000" SIZE_Y="9.0000" AREA="0.0756" PERIMETER="185.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="172.0000" Y-CENTER="155.5001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="224.0000" Y-CENTER="154.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="61.2000" Y-CENTER="86.7001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="136.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="60.1362" Y-CENTER="45.2451" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="87.8362" Y-CENTER="42.6451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.5050</SUM_AREA>
+         <SUM_PERIMETER>1654.9173</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.2252" SIZE_Y="37.3218" AREA="0.3218" PERIMETER="279.3785" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.0440" Y="18.8053" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="325.1126" Y-CENTER="100.2392" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="390.0126" Y-CENTER="47.8392" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="113.0754" SIZE_Y="41.3115" AREA="0.3438" PERIMETER="284.8680" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.7800" Y="110.7583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.5377" Y-CENTER="107.4443" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="101.6377" Y-CENTER="139.3443" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="88.0000" SIZE_Y="9.0000" AREA="0.0792" PERIMETER="193.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="157.6000" Y-CENTER="15.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="234.5000" Y-CENTER="101.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="76.1000" Y-CENTER="156.2001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="140.3501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="126.8362" Y-CENTER="110.9451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="127.4362" Y-CENTER="62.7451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.5529</SUM_AREA>
+         <SUM_PERIMETER>1673.6557</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.7252" SIZE_Y="38.6220" AREA="0.3327" PERIMETER="282.0692" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.5428" Y="18.2935" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="213.5626" Y-CENTER="121.4891" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="279.3626" Y-CENTER="20.6891" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="113.5852" SIZE_Y="42.6099" AREA="0.3549" PERIMETER="287.5465" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.2800" Y="111.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.7926" Y-CENTER="22.6952" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="56.7926" Y-CENTER="65.3952" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="92.0000" SIZE_Y="9.0000" AREA="0.0828" PERIMETER="201.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="159.2000" Y-CENTER="5.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="234.6000" Y-CENTER="38.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="123.5000" Y-CENTER="73.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="143.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="179.6362" Y-CENTER="66.8451" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="194.5362" Y-CENTER="24.6451" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>
+   <VIEW FACTOR="0.04" >
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.00cm" height="6.40cm" viewBox="0 0 64995 16002" >
+         <rect x="1" y="1" width="64994" height="16001" fill="#663399" stroke="#402b2b" stroke-width="1" />
+         <polygon fill="#404000" comment="BACK" stroke="#590202" stroke-width="2" points="2277,12813 2504,12738 2648,12680 2714,12646 2775,12606 2828,12560 2889,12488 2924,12434 2968,12344 3005,12245 3035,12137 3052,12061 3138,11601 3994,11853 4477,11982 4802,12057 5176,12128 5552,12186 6565,12316 11303,12419 11350,13372 11360,13780 11355,14189 11332,14733 11303,15277 6564,15418 4140,15660 2929,15791 2324,15861 1699,15862 1388,15851 1181,15835 992,15811 732,15764 162,15638 94,14551 43,14393 70,14228 1,13124 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2277,12813 L2303,12909" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6565,12316 L6556,12416" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6564,15418 L6554,15319" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M10953,15288 L10950,15188" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2324,15861 L2320,15761" />
+         </g>
+         <polygon fill="#404000" comment="BACK" stroke="#590202" stroke-width="2" points="2277,10380 2504,10455 2648,10513 2714,10547 2775,10587 2828,10633 2889,10705 2924,10759 2968,10849 3005,10948 3035,11056 3052,11132 3138,11592 3994,11340 4477,11210 4802,11136 5176,11065 5552,11007 6565,10877 11303,10774 11350,9821 11360,9413 11355,9004 11332,8460 11303,7916 6564,7775 4140,7533 2929,7402 2324,7332 1699,7331 1388,7341 1181,7358 992,7382 732,7429 162,7555 94,8641 43,8800 70,8965 1,10069 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2277,10380 L2303,10284" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6565,10877 L6556,10777" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6564,7775 L6554,7874" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M10953,7905 L10950,8005" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2324,7332 L2320,7432" />
+         </g>
+         <polygon fill="#008000" comment="BACK" stroke="#590202" stroke-width="2" points="2277,4373 2566,4269 2633,4239 2696,4205 2754,4166 2804,4120 2863,4048 2896,3995 2925,3936 2972,3806 2999,3699 3015,3623 3088,3191 3942,3432 4426,3555 4751,3626 5125,3692 5501,3746 6515,3864 11253,3955 11300,4891 11309,5292 11304,5693 11282,6228 11253,6763 6514,6890 4119,7125 2922,7253 2324,7321 1699,7322 1388,7312 1181,7295 992,7271 732,7224 162,7098 94,6062 43,5903 70,5738 1,4684 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2277,4373 L2304,4469" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6515,3864 L6507,3964" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6514,6890 L6504,6790" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M10903,6772 L10901,6672" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2324,7321 L2320,7222" />
+         </g>
+         <polygon fill="#008000" comment="BACK" stroke="#590202" stroke-width="2" points="13543,1183 13254,1079 13187,1049 13123,1015 13066,976 13015,930 12957,858 12924,805 12895,746 12848,616 12820,509 12805,433 12732,1 11878,242 11394,365 11069,436 10695,502 10319,556 9305,674 4567,765 4520,1701 4511,2102 4516,2503 4538,3038 4566,3573 9305,3700 11701,3935 12898,4063 13495,4131 14121,4132 14432,4122 14638,4105 14828,4081 15087,4034 15658,3908 15726,2872 15777,2713 15749,2548 15819,1494 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13543,1183 L13515,1279" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M9305,674 L9312,774" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M9306,3700 L9316,3600" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4916,3582 L4919,3482" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13495,4131 L13500,4032" />
+         </g>
+         <polygon fill="#000080" comment="BACK" stroke="#590202" stroke-width="2" points="13477,10513 13753,10408 13818,10378 13878,10344 13932,10305 13980,10261 14037,10189 14068,10135 14095,10077 14138,9947 14163,9841 14177,9766 14237,9361 15089,9590 15573,9708 15899,9775 16273,9837 16649,9887 17665,9993 22403,10070 22449,10989 22458,11383 22453,11777 22431,12302 22403,12828 17664,12942 15297,13170 14115,13295 13524,13362 12899,13362 12588,13352 12381,13335 12192,13311 11932,13265 11362,13138 11294,12152 11243,11993 11270,11829 11201,10824 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13477,10513 L13505,10609" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17665,9993 L17658,10093" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17664,12942 L17654,12842" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22053,12836 L22051,12736" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13524,13362 L13520,13262" />
+         </g>
+         <polygon fill="#000080" comment="BACK" stroke="#590202" stroke-width="2" points="13497,8200 13773,8305 13838,8335 13898,8369 13952,8408 14000,8453 14057,8524 14088,8578 14115,8637 14158,8766 14183,8873 14197,8948 14257,9352 15109,9123 15593,9005 15919,8938 16293,8876 16669,8827 17685,8720 22423,8644 22469,7724 22478,7330 22473,6936 22451,6411 22423,5886 17684,5772 15317,5543 14135,5418 13544,5352 12919,5351 12608,5361 12401,5378 12212,5402 11952,5449 11382,5575 11314,6562 11263,6720 11290,6885 11221,7889 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13497,8200 L13525,8104" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17685,8720 L17678,8621" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17684,5772 L17674,5871" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22073,5877 L22071,5977" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13544,5352 L13540,5452" />
+         </g>
+         <polygon fill="#404000" comment="FRONT" stroke="#590202" stroke-width="2" points="22195,5255 21375,5315 20884,5361 20558,5403 20273,5450 19903,5523 19289,5664 18791,5783 18672,5519 18618,5421 18572,5354 18538,5313 18500,5277 18459,5245 18404,5212 18312,5172 18245,5150 17956,5078 17920,5072 17927,5173 15842,5079 15784,3426 15771,3171 15787,2919 15784,2374 17719,1921 18069,1952 19430,2111 20710,2243 22196,2388 26944,2472 26888,3612 26886,3865 26929,4879 26943,5132 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17723,5164 L17728,5064" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15933,5083 L15938,4983" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15835,4879 L15935,4875" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15783,3425 L15883,3420" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15771,3171 L15871,3171" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15787,2919 L15887,2922" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17952,1942 L17942,2041" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22196,2388 L22190,2488" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26943,5132 L26870,5064" />
+         </g>
+         <polygon fill="#404000" comment="FRONT" stroke="#590202" stroke-width="2" points="28775,12529 27955,12470 27464,12423 27138,12381 26853,12334 26483,12261 25869,12120 25371,12001 25252,12265 25198,12363 25152,12430 25118,12471 25080,12507 25039,12539 24984,12572 24892,12612 24825,12634 24536,12707 24500,12712 24507,12611 22422,12706 22364,14359 22351,14613 22367,14865 22364,15410 24299,15863 24649,15832 26010,15674 27290,15541 28776,15396 33524,15312 33468,14172 33466,13919 33509,12905 33523,12652 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24303,12620 L24308,12720" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22513,12701 L22518,12801" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22415,12906 L22515,12909" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22363,14359 L22463,14364" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22351,14613 L22451,14613" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22367,14865 L22467,14862" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24532,15843 L24522,15743" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28776,15396 L28770,15296" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33523,12652 L33450,12720" />
+         </g>
+         <polygon fill="#800000" comment="BACK" stroke="#590202" stroke-width="2" points="24587,8373 24851,8267 24912,8237 24969,8203 25021,8165 25066,8121 25120,8049 25150,7996 25175,7937 25197,7875 25215,7808 25230,7738 25248,7628 25297,7251 26147,7469 26631,7581 26957,7644 27245,7690 27621,7738 28252,7799 28725,7842 33463,7905 33508,8808 33517,9194 33512,9581 33491,10097 33463,10613 28724,10713 26386,10936 25218,11057 24634,11122 24009,11123 23698,11112 23491,11095 23302,11071 23042,11025 22472,10898 22404,9962 22353,9803 22380,9639 22311,8684 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24587,8373 L24616,8469" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28725,7842 L28719,7941" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28724,10713 L28714,10614" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33113,10620 L33111,10520" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24634,11122 L24630,11022" />
+         </g>
+         <polygon fill="#800000" comment="BACK" stroke="#590202" stroke-width="2" points="29027,2750 29291,2856 29352,2886 29409,2920 29461,2959 29506,3002 29560,3074 29590,3128 29615,3186 29637,3249 29655,3315 29670,3385 29688,3495 29737,3873 30587,3654 31071,3542 31397,3479 31685,3433 32061,3386 32692,3324 33165,3282 37903,3219 37948,2316 37957,1929 37952,1542 37931,1026 37903,511 33164,410 30826,188 29658,66 29074,2 28449,1 28138,11 27931,28 27742,52 27482,99 26912,225 26844,1162 26793,1320 26820,1485 26751,2439 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29027,2750 L29056,2654" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33165,3282 L33159,3182" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33164,410 L33154,510" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37553,503 L37551,603" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29074,2 L29070,102" />
+         </g>
+         <polygon fill="#008000" comment="FRONT" stroke="#590202" stroke-width="2" points="33325,7357 32505,7406 32015,7447 31690,7485 31404,7528 31034,7597 30419,7730 29921,7843 29810,7592 29747,7477 29717,7435 29685,7396 29650,7361 29611,7331 29558,7298 29467,7258 29402,7237 29136,7168 29100,7162 29107,7263 27022,7169 26964,5566 26951,5311 26967,5059 26964,4564 28899,4111 29396,4157 30620,4299 31885,4428 33326,4566 38074,4637 38019,5755 38018,6004 38059,6999 38073,7247 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28903,7254 L28908,7154" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M27113,7173 L27118,7073" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M27014,6969 L27114,6965" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26963,5565 L27063,5560" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26951,5311 L27051,5311" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26967,5059 L27067,5062" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29132,4133 L29122,4232" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33326,4566 L33321,4666" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38073,7247 L38000,7179" />
+         </g>
+         <polygon fill="#008000" comment="FRONT" stroke="#590202" stroke-width="2" points="39815,9837 38995,9788 38505,9747 38180,9709 37894,9666 37524,9597 36909,9464 36411,9351 36300,9602 36237,9718 36207,9759 36175,9798 36140,9833 36101,9863 36048,9896 35957,9936 35892,9958 35626,10026 35590,10032 35597,9931 33512,10026 33454,11629 33441,11883 33457,12135 33454,12630 35389,13083 35886,13037 37110,12895 38375,12766 39816,12628 44564,12557 44509,11439 44508,11190 44549,10195 44563,9947 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M35393,9940 L35398,10040" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33603,10021 L33608,10121" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33504,10225 L33604,10229" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33453,11629 L33553,11634" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33441,11883 L33541,11883" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33457,12135 L33557,12132" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M35622,13061 L35612,12962" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39816,12628 L39811,12528" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44563,9947 L44490,10015" />
+         </g>
+         <polygon fill="#00ff00" comment="BACK" stroke="#590202" stroke-width="2" points="39357,7084 39608,6976 39667,6946 39721,6912 39770,6875 39813,6832 39864,6760 39892,6706 39915,6648 39934,6586 39950,6520 39963,6450 39979,6341 40016,5991 40863,6198 41349,6304 41674,6364 41963,6406 42339,6449 42970,6503 43445,6540 48183,6590 48227,7476 48236,7856 48231,8236 48210,8742 48183,9248 43444,9335 41134,9551 39981,9669 39404,9732 38779,9733 38468,9722 38261,9706 38072,9681 37812,9635 37242,9509 37174,8622 37123,8463 37150,8299 37081,7395 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39357,7084 L39387,7179" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43445,6540 L43439,6640" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43444,9335 L43434,9236" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47833,9255 L47831,9155" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39404,9732 L39400,9632" />
+         </g>
+         <polygon fill="#00ff00" comment="BACK" stroke="#590202" stroke-width="2" points="40087,4900 40338,5007 40397,5038 40451,5071 40500,5109 40543,5152 40594,5224 40622,5278 40645,5336 40664,5398 40680,5464 40693,5534 40709,5643 40746,5993 41593,5786 42079,5679 42404,5620 42693,5578 43069,5535 43700,5480 44175,5444 48913,5394 48957,4508 48966,4128 48961,3748 48940,3242 48913,2736 44174,2648 41864,2433 40711,2315 40134,2252 39509,2251 39198,2261 38991,2278 38802,2302 38542,2349 37972,2475 37904,3361 37853,3520 37880,3685 37811,4589 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M40087,4900 L40117,4805" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44175,5444 L44169,5344" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44174,2648 L44164,2748" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48563,2729 L48561,2829" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M40134,2252 L40130,2352" />
+         </g>
+         <polygon fill="#000080" comment="FRONT" stroke="#590202" stroke-width="2" points="42849,12706 43668,12666 44158,12632 44483,12598 44769,12557 45140,12493 45756,12367 46253,12261 46356,12499 46415,12609 46472,12685 46505,12719 46541,12748 46593,12780 46682,12820 46747,12841 46988,12906 47025,12912 47018,12811 49103,12906 49161,14458 49174,14713 49158,14965 49161,15410 47226,15863 46725,15817 45493,15677 44242,15551 42848,15419 38101,15362 38155,14265 38156,14021 38115,13046 38101,12802 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47221,12820 L47217,12920" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49011,12901 L49007,13001" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49110,13105 L49010,13109" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49161,14459 L49061,14464" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49174,14713 L49074,14713" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49158,14965 L49058,14962" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M46992,15841 L47002,15742" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M42848,15419 L42854,15320" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38101,12802 L38174,12870" />
+         </g>
+         <polygon fill="#000080" comment="FRONT" stroke="#590202" stroke-width="2" points="49299,12189 50118,12228 50608,12263 50933,12297 51219,12337 51590,12401 52206,12527 52703,12633 52806,12395 52865,12285 52922,12209 52955,12176 52991,12146 53043,12114 53132,12074 53197,12053 53438,11988 53475,11982 53468,12083 55553,11989 55611,10436 55624,10181 55608,9929 55611,9484 53676,9031 53175,9077 51943,9218 50692,9343 49298,9475 44551,9532 44605,10629 44606,10873 44565,11849 44551,12092 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M53671,12074 L53667,11974" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55461,11993 L55457,11893" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55560,11789 L55460,11785" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55611,10435 L55511,10431" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55624,10181 L55524,10181" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55608,9929 L55508,9932" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M53442,9053 L53452,9152" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49298,9475 L49304,9575" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44551,12092 L44624,12024" />
+         </g>
+         <polygon fill="#800000" comment="FRONT" stroke="#590202" stroke-width="2" points="54465,8350 53647,8380 53158,8408 52832,8438 52546,8475 52175,8535 51558,8653 51062,8753 50968,8528 50913,8424 50860,8351 50830,8320 50771,8275 50688,8233 50594,8199 50377,8138 50339,8132 50347,8233 48262,8139 48204,6636 48191,6381 48207,6129 48204,5734 50139,5281 50644,5328 51887,5466 53330,5607 54466,5713 59214,5757 59161,6832 59160,7072 59213,8267 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50143,8224 L50148,8124" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48353,8143 L48357,8043" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48254,7939 L48354,7935" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48204,6636 L48303,6631" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48191,6381 L48291,6381" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48207,6129 L48307,6132" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50372,5303 L50363,5402" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54466,5713 L54461,5813" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M59213,8267 L59141,8199" />
+         </g>
+         <polygon fill="#800000" comment="FRONT" stroke="#590202" stroke-width="2" points="55195,444 54377,414 53888,386 53562,356 53276,319 52905,259 52288,141 51792,41 51698,266 51643,370 51590,443 51560,474 51501,519 51418,562 51324,595 51107,656 51069,662 51077,561 48992,656 48934,2158 48921,2413 48937,2665 48934,3060 50869,3513 51374,3466 52617,3328 54060,3187 55196,3081 59944,3037 59891,1962 59890,1722 59943,527 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50873,570 L50878,670" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49083,651 L49087,751" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48984,855 L49084,859" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48934,2158 L49033,2163" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48921,2413 L49021,2413" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48937,2665 L49037,2662" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M51102,3492 L51093,3392" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55196,3081 L55191,2981" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M59943,527 L59871,595" />
+         </g>
+         <polygon fill="#00ff00" comment="FRONT" stroke="#590202" stroke-width="2" points="55365,15502 54548,15521 54059,15544 53734,15570 53448,15603 53076,15658 52458,15769 51962,15863 51876,15651 51827,15553 51778,15484 51750,15454 51694,15411 51613,15368 51521,15335 51327,15278 51289,15272 51297,15373 49212,15279 49141,13571 49157,13319 49154,12974 51089,12521 51600,12568 52695,12689 53917,12809 55366,12942 60114,12972 60062,14026 60061,14261 60113,15432 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M51093,15364 L51098,15264" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49303,15283 L49307,15183" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49204,15079 L49304,15075" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49154,13826 L49253,13822" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49141,13571 L49241,13571" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49157,13319 L49257,13322" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M51322,12543 L51313,12642" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55366,12942 L55361,13041" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M60113,15432 L60041,15364" />
+         </g>
+         <polygon fill="#00ff00" comment="FRONT" stroke="#590202" stroke-width="2" points="58769,5732 59587,5751 60076,5774 60401,5800 60687,5833 61059,5888 61677,5999 62173,6093 62258,5881 62308,5783 62357,5714 62385,5684 62441,5641 62522,5598 62614,5565 62807,5508 62846,5502 62838,5603 64923,5509 64994,3801 64978,3549 64981,3204 63046,2751 62535,2798 61439,2919 60217,3039 58768,3172 54021,3202 54073,4256 54074,4491 54021,5662 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M63041,5594 L63037,5494" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M64832,5513 L64827,5413" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M64931,5309 L64831,5305" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M64981,4056 L64881,4052" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M64994,3801 L64894,3801" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M64978,3549 L64878,3552" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M62812,2773 L62822,2872" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M58768,3172 L58773,3271" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54021,5662 L54094,5594" />
+         </g>
+         <polygon fill="#404000" comment="WAIST BAND" stroke="#590202" stroke-width="2" points="11321,15861 11321,14961 20521,14961 20521,15861 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15721,14961 L15721,15061" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20521,14961 L20450,15032" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20521,15861 L20450,15790" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15721,15861 L15721,15761" />
+         </g>
+         <polygon fill="#008000" comment="WAIST BAND" stroke="#590202" stroke-width="2" points="11361,14951 11361,14051 20161,14051 20161,14951 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15561,14051 L15561,14151" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20161,14051 L20090,14122" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20161,14951 L20090,14880" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15561,14951 L15561,14851" />
+         </g>
+         <polygon fill="#000080" comment="WAIST BAND" stroke="#590202" stroke-width="2" points="13001,901 13001,1 21401,1 21401,901 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17001,1 L17001,101" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21401,1 L21330,72" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21401,901 L21330,830" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17001,901 L17001,801" />
+         </g>
+         <polygon fill="#800000" comment="WAIST BAND" stroke="#590202" stroke-width="2" points="15821,1911 15821,1011 23821,1011 23821,1911 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19621,1011 L19621,1111" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23821,1011 L23750,1082" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23821,1911 L23750,1840" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19621,1911 L19621,1811" />
+         </g>
+         <polygon fill="#00ff00" comment="WAIST BAND" stroke="#590202" stroke-width="2" points="24921,11991 24921,11091 32521,11091 32521,11991 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28521,11091 L28521,11191" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M32521,11091 L32450,11162" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M32521,11991 L32450,11920" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28521,11991 L28521,11891" />
+         </g>
+         <polygon fill="#00ff00" comment="LOOPING" stroke="#590202" stroke-width="2" points="1,3191 1,2841 3501,2841 3501,3191 " />
+         <polygon fill="#800000" comment="LOOPING" stroke="#590202" stroke-width="2" points="1,2841 1,2491 3501,2491 3501,2841 " />
+         <polygon fill="#000080" comment="LOOPING" stroke="#590202" stroke-width="2" points="1,2491 1,2141 3501,2141 3501,2491 " />
+         <polygon fill="#008000" comment="LOOPING" stroke="#590202" stroke-width="2" points="1,2141 1,1791 3501,1791 3501,2141 " />
+         <polygon fill="#404000" comment="LOOPING" stroke="#590202" stroke-width="2" points="1,1791 1,1441 3501,1441 3501,1791 " />
+         <polygon fill="#00ff00" comment="facing pocket" stroke="#590202" stroke-width="2" points="22,13022 33,12614 1,12023 669,11886 976,11836 1169,11813 1439,11795 1622,11791 1896,11795 2162,11806 2570,11833 2575,12064 2581,12140 2599,12232 2615,12286 2643,12356 2676,12424 2768,12594 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20,12404 L120,12399" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2164,11806 L2157,11906" />
+         </g>
+         <polygon fill="#00ff00" comment="facing pocket" stroke="#590202" stroke-width="2" points="22,10551 33,10959 1,11550 669,11687 976,11737 1169,11760 1439,11778 1622,11782 1896,11778 2162,11767 2570,11740 2575,11509 2581,11433 2599,11341 2615,11287 2643,11217 2676,11149 2768,10979 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20,11169 L120,11174" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2164,11767 L2157,11667" />
+         </g>
+         <polygon fill="#800000" comment="facing pocket" stroke="#590202" stroke-width="2" points="22,4562 33,4154 1,3563 669,3426 976,3376 1169,3353 1439,3335 1622,3331 1896,3335 2162,3346 2570,3373 2575,3604 2581,3680 2599,3772 2615,3826 2643,3896 2676,3964 2768,4134 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20,3944 L120,3939" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2164,3346 L2157,3446" />
+         </g>
+         <polygon fill="#800000" comment="facing pocket" stroke="#590202" stroke-width="2" points="22,201 33,609 1,1200 669,1337 976,1387 1169,1410 1439,1428 1622,1432 1896,1428 2162,1417 2570,1390 2575,1159 2581,1083 2599,991 2615,937 2643,867 2676,799 2768,629 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20,819 L120,824" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2164,1417 L2157,1317" />
+         </g>
+         <polygon fill="#000080" comment="facing pocket" stroke="#590202" stroke-width="2" points="7377,10861 7366,11269 7398,11860 6730,11997 6423,12047 6231,12070 5960,12088 5777,12092 5503,12088 5237,12077 4829,12050 4824,11819 4818,11743 4801,11651 4785,11597 4757,11527 4723,11459 4631,11289 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7379,11479 L7279,11484" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M5235,12077 L5242,11977" />
+         </g>
+         <polygon fill="#000080" comment="facing pocket" stroke="#590202" stroke-width="2" points="7422,11121 7433,11529 7401,12120 8069,12257 8376,12307 8569,12330 8839,12348 9022,12352 9296,12348 9562,12337 9970,12310 9975,12079 9981,12003 9999,11911 10015,11857 10043,11787 10076,11719 10168,11549 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7420,11739 L7520,11744" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M9564,12337 L9557,12237" />
+         </g>
+         <polygon fill="#008000" comment="facing pocket" stroke="#590202" stroke-width="2" points="11322,5522 11333,5114 11301,4523 11969,4386 12276,4336 12469,4313 12739,4295 12922,4291 13196,4295 13462,4306 13870,4333 13875,4564 13881,4640 13899,4732 13915,4786 13943,4856 13976,4924 14068,5094 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11320,4904 L11420,4899" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13464,4306 L13457,4406" />
+         </g>
+         <polygon fill="#008000" comment="facing pocket" stroke="#590202" stroke-width="2" points="11382,9111 11393,9519 11361,10110 12029,10247 12336,10297 12529,10320 12799,10338 12982,10342 13256,10338 13522,10327 13930,10300 13935,10069 13941,9993 13959,9901 13975,9847 14003,9777 14036,9709 14128,9539 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11380,9729 L11480,9734" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13524,10327 L13517,10227" />
+         </g>
+         <polygon fill="#404000" comment="facing pocket" stroke="#590202" stroke-width="2" points="19327,8701 19316,9109 19348,9700 18680,9837 18373,9887 18181,9910 17910,9928 17727,9932 17453,9928 17187,9917 16779,9890 16774,9659 16768,9583 16751,9491 16735,9437 16707,9367 16673,9299 16581,9129 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19329,9319 L19229,9324" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M17185,9917 L17192,9817" />
+         </g>
+         <polygon fill="#404000" comment="facing pocket" stroke="#590202" stroke-width="2" points="20817,14152 20806,13744 20838,13153 20170,13016 19863,12966 19671,12943 19400,12925 19217,12921 18943,12925 18677,12936 18269,12963 18264,13194 18258,13270 18241,13362 18225,13416 18197,13486 18163,13554 18071,13724 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M20819,13534 L20719,13529" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18675,12936 L18682,13036" />
+         </g>
+         <polygon fill="#00ff00" comment="ZIPPER FACING" stroke="#590202" stroke-width="2" points="8711,7831 8711,6831 10711,6831 10711,7831 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8711,7331 L8811,7331" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8911,6831 L8911,6931" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M10711,7331 L10611,7331" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8911,7831 L8911,7731" />
+         </g>
+         <polygon fill="#800000" comment="ZIPPER FACING" stroke="#590202" stroke-width="2" points="19351,10011 19351,9011 21351,9011 21351,10011 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19351,9511 L19451,9511" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19551,9011 L19551,9111" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21351,9511 L21251,9511" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19551,10011 L19551,9911" />
+         </g>
+         <polygon fill="#000080" comment="ZIPPER FACING" stroke="#590202" stroke-width="2" points="21401,1011 21401,11 23401,11 23401,1011 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21401,511 L21501,511" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21601,11 L21601,111" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23401,511 L23301,511" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21601,1011 L21601,911" />
+         </g>
+         <polygon fill="#008000" comment="ZIPPER FACING" stroke="#590202" stroke-width="2" points="22451,6401 22451,5401 24451,5401 24451,6401 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22451,5901 L22551,5901" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22651,5401 L22651,5501" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24451,5901 L24351,5901" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22651,6401 L22651,6301" />
+         </g>
+         <polygon fill="#404000" comment="ZIPPER FACING" stroke="#590202" stroke-width="2" points="22461,12611 22461,11611 24461,11611 24461,12611 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22461,12111 L22561,12111" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22661,11611 L22661,11711" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24461,12111 L24361,12111" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M22661,12611 L22661,12511" />
+         </g>
+         <polygon fill="#00ff00" comment="ZIPPER FACING 1" stroke="#590202" stroke-width="2" points="2591,601 2591,1 4591,1 4591,601 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M2791,1 L2791,101" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4591,201 L4491,201" />
+         </g>
+         <polygon fill="#800000" comment="ZIPPER FACING 1" stroke="#590202" stroke-width="2" points="4601,721 4601,121 6601,121 6601,721 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4801,121 L4801,221" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6601,321 L6501,321" />
+         </g>
+         <polygon fill="#000080" comment="ZIPPER FACING 1" stroke="#590202" stroke-width="2" points="5121,7631 5121,7031 7121,7031 7121,7631 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M5321,7031 L5321,7131" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7121,7231 L7021,7231" />
+         </g>
+         <polygon fill="#008000" comment="ZIPPER FACING 1" stroke="#590202" stroke-width="2" points="6611,681 6611,81 8611,81 8611,681 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6811,81 L6811,181" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8611,281 L8511,281" />
+         </g>
+         <polygon fill="#404000" comment="ZIPPER FACING 1" stroke="#590202" stroke-width="2" points="11351,8911 11351,8311 13351,8311 13351,8911 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11551,8311 L11551,8411" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M13351,8511 L13251,8511" />
+         </g>
+      </svg>
+   </VIEW>
+</MARKER>

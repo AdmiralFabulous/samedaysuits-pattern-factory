@@ -1,0 +1,9 @@
+{
+  "customer_type": "FAT_MAN",
+  "order_id": "SCAN-FAT-MAN-001-20260131015852",
+  "plt_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-FAT-MAN-001-20260131015852\\SCAN-FAT-MAN-001-20260131015852.plt",
+  "metadata_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\SCAN-FAT-MAN-001-20260131015852\\SCAN-FAT-MAN-001-20260131015852_metadata.json",
+  "fabric_length_cm": 54.07779444359432,
+  "fabric_utilization": 78.69561974590954,
+  "piece_count": 15
+}

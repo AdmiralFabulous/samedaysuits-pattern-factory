@@ -1,0 +1,247 @@
+{
+  "timestamp": "2026-01-29T14:11:00.264313+00:00",
+  "input_dir": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs",
+  "output_dir": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001",
+  "files": [
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\mrk\\Basic Pants.MRK",
+      "type": "mrk",
+      "sha256": "d155e4f2947c864a4e7bace90fcf65a493b0e9c1818aa686d38e00a0e431dc6f",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "success"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Basic Pants\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "marker",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Basic Pants_MARKER_canonical.json",
+            "root_tag": "MARKER"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Basic Pants.dxf"
+        ],
+        "plt": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Basic Pants.plt"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\mrk\\Jacket Sloper.MRK",
+      "type": "mrk",
+      "sha256": "abf33a5d5f370aeb36fed20a7a939286bf64d1732403f2b2e27f1db29fade012",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "success"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Jacket Sloper\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "marker",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Jacket Sloper_MARKER_canonical.json",
+            "root_tag": "MARKER"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Jacket Sloper.dxf"
+        ],
+        "plt": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Jacket Sloper.plt"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\mrk\\Nest++Shirt_Result2.MRK",
+      "type": "mrk",
+      "sha256": "057d79025660b6f29b1c6f03887a958d40f0e35ea8d50b297ddcb03c0367b133",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "success"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Nest++Shirt_Result2\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "marker",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Nest++Shirt_Result2_MARKER_canonical.json",
+            "root_tag": "MARKER"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Nest++Shirt_Result2.dxf"
+        ],
+        "plt": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Nest++Shirt_Result2.plt"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\mrk\\Stripe Pants.MRK",
+      "type": "mrk",
+      "sha256": "40964d23c4bc33cc2647abdeebc1e6b566d37636414c1973541b57fe18854ec2",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "success"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Stripe Pants\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "marker",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Stripe Pants_MARKER_canonical.json",
+            "root_tag": "MARKER"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Stripe Pants.dxf"
+        ],
+        "plt": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Stripe Pants.plt"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\mrk\\Stripe Pants_Result4.MRK",
+      "type": "mrk",
+      "sha256": "ac6e3a8748821d695920296f842252303464c398a4be58da2ec5fd8c8a31393f",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "success"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Stripe Pants_Result4\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "marker",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Stripe Pants_Result4_MARKER_canonical.json",
+            "root_tag": "MARKER"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Stripe Pants_Result4.dxf"
+        ],
+        "plt": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Stripe Pants_Result4.plt"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Basic Tee_2D.PDS",
+      "type": "pds",
+      "sha256": "fbe616d6764d87cf70f437d6de09e17c297d634e6d57c023d55a4456c78f70d1",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "skipped"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Basic Tee_2D\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "pattern",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Basic Tee_2D_STYLE_canonical.json",
+            "root_tag": "STYLE"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Basic Tee_2D.dxf"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Light  Jacket_2D.PDS",
+      "type": "pds",
+      "sha256": "435635b73ced19674cc7e5e7956b4ed77570844c931407d33cf4ebbf0aebbd22",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "skipped"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Light  Jacket_2D\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "pattern",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Light  Jacket_2D_STYLE_canonical.json",
+            "root_tag": "STYLE"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Light  Jacket_2D.dxf"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Skinny Cargo_2D.PDS",
+      "type": "pds",
+      "sha256": "42f4e5334e010351b8a46ae4ca26a95a184ef7eb8d040d37c936300a502a4d86",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "skipped"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Skinny Cargo_2D\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "pattern",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Skinny Cargo_2D_STYLE_canonical.json",
+            "root_tag": "STYLE"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Skinny Cargo_2D.dxf"
+        ]
+      },
+      "errors": []
+    },
+    {
+      "input": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Skinny Trousers_2D.PDS",
+      "type": "pds",
+      "sha256": "1c5e525f372d1c191f40d053a07623b4cbf2ef5756a4aed16011037c46a3a715",
+      "steps": {
+        "extract": "success",
+        "parse": "success",
+        "dxf": "success",
+        "hpgl": "skipped"
+      },
+      "outputs": {
+        "extraction_manifest": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\extracted\\Skinny Trousers_2D\\extraction_manifest.json",
+        "canonical": [
+          {
+            "type": "pattern",
+            "file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\canonical\\Skinny Trousers_2D_STYLE_canonical.json",
+            "root_tag": "STYLE"
+          }
+        ],
+        "dxf": [
+          "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\run_001\\exports\\Skinny Trousers_2D.dxf"
+        ]
+      },
+      "errors": []
+    }
+  ]
+}

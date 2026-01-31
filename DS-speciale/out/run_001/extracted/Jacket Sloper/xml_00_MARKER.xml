@@ -1,0 +1,1187 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Jacket Sloper</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Jacket Sloper.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>601.3232</LENGTH>
+   <WIDTH>148.0000</WIDTH>
+   <EFFICIENCY>79.1333</EFFICIENCY>
+   <SUM_AREA>7.0425</SUM_AREA>
+   <SUM_PERIMETER>12905.8512</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>72</PLACED_ON_TABLE>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>156</QUANTITY>
+         <SUM_LENGTH>139.2002</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME>Jacket Sloper-For Eva</NAME>
+      <FILENAME>K:\Install\Ver10 Samples\PDS\Slopers-Blocks for Eva+3D\Jacket Sloper-For Eva.PDS</FILENAME>
+      <MATERIAL></MATERIAL>
+      <SIZE>
+         <NAME>34</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.0781</SUM_AREA>
+         <SUM_PERIMETER>2111.0324</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.3576" SIZE_Y="24.0640" AREA="0.1186" PERIMETER="245.8974" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.2251" Y="-22.9834" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="239.5658" Y-CENTER="126.1818" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="291.9646" Y-CENTER="23.2909" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.6257" SIZE_Y="27.1460" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.3164" Y-CENTER="93.9256" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="173.7338" Y-CENTER="39.5874" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="11.9150" AREA="0.0362" PERIMETER="115.5739" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="559.3556" Y-CENTER="113.8798" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="576.8995" Y-CENTER="79.4576" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="65.7024" SIZE_Y="18.6000" AREA="0.0881" PERIMETER="159.0503" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="554.1052" Y-CENTER="9.3096" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="567.7831" Y-CENTER="138.6903" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="61.9148" SIZE_Y="22.5340" AREA="0.0997" PERIMETER="148.2092" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="493.5865" Y-CENTER="24.2877" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="551.8568" Y-CENTER="41.7587" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="12.7071" AREA="0.0541" PERIMETER="129.8340" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="213.4996" Y-CENTER="60.9925" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="408.1013" Y-CENTER="141.6367" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1160</SUM_AREA>
+         <SUM_PERIMETER>2126.9329</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.0261" SIZE_Y="24.3152" AREA="0.1257" PERIMETER="248.9240" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.4207" Y="-22.9259" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="361.7230" Y-CENTER="37.0560" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="491.4205" Y-CENTER="66.0636" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.5321" SIZE_Y="26.3462" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="105.9153" Y-CENTER="134.8069" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="155.8512" Y-CENTER="74.9607" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="12.4150" AREA="0.0384" PERIMETER="116.4868" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="267.0772" Y-CENTER="64.7071" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="510.4990" Y-CENTER="141.7841" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="66.2024" SIZE_Y="19.1000" AREA="0.0921" PERIMETER="161.0310" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="33.1040" Y-CENTER="116.8124" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="443.7668" Y-CENTER="83.6944" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.1081" SIZE_Y="23.0340" AREA="0.1029" PERIMETER="149.3377" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="31.0575" Y-CENTER="52.9873" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="555.8824" Y-CENTER="63.5373" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="13.2071" AREA="0.0567" PERIMETER="130.7356" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="238.4558" Y-CENTER="141.3867" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="462.7974" Y-CENTER="141.2505" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1541</SUM_AREA>
+         <SUM_PERIMETER>2142.8996</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.6915" SIZE_Y="24.5825" AREA="0.1330" PERIMETER="251.9599" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.5907" Y="-22.8829" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="425.7846" Y-CENTER="51.9990" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="442.0967" Y-CENTER="105.5420" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4415" SIZE_Y="25.5825" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="227.0496" Y-CENTER="80.1470" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="305.1128" Y-CENTER="78.0783" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="12.9150" AREA="0.0405" PERIMETER="117.4084" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="559.3556" Y-CENTER="89.8193" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="559.3556" Y-CENTER="126.2947" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="66.7024" SIZE_Y="19.6000" AREA="0.0960" PERIMETER="163.0155" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="374.3909" Y-CENTER="100.9329" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="429.0523" Y-CENTER="31.4620" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.3015" SIZE_Y="23.5340" AREA="0.1060" PERIMETER="150.4693" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="31.1543" Y-CENTER="74.8392" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="441.4583" Y-CENTER="124.9178" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="13.7071" AREA="0.0592" PERIMETER="131.6453" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="149.3806" Y-CENTER="55.0650" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="549.4252" Y-CENTER="24.7586" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.1925</SUM_AREA>
+         <SUM_PERIMETER>2158.9153</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="69.4699" SIZE_Y="25.5922" AREA="0.1403" PERIMETER="255.0044" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.7375" Y="-22.8530" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="375.5806" Y-CENTER="119.5143" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="428.7747" Y-CENTER="12.8055" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4699" SIZE_Y="25.5922" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.2383" Y-CENTER="135.0569" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="305.8736" Y-CENTER="103.6623" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="13.4150" AREA="0.0427" PERIMETER="118.3366" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="430.1043" Y-CENTER="71.0042" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="508.1785" Y-CENTER="127.2454" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.2024" SIZE_Y="20.1000" AREA="0.1000" PERIMETER="164.9997" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="33.6041" Y-CENTER="32.6365" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="174.4210" Y-CENTER="95.0742" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.4950" SIZE_Y="24.0340" AREA="0.1092" PERIMETER="151.6032" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="360.5927" Y-CENTER="56.0651" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="508.1671" Y-CENTER="89.2795" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="14.2071" AREA="0.0617" PERIMETER="132.5623" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="492.7286" Y-CENTER="7.1133" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="564.1933" Y-CENTER="101.7828" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.2313</SUM_AREA>
+         <SUM_PERIMETER>2174.9798</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.2435" SIZE_Y="26.5979" AREA="0.1478" PERIMETER="258.0569" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.8628" Y="-22.8351" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.1315" Y-CENTER="13.3083" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="170.8789" Y-CENTER="114.9763" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4877" SIZE_Y="25.5981" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="293.5297" Y-CENTER="46.5102" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="358.8327" Y-CENTER="12.8082" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="13.9150" AREA="0.0449" PERIMETER="119.2704" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="233.8522" Y-CENTER="21.3904" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="232.9128" Y-CENTER="35.3519" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="67.7024" SIZE_Y="20.6000" AREA="0.1041" PERIMETER="166.9854" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="101.8974" Y-CENTER="115.2564" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="306.9920" Y-CENTER="122.8141" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.6884" SIZE_Y="24.5340" AREA="0.1124" PERIMETER="152.7399" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="239.3748" Y-CENTER="102.7197" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="491.2226" Y-CENTER="46.6197" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="14.7071" AREA="0.0643" PERIMETER="133.4858" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="287.5471" Y-CENTER="7.3632" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="351.6107" Y-CENTER="140.6368" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.2705</SUM_AREA>
+         <SUM_PERIMETER>2191.0912</SUM_PERIMETER>
+         <PIECE>
+            <NAME>frontpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="71.0135" SIZE_Y="27.5997" AREA="0.1554" PERIMETER="261.1181" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="3.9870" Y="-22.8188" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="102.7207" Y-CENTER="32.6960" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="173.9277" Y-CENTER="13.8092" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>frontpanel_42</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="70.4966" SIZE_Y="25.6009" AREA="0.1423" PERIMETER="256.9514" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="105.6343" Y-CENTER="93.9794" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="375.5018" Y-CENTER="80.1642" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sidepanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="48.8474" SIZE_Y="14.4150" AREA="0.0470" PERIMETER="120.2087" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="26.9289" Y="-34.9768" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="233.8310" Y-CENTER="7.2171" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="232.8453" Y-CENTER="49.5315" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>backpanel</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="68.2024" SIZE_Y="21.1000" AREA="0.1082" PERIMETER="168.9726" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="46.4509" Y="-22.1365" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="104.3101" Y-CENTER="10.5596" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="175.0833" Y-CENTER="137.4404" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 1</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="62.8845" SIZE_Y="25.0340" AREA="0.1156" PERIMETER="153.8795" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="6.7144" Y="24.3758" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="93.5198" Y-CENTER="56.7334" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="507.1621" Y-CENTER="112.4876" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>sleeve 2</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="58.5227" SIZE_Y="15.2071" AREA="0.0668" PERIMETER="134.4153" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="10.4797" Y="46.8527" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="90.2906" Y-CENTER="75.8654" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="295.0269" Y-CENTER="140.3868" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>
+   <VIEW FACTOR="0.04" >
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.05cm" height="5.92cm" viewBox="0 0 60134 14802" >
+         <rect x="1" y="1" width="60133" height="14801" fill="#663399" stroke="#402b2b" stroke-width="1" />
+         <polygon fill="#ff00ff" comment="frontpanel" stroke="#590202" stroke-width="2" points="6962,12140 7026,13620 4762,13518 3140,13581 4758,13718 7024,13720 6998,14800 766,14656 753,14351 737,14277 726,14240 689,14151 644,14075 606,14026 544,13965 500,13931 431,13890 366,13860 250,13820 118,13788 2,13765 257,13173 558,12557 1055,12692 1089,12699 1323,12730 1519,12740 1695,12736 1912,12717 2073,12648 2149,12607 2220,12558 2301,12491 2416,12382 2791,12327 2931,12292 3075,12301 4139,12388 4531,12405 4677,12392 4789,12376 5406,12271 5777,12218 6056,12188 6399,12163 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4762,13518 L4763,13448" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4758,13718 L4755,13788" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4578,12403 L4583,12472" />
+         </g>
+         <polygon fill="#0000ff" comment="backpanel" stroke="#590202" stroke-width="2" points="331,12542 1172,12497 1537,12460 2087,12396 2856,12288 4036,12107 4256,12079 4304,12075 4431,12072 4541,12073 6721,12149 6722,10709 5817,10781 5236,10844 4558,10928 4453,10937 4349,10939 4236,10934 4044,10914 3082,10770 1861,10533 1577,10566 1331,10584 1131,10595 814,10595 668,10588 597,10581 402,10553 281,10532 1,11787 176,11961 204,12000 229,12042 261,12108 292,12202 308,12274 323,12396 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4453,10937 L4457,11007" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M1577,10566 L1584,10636" />
+         </g>
+         <polygon fill="#65f9e1" comment="sleeve 1" stroke="#590202" stroke-width="2" points="1239,10587 1047,10439 957,10375 558,10115 432,10025 317,9931 218,9834 137,9732 79,9633 47,9557 24,9474 7,9360 1,9223 5,9140 20,9038 52,8910 90,8807 122,8736 162,8664 219,8577 289,8494 332,8451 443,8351 1026,8404 1607,8465 2188,8536 2767,8615 3345,8703 3922,8800 4497,8905 5071,9019 5642,9141 6212,9273 5942,10654 4738,10483 4089,10421 3525,10396 2984,10399 2444,10430 2221,10451 " />
+         <polygon fill="#e5efb8" comment="sleeve 1" stroke="#590202" stroke-width="2" points="1258,8427 1063,8274 972,8210 529,7915 445,7854 367,7792 261,7695 171,7594 122,7524 100,7488 67,7423 42,7355 23,7282 6,7165 1,7018 6,6941 22,6839 56,6710 95,6606 131,6530 183,6438 228,6374 275,6316 342,6247 463,6140 1045,6193 1627,6255 2207,6326 2786,6405 3364,6493 3941,6589 4516,6695 5090,6809 5662,6931 6232,7062 5961,8494 4757,8323 4109,8261 3544,8236 3003,8239 2463,8270 2240,8291 " />
+         <polygon fill="#0d26bd" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="6901,6766 7036,5341 4770,5333 3153,5191 4775,5133 7039,5241 7064,4211 808,4051 775,4350 755,4422 742,4457 700,4543 650,4615 609,4661 546,4717 506,4744 451,4773 394,4798 327,4821 248,4841 73,4870 1,4880 234,5471 491,6079 997,5961 1225,5937 1283,5935 1457,5934 1605,5942 1810,5967 1867,5978 1966,6005 2072,6047 2139,6084 2206,6132 2271,6188 2393,6312 2765,6381 2893,6420 4094,6381 4500,6384 4645,6406 4742,6425 5353,6560 5722,6631 5999,6675 6340,6716 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4770,5333 L4767,5402" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4775,5133 L4776,5063" />
+         </g>
+         <polygon fill="#65f9e1" comment="backpanel" stroke="#590202" stroke-width="2" points="331,2165 1159,2210 1519,2247 2060,2311 2816,2418 3978,2597 4194,2625 4241,2629 4368,2632 4475,2631 6621,2558 6622,3898 5717,3826 5136,3764 4458,3679 4353,3670 4249,3668 4136,3674 3944,3693 2982,3837 1761,4074 1477,4041 1067,4015 751,4017 638,4023 573,4029 393,4055 281,4075 1,2870 184,2692 223,2635 254,2573 286,2485 302,2418 320,2303 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4353,3670 L4357,3600" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M1477,4041 L1484,3972" />
+         </g>
+         <polygon fill="#0000ff" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="6967,2575 7048,1146 4783,1222 3162,1141 4781,1023 7047,1046 7034,16 776,90 755,390 737,462 726,498 687,585 640,659 601,707 540,764 500,793 447,825 391,851 324,877 247,899 73,936 1,948 256,1530 535,2128 1037,1991 1264,1959 1321,1954 1495,1947 1643,1950 1849,1967 1907,1976 2006,1999 2114,2037 2182,2071 2251,2117 2318,2170 2445,2290 2819,2345 2948,2379 4147,2296 4553,2283 4699,2299 4796,2315 5412,2427 5783,2484 6062,2517 6404,2546 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4783,1222 L4783,1292" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M4781,1023 L4779,953" />
+         </g>
+         <polygon fill="#008000" comment="backpanel" stroke="#590202" stroke-width="2" points="7352,12690 8206,12735 8577,12772 9135,12838 9916,12946 11115,13128 11338,13157 11387,13161 11514,13164 11627,13163 13842,13084 13842,14623 12938,14552 12357,14489 11678,14404 11574,14395 11469,14394 11356,14399 11164,14418 10203,14563 8982,14800 8698,14766 8435,14746 8216,14734 7875,14734 7717,14741 7642,14748 7431,14778 7302,14800 7022,13495 7202,13307 7231,13265 7257,13221 7288,13150 7319,13051 7333,12974 7347,12845 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11574,14395 L11578,14325" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8698,14766 L8705,14697" />
+         </g>
+         <polygon fill="#008000" comment="frontpanel" stroke="#590202" stroke-width="2" points="13778,10151 13824,11682 11561,11555 9938,11599 11554,11754 13820,11782 13781,12911 7476,12695 7470,12384 7456,12309 7446,12272 7410,12181 7367,12103 7330,12053 7268,11987 7226,11954 7159,11910 7094,11878 6973,11833 6845,11798 6722,11770 6977,11168 7301,10534 7811,10672 8086,10711 8288,10720 8468,10716 8690,10696 8856,10625 8934,10582 9007,10531 9090,10462 9209,10350 9583,10294 9734,10258 9889,10268 10952,10367 11345,10389 11491,10378 11602,10363 12220,10265 12592,10216 12872,10188 13215,10168 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11561,11555 L11562,11485" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11554,11754 L11551,11824" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11391,10387 L11395,10457" />
+         </g>
+         <polygon fill="#008000" comment="sleeve 1" stroke="#590202" stroke-width="2" points="7524,7943 7319,8109 7226,8176 6779,8483 6652,8578 6574,8643 6468,8744 6379,8848 6329,8920 6308,8957 6275,9024 6248,9093 6225,9184 6209,9310 6209,9458 6217,9544 6236,9649 6274,9779 6316,9884 6363,9978 6396,10033 6458,10122 6492,10164 6550,10227 6595,10269 6728,10379 7311,10326 7892,10265 8473,10194 9052,10115 9630,10027 10207,9930 10782,9825 11356,9711 11927,9588 12497,9457 12227,7876 11023,8047 10374,8109 9810,8134 9269,8131 8729,8100 8506,8079 " />
+         <polygon fill="#008000" comment="sleeve 2" stroke="#590202" stroke-width="2" points="6944,6468 7762,6561 8307,6612 8716,6641 9124,6659 9532,6663 9826,6656 10176,6636 10570,6601 11122,6535 11704,6454 11956,7548 11381,7679 10966,7759 10801,7787 10403,7846 10217,7870 9829,7912 9631,7929 9042,7964 8587,7974 8452,7975 8012,7967 7863,7961 7438,7937 7274,7924 6863,7883 6687,7862 6104,7776 6466,7550 6506,7515 6544,7475 6633,7370 6684,7296 6745,7194 6798,7084 6834,6998 6891,6815 6912,6724 6933,6597 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6352,7623 L6388,7684" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M6917,6699 L6985,6712" />
+         </g>
+         <polygon fill="#008000" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="14040,6683 14089,5253 11827,5380 10204,5335 11820,5181 14086,5153 14050,4123 7795,4338 7780,4638 7765,4711 7754,4747 7717,4835 7671,4910 7633,4959 7574,5017 7535,5047 7483,5080 7427,5108 7361,5134 7284,5159 7111,5199 7040,5213 7307,5789 7600,6381 8098,6233 8324,6195 8382,6189 8555,6179 8704,6178 8910,6190 8968,6198 9068,6219 9177,6255 9245,6287 9315,6331 9383,6383 9512,6500 9888,6547 10018,6578 11215,6467 11620,6446 11766,6458 11864,6472 12482,6570 12854,6619 13134,6646 13477,6667 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11827,5380 L11828,5450" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11820,5181 L11816,5111" />
+         </g>
+         <polygon fill="#ff00ff" comment="backpanel" stroke="#590202" stroke-width="2" points="7136,2245 7983,2291 8351,2327 8905,2393 9680,2501 10870,2682 11091,2711 11139,2714 11266,2718 11378,2717 13576,2639 13576,4128 12671,4057 12091,3994 11412,3909 11308,3901 11203,3899 11090,3904 10898,3924 9937,4068 8715,4305 8432,4272 8177,4253 7968,4241 7638,4241 7487,4248 7413,4255 7211,4284 7086,4305 6806,3025 6983,2845 7012,2804 7037,2761 7069,2693 7099,2596 7115,2522 7129,2396 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11308,3901 L11311,3831" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8432,4272 L8438,4202" />
+         </g>
+         <polygon fill="#65f9e1" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="13990,2638 14106,1211 11840,1232 10221,1112 11843,1033 14107,1111 14119,81 7861,3 7833,303 7813,375 7801,410 7760,496 7711,569 7671,616 7609,672 7568,700 7515,730 7458,755 7390,779 7312,800 7138,832 7066,842 7306,1430 7571,2035 8076,1910 8303,1884 8361,1880 8535,1877 8683,1883 8888,1905 8946,1916 9045,1941 9152,1982 9219,2018 9287,2065 9352,2120 9476,2243 9849,2308 9977,2344 11178,2290 11584,2288 11729,2307 11826,2325 12439,2452 12808,2518 13086,2558 13428,2595 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11840,1232 L11838,1302" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M11843,1033 L11842,963" />
+         </g>
+         <polygon fill="#65f9e1" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="18983,5988 19100,7414 16833,7393 15215,7513 16836,7592 19101,7514 19113,8544 12855,8622 12826,8323 12807,8251 12795,8215 12753,8129 12705,8056 12665,8009 12602,7953 12562,7926 12508,7895 12452,7870 12384,7847 12306,7826 12131,7794 12060,7783 12300,7195 12565,6590 13069,6715 13297,6742 13355,6745 13528,6748 13677,6742 13882,6720 13940,6709 14038,6684 14145,6643 14213,6607 14280,6560 14346,6505 14470,6382 14843,6318 14971,6281 16171,6335 16577,6338 16723,6318 16820,6300 17433,6173 17802,6107 18080,6067 18422,6030 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M16833,7393 L16831,7323" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M16836,7592 L16836,7662" />
+         </g>
+         <polygon fill="#e5efb8" comment="sleeve 2" stroke="#590202" stroke-width="2" points="12853,8623 13671,8716 14216,8767 14625,8796 15033,8814 15441,8818 15735,8811 16085,8791 16479,8756 17031,8690 17613,8609 17865,9553 17290,9684 16875,9764 16710,9792 16312,9851 16126,9875 15739,9917 15540,9934 14951,9969 14496,9980 14361,9980 13921,9972 13772,9966 13347,9942 13183,9929 12772,9888 12596,9867 12013,9781 12364,9585 12439,9520 12525,9429 12575,9364 12636,9274 12690,9177 12726,9100 12788,8936 12811,8854 12836,8740 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M12257,9646 L12289,9708" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M12817,8831 L12885,8847" />
+         </g>
+         <polygon fill="#008000" comment="frontpanel" stroke="#590202" stroke-width="2" points="20898,14800 20944,13270 18682,13397 17059,13353 18675,13198 20941,13170 20901,12040 14597,12256 14590,12567 14576,12643 14566,12680 14531,12771 14488,12848 14451,12899 14389,12964 14347,12998 14279,13041 14215,13073 14093,13119 13966,13154 13843,13181 14098,13784 14422,14417 14931,14279 15207,14241 15408,14231 15589,14236 15810,14256 15976,14327 16055,14370 16128,14420 16211,14489 16330,14602 16704,14657 16855,14693 17010,14683 18073,14584 18465,14562 18612,14574 18723,14589 19341,14687 19713,14736 19992,14763 20336,14784 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18682,13397 L18683,13467" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18675,13198 L18671,13128" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18512,14564 L18516,14495" />
+         </g>
+         <polygon fill="#0d26bd" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="20743,9485 20878,10910 18611,10918 16995,11059 18617,11117 20880,11010 20906,12040 14649,12200 14617,11900 14597,11829 14584,11793 14541,11708 14492,11635 14451,11589 14388,11534 14347,11507 14293,11477 14236,11453 14168,11430 14090,11410 13915,11380 13843,11371 14075,10780 14333,10172 14839,10290 15067,10313 15124,10316 15298,10316 15447,10309 15651,10284 15709,10272 15807,10246 15914,10203 15981,10167 16048,10119 16112,10063 16235,9939 16607,9869 16735,9831 17936,9869 18341,9866 18487,9845 18584,9826 19195,9691 19563,9620 19841,9576 20182,9535 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18611,10918 L18608,10848" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18617,11117 L18617,11187" />
+         </g>
+         <polygon fill="#0000ff" comment="backpanel" stroke="#590202" stroke-width="2" points="14413,4289 15254,4334 15619,4371 16169,4435 16937,4543 18118,4724 18338,4752 18385,4756 18513,4759 18622,4758 20803,4682 20803,6122 19899,6050 19318,5987 18639,5902 18535,5894 18430,5892 18317,5897 18126,5917 17164,6061 15943,6298 15659,6265 15413,6247 15213,6236 14895,6236 14749,6243 14679,6250 14483,6277 14363,6299 14083,5044 14257,4870 14286,4831 14311,4789 14343,4723 14374,4629 14389,4557 14405,4435 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18535,5894 L18539,5824" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15659,6265 L15666,6195" />
+         </g>
+         <polygon fill="#ff00ff" comment="frontpanel" stroke="#590202" stroke-width="2" points="20537,4633 20601,3153 18337,3255 16715,3193 18333,3056 20599,3053 20573,1973 14341,2117 14327,2423 14312,2497 14301,2533 14264,2622 14218,2698 14180,2747 14119,2809 14075,2842 14006,2883 13941,2913 13825,2953 13692,2986 13577,3009 13831,3601 14133,4217 14629,4082 14664,4075 14898,4043 15094,4033 15270,4037 15486,4056 15648,4125 15724,4167 15795,4216 15876,4282 15991,4391 16366,4447 16506,4482 16649,4473 17714,4386 18105,4368 18252,4381 18363,4397 18981,4503 19352,4556 19631,4586 19974,4611 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18337,3255 L18337,3325" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18333,3056 L18330,2986" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18153,4371 L18158,4301" />
+         </g>
+         <polygon fill="#008000" comment="backpanel" stroke="#590202" stroke-width="2" points="14429,2112 15283,2067 15654,2030 16212,1964 16993,1856 18192,1674 18415,1645 18464,1641 18591,1638 18705,1639 20919,1718 20919,179 20015,250 19434,313 18756,398 18651,407 18547,408 18434,403 18242,384 17280,239 16059,2 15775,36 15512,56 15294,68 14952,68 14795,61 14719,54 14509,24 14379,2 14099,1307 14279,1495 14308,1537 14334,1581 14365,1652 14396,1751 14411,1828 14424,1957 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18651,407 L18655,477" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15775,36 L15782,105" />
+         </g>
+         <polygon fill="#e5efb8" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="26130,5507 26228,6935 23962,6886 22342,6986 23963,7085 26228,7035 26227,8065 19969,8065 19944,7765 19926,7693 19914,7658 19873,7571 19826,7497 19786,7450 19724,7394 19685,7365 19631,7334 19575,7308 19507,7284 19430,7262 19256,7228 19184,7217 19431,6631 19704,6030 20207,6161 20434,6191 20492,6195 20666,6199 20814,6195 21019,6176 21077,6166 21176,6142 21284,6102 21351,6067 21420,6021 21486,5967 21611,5846 21985,5786 22114,5751 23313,5820 23719,5827 23865,5810 23962,5793 24577,5674 24947,5612 25225,5575 25568,5543 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23962,6886 L23961,6816" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23963,7085 L23961,7155" />
+         </g>
+         <polygon fill="#0d26bd" comment="sleeve 2" stroke="#590202" stroke-width="2" points="19265,8080 20083,8173 20628,8224 21037,8253 21445,8271 21853,8275 22147,8268 22497,8248 22891,8213 23443,8147 24025,8066 24277,8911 23702,9042 23287,9121 23122,9149 22724,9208 22538,9232 22150,9274 21951,9291 21363,9326 20908,9337 20773,9337 20333,9329 20183,9324 19759,9299 19595,9286 19184,9246 19008,9224 18425,9138 18769,8962 18841,8904 18925,8822 18975,8763 19035,8681 19090,8593 19127,8522 19191,8371 19216,8295 19245,8189 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18665,9014 L18696,9077" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M19223,8272 L19290,8291" />
+         </g>
+         <polygon fill="#ff00ff" comment="sleeve 1" stroke="#590202" stroke-width="2" points="22099,3369 21898,3531 21806,3597 21360,3900 21234,3994 21120,4092 21022,4192 20940,4298 20882,4399 20853,4467 20840,4506 20822,4578 20805,4701 20804,4853 20811,4932 20829,5036 20848,5111 20885,5220 20907,5272 20950,5358 21000,5442 21046,5508 21105,5577 21183,5654 21304,5756 21886,5703 22468,5641 23048,5571 23628,5491 24206,5403 24783,5307 25358,5201 25931,5087 26503,4965 27073,4834 26802,3302 25598,3473 24950,3535 24386,3560 23845,3557 23305,3526 23082,3505 " />
+         <polygon fill="#0d26bd" comment="frontpanel" stroke="#590202" stroke-width="2" points="27170,980 27301,2255 25035,2263 23418,2404 25040,2462 27304,2355 27325,3235 21394,3386 21350,3102 21328,3035 21314,3002 21268,2920 21216,2853 21174,2810 21116,2764 21076,2740 21021,2713 20956,2689 20888,2671 20783,2652 20590,2633 20846,2080 21060,1535 21505,1663 21710,1697 21957,1713 22080,1711 22275,1696 22431,1631 22498,1594 22560,1550 22620,1502 22723,1407 23097,1352 23194,1322 23296,1329 24363,1364 24751,1363 24802,1357 24993,1324 25622,1186 25991,1115 26268,1071 26609,1029 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M25035,2263 L25032,2193" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M25040,2462 L25041,2532" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24802,1357 L24811,1427" />
+         </g>
+         <polygon fill="#65f9e1" comment="sleeve 2" stroke="#590202" stroke-width="2" points="21761,16 22579,108 23124,160 23533,189 23941,207 24349,211 24643,204 24993,184 25387,148 25939,83 26521,2 26773,896 26198,1027 25782,1107 25618,1134 25220,1194 25034,1218 24646,1260 24447,1277 23858,1312 23403,1322 23269,1323 22828,1315 22679,1309 22255,1284 22090,1272 21680,1231 21504,1210 20920,1124 21268,937 21342,876 21427,790 21477,728 21537,642 21591,549 21628,476 21691,318 21715,239 21742,128 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21163,994 L21194,1057" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21722,215 L21789,233" />
+         </g>
+         <polygon fill="#008000" comment="sidepanel" stroke="#590202" stroke-width="2" points="25826,14800 25380,14782 25046,14757 24927,14743 24649,14701 23714,14517 23453,14478 23193,14451 22906,14436 22561,14431 21945,14444 21566,14441 21623,14274 21633,14213 21636,14156 21630,14075 21616,14011 21597,13953 21556,13866 21517,13806 21449,13722 21385,13659 21307,13597 21208,13532 21140,13492 20942,13393 23161,13561 23405,13583 23558,13584 23663,13575 24550,13467 24922,13429 25826,13359 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23451,14477 L23460,14408" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21945,14444 L21944,14374" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21636,14156 L21706,14155" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23558,13584 L23561,13654" />
+         </g>
+         <polygon fill="#ff00ff" comment="sidepanel" stroke="#590202" stroke-width="2" points="25829,11966 25382,11984 25048,12009 24929,12023 24651,12065 23716,12249 23455,12289 23195,12315 22908,12331 22563,12335 21947,12322 21568,12326 21624,12477 21636,12546 21637,12611 21628,12682 21612,12743 21589,12800 21543,12886 21502,12944 21455,13000 21383,13069 21315,13123 21219,13185 21118,13240 20944,13323 23163,13155 23407,13133 23560,13132 23665,13141 24553,13249 24924,13287 25828,13358 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23453,12289 L23462,12358" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21947,12322 L21946,12392" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21638,12586 L21708,12585" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23560,13132 L23564,13063" />
+         </g>
+         <polygon fill="#ff00ff" comment="sidepanel" stroke="#590202" stroke-width="2" points="25735,11962 25288,11944 24954,11918 24835,11905 24557,11862 23622,11679 23361,11639 23101,11613 22815,11597 22469,11592 21853,11605 21474,11602 21530,11451 21542,11382 21543,11317 21534,11246 21518,11185 21495,11128 21449,11042 21408,10984 21361,10928 21289,10859 21221,10805 21125,10742 21024,10688 20850,10605 23069,10773 23313,10795 23466,10795 23571,10787 24459,10679 24830,10641 25734,10570 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23359,11639 L23368,11569" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21853,11605 L21852,11535" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21544,11342 L21614,11342" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23466,10795 L23470,10865" />
+         </g>
+         <polygon fill="#008000" comment="sidepanel" stroke="#590202" stroke-width="2" points="25728,9127 25281,9145 24947,9170 24829,9184 24550,9226 23615,9410 23355,9450 23094,9476 22808,9492 22462,9496 21846,9483 21467,9487 21525,9653 21535,9714 21537,9772 21531,9853 21518,9916 21499,9974 21457,10061 21419,10121 21350,10205 21286,10268 21208,10331 21110,10396 21041,10435 20843,10534 23062,10366 23306,10344 23459,10343 23564,10352 24452,10460 24823,10498 25728,10569 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23352,9450 L23361,9519" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21846,9483 L21846,9553" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M21537,9772 L21607,9772" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M23459,10343 L23463,10273" />
+         </g>
+         <polygon fill="#65f9e1" comment="sidepanel" stroke="#590202" stroke-width="2" points="29151,7710 28704,7727 28370,7753 28252,7766 27973,7809 27038,7992 26778,8032 26517,8059 26231,8074 25885,8079 25270,8066 24891,8069 24944,8179 24958,8233 24960,8289 24947,8346 24912,8433 24878,8494 24839,8552 24794,8606 24746,8655 24695,8698 24608,8759 24518,8809 24392,8866 24266,8916 26485,8749 26729,8726 26882,8726 26988,8734 27875,8842 28246,8880 29151,8951 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26776,8032 L26784,8102" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M25270,8066 L25269,8136" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M24961,8254 L25030,8250" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26882,8726 L26886,8656" />
+         </g>
+         <polygon fill="#ff00ff" comment="sleeve 2" stroke="#590202" stroke-width="2" points="26670,14786 27488,14694 28033,14642 28442,14613 28850,14595 29258,14591 29552,14598 29902,14618 30296,14654 30848,14719 31430,14800 31682,13756 31107,13625 30691,13545 30527,13518 30129,13458 29943,13434 29555,13392 29356,13375 28767,13340 28312,13330 28178,13329 27737,13337 27588,13343 27164,13368 27000,13380 26589,13421 26413,13442 25830,13528 26188,13744 26227,13777 26265,13816 26353,13916 26404,13987 26465,14085 26518,14190 26554,14273 26613,14451 26634,14538 26656,14661 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26076,13675 L26111,13614" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26639,14563 L26708,14549" />
+         </g>
+         <polygon fill="#0d26bd" comment="frontpanel" stroke="#590202" stroke-width="2" points="32410,13675 32541,12400 30275,12392 28658,12251 30280,12193 32544,12300 32565,11420 26634,11269 26590,11552 26567,11620 26554,11653 26508,11734 26456,11802 26414,11845 26356,11891 26316,11915 26261,11942 26196,11965 26128,11984 26023,12003 25830,12022 26085,12575 26300,13119 26744,12992 26950,12958 27197,12942 27320,12944 27515,12958 27671,13024 27738,13061 27800,13104 27860,13153 27962,13248 28337,13303 28434,13332 28535,13326 29603,13291 29991,13292 30042,13297 30233,13330 30862,13469 31231,13540 31508,13584 31849,13625 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M30275,12392 L30272,12462" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M30280,12193 L30281,12123" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M30042,13297 L30050,13228" />
+         </g>
+         <polygon fill="#ff00ff" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="32813,11430 32878,10000 30614,10102 28992,10039 30610,9903 32876,9900 32851,8870 26595,9014 26577,9315 26560,9387 26549,9423 26511,9511 26465,9585 26426,9634 26366,9692 26327,9721 26274,9753 26218,9780 26151,9806 26074,9830 25901,9868 25830,9881 26090,10460 26377,11055 26876,10913 27103,10878 27161,10873 27334,10864 27483,10864 27688,10879 27747,10888 27846,10910 27955,10947 28023,10980 28093,11025 28160,11078 28288,11196 28663,11247 28792,11279 29990,11182 30396,11165 30542,11180 30640,11194 31257,11299 31628,11352 31907,11383 32250,11407 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M30614,10102 L30615,10172" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M30610,9903 L30607,9833" />
+         </g>
+         <polygon fill="#e5efb8" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="33936,8272 34034,6844 31769,6894 30149,6794 31769,6695 34034,6744 34033,5714 27775,5714 27750,6014 27732,6086 27720,6122 27680,6209 27632,6282 27592,6329 27531,6386 27491,6414 27437,6445 27381,6471 27314,6496 27236,6517 27062,6552 26990,6563 27238,7148 27510,7749 28013,7618 28241,7589 28298,7585 28472,7580 28620,7584 28826,7604 28884,7614 28983,7638 29090,7677 29158,7712 29226,7758 29292,7813 29417,7934 29791,7994 29920,8029 31120,7960 31525,7952 31672,7970 31769,7986 32383,8106 32753,8167 33032,8204 33374,8237 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M31769,6894 L31767,6964" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M31769,6695 L31768,6625" />
+         </g>
+         <polygon fill="#0000ff" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="34030,3155 34112,4584 31847,4508 30226,4589 31845,4707 34111,4684 34098,5714 27840,5640 27818,5340 27801,5268 27789,5232 27750,5145 27703,5071 27664,5023 27603,4966 27564,4937 27511,4905 27455,4879 27388,4854 27310,4831 27137,4795 27065,4783 27319,4200 27599,3602 28100,3739 28327,3771 28385,3776 28559,3783 28707,3781 28912,3763 28971,3754 29070,3731 29178,3693 29246,3659 29315,3613 29381,3560 29508,3440 29883,3385 30012,3351 31211,3435 31616,3447 31763,3431 31860,3415 32476,3303 32846,3246 33125,3213 33468,3184 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M31847,4508 L31846,4438" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M31845,4707 L31843,4777" />
+         </g>
+         <polygon fill="#ff00ff" comment="backpanel" stroke="#590202" stroke-width="2" points="27645,3550 28492,3504 28860,3468 29414,3402 30189,3294 31379,3113 31600,3084 31649,3081 31776,3077 31887,3078 34085,3156 34085,1667 33181,1738 32600,1801 31922,1886 31817,1894 31712,1896 31599,1891 31408,1871 30446,1727 29225,1490 28941,1523 28687,1542 28477,1554 28148,1554 27996,1547 27923,1540 27720,1511 27595,1490 27315,2770 27492,2950 27521,2991 27547,3034 27578,3102 27609,3199 27624,3273 27638,3399 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M31817,1894 L31821,1964" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28941,1523 L28948,1593" />
+         </g>
+         <polygon fill="#008000" comment="sleeve 2" stroke="#590202" stroke-width="2" points="27418,1509 28236,1416 28781,1365 29190,1336 29598,1318 30006,1314 30300,1321 30650,1341 31044,1376 31596,1442 32178,1523 32430,428 31855,297 31439,218 31275,190 30877,131 30691,107 30303,65 30104,48 29515,13 29060,2 28926,2 28485,10 28336,15 27912,40 27748,53 27337,93 27161,115 26578,201 26940,426 26980,462 27018,502 27106,607 27158,681 27219,783 27272,892 27307,978 27365,1162 27385,1253 27406,1380 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26826,353 L26861,293" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M27390,1278 L27459,1265" />
+         </g>
+         <polygon fill="#ff00ff" comment="sleeve 2" stroke="#590202" stroke-width="2" points="33076,16 33894,108 34439,160 34848,189 35256,207 35664,211 35958,204 36308,184 36702,148 37254,83 37836,2 38088,1046 37513,1177 37098,1257 36933,1284 36536,1344 36349,1368 35962,1410 35763,1427 35174,1462 34719,1472 34584,1473 34144,1465 33995,1459 33570,1434 33406,1422 32995,1381 32819,1360 32236,1274 32595,1058 32634,1025 32672,986 32759,886 32810,815 32871,717 32925,612 32960,529 33019,351 33040,264 33063,141 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M32483,1127 L32517,1188" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M33046,239 L33114,253" />
+         </g>
+         <polygon fill="#ff00ff" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="39343,12240 39409,13670 37145,13568 35523,13631 37140,13768 39406,13770 39382,14800 33125,14656 33107,14355 33090,14283 33079,14247 33041,14159 32995,14085 32957,14037 32896,13979 32857,13949 32804,13917 32749,13890 32682,13864 32605,13840 32431,13802 32360,13789 32621,13210 32907,12615 33407,12757 33634,12792 33691,12798 33865,12806 34013,12806 34219,12791 34277,12782 34377,12761 34485,12723 34553,12690 34623,12645 34690,12593 34818,12475 35193,12423 35323,12391 36521,12488 36926,12505 37072,12490 37170,12476 37787,12371 38158,12318 38437,12288 38780,12263 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37145,13568 L37145,13498" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37140,13768 L37137,13838" />
+         </g>
+         <polygon fill="#65f9e1" comment="frontpanel" stroke="#590202" stroke-width="2" points="39448,9880 39563,11206 37297,11185 35678,11305 37299,11384 39564,11306 39575,12236 33567,12311 33530,12022 33510,11953 33496,11919 33453,11835 33403,11765 33362,11721 33302,11671 33258,11642 33203,11615 33146,11592 33078,11571 32973,11549 32772,11522 33027,10960 33263,10397 33721,10527 33932,10561 34186,10576 34313,10574 34440,10565 34513,10558 34660,10497 34726,10462 34795,10416 34869,10356 34974,10257 35349,10202 35457,10171 36636,10227 37024,10231 37075,10226 37267,10196 37897,10065 38266,9999 38544,9959 38886,9922 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37297,11185 L37294,11115" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37299,11384 L37299,11454" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37075,10226 L37082,10296" />
+         </g>
+         <polygon fill="#0000ff" comment="sleeve 1" stroke="#590202" stroke-width="2" points="34211,8059 34013,8217 33922,8282 33477,8581 33313,8706 33206,8804 33115,8905 33064,8976 33041,9012 33007,9077 32980,9144 32955,9237 32938,9357 32936,9499 32942,9584 32958,9687 32994,9817 33034,9921 33073,10003 33124,10090 33170,10156 33239,10237 33305,10301 33416,10396 33999,10343 34580,10282 35161,10211 35740,10132 36318,10044 36895,9947 37470,9842 38043,9728 38615,9605 39185,9474 38915,7993 37710,8164 37062,8226 36498,8251 35957,8248 35417,8217 35194,8196 " />
+         <polygon fill="#008000" comment="frontpanel_42" stroke="#590202" stroke-width="2" points="41027,5505 41076,6935 38813,6808 37191,6852 38807,7007 41073,7035 41036,8065 34782,7850 34767,7549 34751,7477 34740,7441 34703,7352 34658,7277 34620,7229 34561,7170 34522,7140 34469,7108 34414,7080 34347,7053 34271,7029 34098,6989 34026,6975 34294,6398 34587,5807 35085,5955 35311,5992 35368,5998 35542,6009 35691,6010 35896,5998 35955,5990 36054,5969 36163,5933 36232,5900 36302,5857 36370,5805 36499,5688 36875,5641 37005,5610 38201,5720 38607,5742 38753,5729 38851,5716 39469,5618 39841,5569 40120,5542 40464,5521 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38813,6808 L38814,6738" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38807,7007 L38803,7077" />
+         </g>
+         <polygon fill="#e5efb8" comment="backpanel" stroke="#590202" stroke-width="2" points="34435,3728 35269,3773 35632,3810 36177,3874 36940,3981 38111,4161 38329,4190 38376,4193 38503,4197 38611,4196 40775,4121 40775,5511 39871,5439 39290,5376 38611,5292 38507,5283 38402,5281 38289,5286 38098,5306 37136,5450 35915,5687 35631,5654 35393,5637 35203,5626 34897,5627 34757,5634 34689,5640 34501,5667 34385,5688 34105,4458 34277,4291 34330,4213 34361,4149 34393,4058 34409,3989 34425,3870 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38507,5283 L38511,5213" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M35631,5654 L35638,5584" />
+         </g>
+         <polygon fill="#0000ff" comment="frontpanel" stroke="#590202" stroke-width="2" points="40951,4129 41033,2700 38768,2777 37146,2696 38765,2577 41031,2600 41018,1570 34860,1643 34839,1943 34822,2015 34810,2051 34771,2138 34724,2212 34685,2260 34624,2317 34584,2346 34531,2378 34475,2404 34408,2430 34331,2452 34157,2489 34086,2501 34340,3083 34619,3681 35103,3548 35137,3541 35364,3509 35556,3499 35728,3503 35938,3520 36095,3587 36169,3627 36238,3674 36317,3739 36429,3844 36803,3900 36933,3933 38131,3850 38522,3837 38668,3851 38780,3869 39396,3981 39767,4038 40046,4072 40389,4100 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38768,2777 L38767,2847" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38765,2577 L38763,2507" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38570,3840 L38576,3770" />
+         </g>
+         <polygon fill="#0d26bd" comment="sleeve 2" stroke="#590202" stroke-width="2" points="38726,1259 39543,1166 40088,1115 40497,1086 40905,1068 41314,1064 41607,1071 41958,1091 42351,1126 42903,1192 43485,1273 43737,428 43162,297 42747,218 42582,190 42185,131 41998,107 41611,65 41412,48 40823,13 40368,2 40233,2 39793,10 39644,15 39219,40 39055,53 38644,93 38468,115 37885,201 38229,377 38302,435 38385,517 38436,576 38496,658 38550,746 38587,817 38651,968 38676,1044 38705,1150 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38126,325 L38156,262" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M38683,1067 L38751,1048" />
+         </g>
+         <polygon fill="#0000ff" comment="frontpanel" stroke="#590202" stroke-width="2" points="46270,12241 46352,13670 44087,13593 42466,13674 44085,13793 46351,13770 46338,14800 40180,14727 40158,14427 40141,14355 40129,14319 40090,14232 40043,14158 40004,14110 39943,14053 39904,14024 39851,13992 39795,13966 39728,13940 39650,13918 39477,13881 39405,13869 39659,13287 39939,12689 40422,12822 40456,12829 40684,12861 40876,12871 41047,12867 41258,12850 41414,12783 41488,12743 41558,12696 41636,12631 41748,12526 42123,12470 42252,12437 43451,12520 43841,12533 43988,12519 44100,12501 44716,12389 45086,12332 45365,12298 45708,12270 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44087,13593 L44086,13523" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44085,13793 L44083,13863" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43890,12530 L43896,12600" />
+         </g>
+         <polygon fill="#e5efb8" comment="backpanel" stroke="#590202" stroke-width="2" points="39901,12635 40735,12589 41098,12553 41643,12488 42406,12381 43577,12201 43795,12173 43842,12169 43970,12166 44078,12167 46241,12241 46241,10852 45337,10923 44756,10986 44078,11071 43973,11079 43868,11081 43756,11076 43564,11057 42602,10912 41381,10675 41097,10708 40859,10726 40669,10736 40363,10736 40223,10728 40155,10722 39967,10695 39851,10675 39571,11905 39743,12072 39796,12149 39827,12213 39859,12304 39875,12374 39891,12493 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43973,11079 L43977,11149" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M41097,10708 L41104,10778" />
+         </g>
+         <polygon fill="#e5efb8" comment="frontpanel" stroke="#590202" stroke-width="2" points="45916,10830 46014,9452 43748,9502 42128,9402 43749,9303 46014,9352 46013,8372 39930,8372 39901,8667 39882,8738 39869,8772 39828,8858 39780,8930 39740,8976 39679,9030 39637,9059 39584,9088 39527,9113 39460,9136 39355,9162 39145,9196 39657,10348 40128,10217 40345,10183 40606,10168 40736,10171 40867,10181 40941,10188 41093,10252 41161,10288 41232,10336 41309,10398 41418,10500 41792,10555 41911,10588 43099,10518 43489,10509 43538,10513 43748,10544 44363,10664 44733,10725 45011,10762 45354,10795 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43748,9502 L43747,9572" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43749,9303 L43747,9233" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43538,10513 L43545,10443" />
+         </g>
+         <polygon fill="#0000ff" comment="sidepanel" stroke="#590202" stroke-width="2" points="45454,7030 45007,7047 44673,7073 44554,7086 44276,7129 43341,7313 43081,7352 42820,7379 42534,7394 42188,7399 41572,7386 41193,7389 41248,7526 41261,7594 41263,7645 41255,7706 41239,7765 41216,7823 41169,7909 41128,7968 41080,8024 41005,8095 40941,8144 40847,8203 40749,8255 40569,8336 42788,8169 43032,8147 43185,8146 43290,8155 44178,8263 44549,8301 45454,8371 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43078,7353 L43087,7422" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M41572,7386 L41572,7456" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M41263,7624 L41333,7623" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43185,8146 L43189,8076" />
+         </g>
+         <polygon fill="#65f9e1" comment="backpanel" stroke="#590202" stroke-width="2" points="41398,7387 42225,7341 42585,7305 43126,7240 43882,7134 45044,6955 45261,6926 45308,6923 45435,6919 45541,6920 47688,6993 47688,5654 46783,5725 46203,5788 45524,5873 45420,5881 45315,5883 45202,5878 45010,5858 44049,5714 42827,5477 42543,5510 42134,5537 41817,5535 41705,5528 41639,5522 41459,5496 41348,5477 41068,6682 41251,6859 41289,6916 41321,6978 41352,7066 41369,7133 41386,7248 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M45420,5881 L45423,5951" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M42543,5510 L42550,5580" />
+         </g>
+         <polygon fill="#e5efb8" comment="frontpanel" stroke="#590202" stroke-width="2" points="47547,3018 47645,4396 45379,4346 43759,4446 45380,4545 47645,4496 47644,5476 41561,5476 41532,5181 41513,5110 41501,5076 41460,4990 41411,4918 41371,4872 41311,4818 41269,4789 41215,4760 41158,4735 41091,4712 40986,4686 40776,4652 41288,3499 41759,3631 41976,3665 42238,3680 42367,3677 42498,3667 42573,3660 42724,3596 42792,3560 42864,3512 42940,3450 43049,3348 43423,3293 43542,3260 44731,3330 45120,3339 45170,3335 45379,3304 45994,3184 46364,3123 46642,3086 46985,3053 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M45379,4346 L45378,4276" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M45380,4545 L45378,4615" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M45170,3335 L45176,3405" />
+         </g>
+         <polygon fill="#e5efb8" comment="sleeve 1" stroke="#590202" stroke-width="2" points="42288,1199 42094,1352 42003,1417 41559,1711 41476,1772 41397,1835 41291,1932 41202,2033 41152,2103 41130,2139 41098,2204 41072,2271 41053,2344 41036,2462 41032,2608 41037,2685 41052,2788 41086,2917 41125,3020 41161,3096 41214,3188 41259,3253 41305,3310 41373,3380 41493,3486 42075,3433 42657,3371 43237,3301 43817,3222 44395,3134 44972,3037 45547,2932 46120,2818 46692,2695 47262,2564 46991,1133 45787,1304 45139,1366 44575,1391 44034,1387 43494,1357 43271,1336 " />
+         <polygon fill="#65f9e1" comment="sleeve 2" stroke="#590202" stroke-width="2" points="44195,1322 45013,1230 45558,1178 45967,1150 46375,1132 46783,1128 47077,1134 47427,1154 47821,1190 48373,1256 48955,1336 49207,442 48632,311 48216,232 48052,204 47654,145 47468,121 47080,79 46881,61 46292,26 45837,16 45703,16 45262,23 45113,29 44689,54 44525,67 44114,107 43938,128 43355,214 43702,401 43776,462 43861,548 43911,610 43971,696 44026,789 44062,863 44125,1021 44149,1099 44176,1210 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M43597,344 L43628,282" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M44156,1123 L44223,1105" />
+         </g>
+         <polygon fill="#0000ff" comment="sleeve 2" stroke="#590202" stroke-width="2" points="47188,14786 48006,14694 48551,14642 48960,14613 49368,14595 49776,14591 50070,14598 50420,14618 50814,14654 51366,14719 51948,14800 52200,13806 51625,13675 51209,13595 51045,13568 50647,13508 50461,13484 50073,13442 49874,13425 49286,13390 48831,13380 48696,13379 48255,13387 48106,13393 47682,13418 47518,13430 47107,13471 46931,13492 46348,13578 46703,13784 46779,13852 46865,13948 46916,14016 46977,14110 47031,14211 47066,14291 47127,14462 47149,14547 47173,14665 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M46593,13719 L46627,13658" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47155,14571 L47223,14556" />
+         </g>
+         <polygon fill="#0d26bd" comment="sleeve 1" stroke="#590202" stroke-width="2" points="47482,13432 47294,13288 47204,13226 46806,12969 46681,12880 46568,12787 46471,12691 46416,12624 46354,12527 46323,12463 46309,12424 46289,12351 46271,12240 46264,12099 46267,12023 46280,11922 46293,11860 46319,11769 46347,11693 46377,11627 46405,11573 46459,11486 46510,11419 46564,11360 46687,11246 47269,11298 47850,11360 48431,11431 49010,11510 49588,11598 50165,11694 50740,11800 51314,11914 51886,12036 52455,12168 52185,13499 50981,13328 50333,13266 49768,13241 49227,13244 48687,13275 48464,13296 " />
+         <polygon fill="#ff00ff" comment="sleeve 1" stroke="#590202" stroke-width="2" points="47284,11299 47083,11137 46991,11071 46544,10768 46419,10674 46305,10577 46206,10476 46125,10370 46066,10269 46038,10202 46024,10162 46006,10090 45990,9967 45989,9815 45996,9736 46014,9632 46033,9557 46070,9448 46092,9397 46135,9310 46184,9226 46231,9161 46289,9091 46368,9014 46489,8912 47071,8965 47653,9027 48233,9097 48813,9177 49391,9265 49967,9361 50543,9467 51116,9581 51688,9703 52258,9834 51987,11366 50783,11195 50135,11133 49571,11108 49029,11111 48489,11142 48266,11163 " />
+         <polygon fill="#65f9e1" comment="frontpanel" stroke="#590202" stroke-width="2" points="52418,9410 52533,8084 50266,8105 48648,7985 50269,7906 52534,7984 52544,7054 46536,6979 46500,7268 46479,7337 46466,7371 46423,7455 46373,7525 46332,7569 46272,7619 46227,7648 46173,7675 46116,7698 46048,7719 45943,7741 45742,7768 45997,8330 46233,8893 46690,8763 46902,8729 47156,8714 47282,8716 47410,8725 47482,8732 47629,8793 47695,8828 47764,8874 47838,8934 47944,9033 48319,9088 48427,9119 49605,9063 49994,9059 50044,9064 50237,9094 50867,9225 51236,9291 51514,9331 51856,9368 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50266,8105 L50264,8175" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50269,7906 L50269,7836" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50044,9064 L50052,8994" />
+         </g>
+         <polygon fill="#0000ff" comment="sleeve 1" stroke="#590202" stroke-width="2" points="48969,7008 48771,6851 48679,6785 48234,6487 48071,6362 47963,6264 47872,6162 47821,6092 47799,6056 47765,5991 47737,5923 47712,5831 47696,5711 47693,5568 47699,5483 47716,5380 47751,5250 47791,5146 47831,5065 47882,4977 47928,4912 47996,4831 48063,4767 48174,4671 48756,4724 49337,4786 49918,4856 50497,4936 51075,5024 51652,5120 52227,5226 52801,5340 53373,5462 53942,5593 53672,7075 52468,6904 51820,6842 51255,6817 50714,6820 50174,6851 49951,6872 " />
+         <polygon fill="#008000" comment="sleeve 1" stroke="#590202" stroke-width="2" points="48888,4737 48683,4571 48591,4503 48143,4197 48016,4102 47938,4037 47833,3936 47743,3832 47694,3759 47672,3722 47639,3656 47612,3587 47589,3495 47573,3370 47573,3222 47581,3136 47600,3031 47638,2901 47680,2795 47727,2702 47760,2647 47822,2558 47856,2515 47914,2453 47960,2411 48093,2301 48675,2353 49256,2415 49837,2486 50416,2565 50994,2653 51571,2749 52146,2855 52720,2969 53292,3091 53861,3223 53591,4804 52387,4633 51739,4571 51174,4546 50633,4549 50093,4580 49870,4601 " />
+         <polygon fill="#0000ff" comment="sidepanel" stroke="#590202" stroke-width="2" points="53261,2747 52814,2730 52481,2704 52362,2691 52083,2648 51148,2464 50888,2425 50627,2398 50341,2383 49996,2378 49380,2391 49001,2388 49055,2251 49069,2183 49070,2132 49062,2071 49046,2012 49024,1954 48977,1868 48935,1809 48888,1754 48812,1682 48748,1633 48655,1574 48556,1522 48376,1441 50595,1608 50840,1630 50993,1631 51098,1622 51985,1514 52356,1476 53261,1406 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50886,2424 L50895,2355" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49380,2391 L49379,2321" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49071,2153 L49141,2154" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50993,1631 L50996,1701" />
+         </g>
+         <polygon fill="#65f9e1" comment="sidepanel" stroke="#590202" stroke-width="2" points="53493,1243 53046,1226 52713,1200 52594,1187 52315,1144 51381,961 51120,921 50859,894 50573,879 50228,874 49612,887 49233,884 49286,774 49300,720 49302,664 49290,607 49254,520 49221,458 49181,401 49137,347 49088,298 49037,254 48950,194 48860,144 48734,87 48609,37 50827,204 51072,227 51225,227 51330,219 52217,111 52589,72 53493,2 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M51118,921 L51127,851" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49612,887 L49611,817" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49303,699 L49373,703" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M51225,227 L51228,297" />
+         </g>
+         <polygon fill="#0d26bd" comment="backpanel" stroke="#590202" stroke-width="2" points="52456,14800 53278,14755 53634,14718 54171,14654 54922,14548 56074,14370 56289,14342 56335,14338 56462,14334 56567,14335 58696,14407 58697,13117 57792,13189 57211,13251 56533,13336 56428,13345 56324,13347 56211,13341 56019,13322 55057,13178 53836,12940 53552,12974 53161,12998 52857,12996 52749,12990 52686,12984 52513,12959 52406,12940 52126,14120 52307,14290 52345,14345 52376,14404 52408,14489 52425,14554 52444,14666 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56428,13345 L56432,13415" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M53552,12974 L53559,13043" />
+         </g>
+         <polygon fill="#e5efb8" comment="sleeve 2" stroke="#590202" stroke-width="2" points="52858,12996 53676,12904 54221,12853 54629,12824 55038,12806 55446,12802 55739,12809 56090,12829 56484,12864 57036,12930 57617,13010 57870,12066 57295,11935 56879,11856 56715,11828 56317,11769 56131,11745 55743,11703 55544,11686 54955,11651 54500,11640 54366,11640 53925,11648 53776,11653 53352,11678 53187,11691 52777,11731 52601,11753 52017,11838 52369,12035 52444,12099 52529,12191 52580,12255 52640,12346 52694,12443 52731,12519 52792,12684 52815,12765 52841,12880 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M52261,11974 L52294,11912" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M52821,12789 L52889,12772" />
+         </g>
+         <polygon fill="#0d26bd" comment="sleeve 1" stroke="#590202" stroke-width="2" points="53309,9565 53121,9709 53031,9772 52633,10028 52508,10117 52395,10210 52298,10307 52243,10374 52181,10470 52150,10535 52136,10573 52116,10646 52098,10758 52091,10898 52094,10974 52107,11075 52120,11137 52146,11228 52174,11304 52204,11370 52232,11424 52286,11512 52337,11579 52391,11637 52514,11752 53096,11699 53677,11637 54258,11567 54837,11487 55415,11400 55992,11303 56567,11198 57141,11084 57713,10961 58282,10830 58012,9498 56808,9669 56160,9731 55595,9757 55054,9753 54514,9723 54291,9702 " />
+         <polygon fill="#65f9e1" comment="sleeve 1" stroke="#590202" stroke-width="2" points="53721,7362 53530,7511 53439,7574 53040,7835 52914,7925 52800,8018 52701,8116 52619,8218 52561,8317 52530,8392 52507,8475 52490,8590 52484,8726 52488,8810 52502,8912 52535,9040 52572,9142 52605,9213 52644,9286 52702,9372 52772,9455 52815,9499 52926,9599 53508,9546 54090,9484 54670,9414 55250,9335 55828,9247 56404,9150 56980,9045 57553,8931 58125,8808 58695,8677 58424,7296 57220,7467 56572,7529 56007,7554 55466,7550 54926,7520 54703,7499 " />
+         <polygon fill="#e5efb8" comment="sidepanel" stroke="#590202" stroke-width="2" points="58379,6465 57932,6447 57598,6422 57480,6408 57201,6366 56266,6182 56006,6142 55745,6116 55459,6100 55113,6096 54497,6109 54118,6105 54172,5982 54187,5919 54188,5865 54175,5799 54156,5742 54113,5653 54073,5592 54028,5535 53978,5483 53926,5438 53867,5393 53744,5321 53615,5259 53494,5208 55713,5376 55957,5398 56110,5399 56215,5390 57103,5282 57474,5244 58379,5173 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56003,6142 L56012,6073" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54497,6109 L54497,6039" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54188,5895 L54258,5898" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56110,5399 L56114,5468" />
+         </g>
+         <polygon fill="#0000ff" comment="sleeve 2" stroke="#590202" stroke-width="2" points="54335,3926 55153,4019 55698,4070 56106,4099 56515,4117 56923,4121 57216,4114 57567,4094 57961,4059 58512,3993 59094,3912 59346,4907 58771,5038 58356,5117 58191,5145 57794,5204 57608,5228 57220,5270 57021,5287 56432,5322 55977,5333 55842,5333 55402,5325 55253,5320 54828,5295 54664,5282 54253,5242 54078,5220 53494,5134 53849,4928 53925,4860 54012,4764 54063,4696 54123,4602 54177,4501 54213,4421 54273,4250 54295,4166 54319,4047 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M53739,4993 L53773,5054" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54301,4141 L54369,4157" />
+         </g>
+         <polygon fill="#0d26bd" comment="sidepanel" stroke="#590202" stroke-width="2" points="58379,4009 57932,3991 57598,3966 57480,3952 57201,3910 56266,3726 56006,3686 55745,3660 55459,3644 55113,3640 54497,3653 54118,3649 54169,3558 54178,3534 54188,3489 54188,3453 54176,3404 54146,3333 54113,3273 54055,3190 54011,3140 53963,3093 53919,3058 53856,3015 53770,2966 53679,2924 53494,2852 55713,3020 55957,3042 56110,3043 56215,3034 57103,2926 57474,2888 58379,2817 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56003,3686 L56012,3617" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54497,3653 L54497,3583" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54188,3489 L54258,3496" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56110,3043 L56114,3112" />
+         </g>
+         <polygon fill="#e5efb8" comment="sidepanel" stroke="#590202" stroke-width="2" points="58379,1526 57932,1543 57598,1569 57480,1582 57201,1625 56266,1809 56006,1848 55745,1875 55459,1890 55113,1895 54497,1882 54118,1885 54172,2008 54187,2072 54188,2126 54175,2192 54156,2249 54113,2338 54073,2398 54028,2455 53978,2507 53926,2553 53867,2597 53744,2670 53615,2732 53494,2782 55713,2615 55957,2593 56110,2592 56215,2601 57103,2709 57474,2747 58379,2817 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56003,1849 L56012,1918" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54497,1882 L54497,1952" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54188,2095 L54258,2093" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56110,2592 L56114,2522" />
+         </g>
+         <polygon fill="#0d26bd" comment="backpanel" stroke="#590202" stroke-width="2" points="53824,2 54646,47 55002,84 55539,148 56289,254 57442,432 57657,460 57703,464 57830,468 57935,467 60064,395 60064,1685 59160,1613 58579,1551 57901,1466 57796,1457 57692,1455 57579,1461 57387,1480 56425,1624 55204,1862 54920,1828 54528,1804 54225,1806 54117,1812 54054,1818 53881,1843 53774,1862 53494,682 53674,512 53713,457 53744,398 53776,313 53793,248 53811,136 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57796,1457 L57800,1387" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M54920,1828 L54927,1759" />
+         </g>
+         <polygon fill="#0d26bd" comment="sidepanel" stroke="#590202" stroke-width="2" points="60133,6259 59686,6277 59353,6303 59234,6316 58956,6359 58021,6542 57760,6582 57500,6608 57213,6624 56868,6629 56252,6616 55873,6619 55923,6711 55933,6735 55943,6779 55942,6815 55930,6864 55900,6936 55868,6995 55809,7078 55765,7129 55717,7175 55674,7210 55611,7254 55524,7302 55433,7344 55249,7416 57467,7249 57712,7226 57865,7226 57970,7234 58857,7342 59229,7380 60133,7451 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57758,6582 L57767,6652" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M56252,6616 L56251,6686" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M55943,6779 L56013,6773" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57865,7226 L57868,7156" />
+         </g>
+      </svg>
+   </VIEW>
+</MARKER>

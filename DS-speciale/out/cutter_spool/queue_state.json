@@ -1,0 +1,60 @@
+{
+  "jobs": {
+    "JOB-ORD-BATCH-001-1769795301": {
+      "job_id": "JOB-ORD-BATCH-001-1769795301",
+      "order_id": "ORD-BATCH-001",
+      "plt_file": "DS-speciale\\out\\orders\\ORD-BATCH-001\\ORD-BATCH-001.plt",
+      "priority": 3,
+      "status": "queued",
+      "fabric_length_cm": 0.0,
+      "piece_count": 0,
+      "created_at": "2026-01-30T23:18:21.520613",
+      "queued_at": "2026-01-30T23:18:21.520633",
+      "started_at": null,
+      "completed_at": null,
+      "error_message": null
+    },
+    "JOB-ORD-BATCH-002-1769795305": {
+      "job_id": "JOB-ORD-BATCH-002-1769795305",
+      "order_id": "ORD-BATCH-002",
+      "plt_file": "DS-speciale\\out\\orders\\ORD-BATCH-002\\ORD-BATCH-002.plt",
+      "priority": 1,
+      "status": "complete",
+      "fabric_length_cm": 0.0,
+      "piece_count": 0,
+      "created_at": "2026-01-30T23:18:25.585671",
+      "queued_at": "2026-01-30T23:18:25.585683",
+      "started_at": "2026-01-30T23:18:32.694236",
+      "completed_at": "2026-01-30T23:18:32.694826",
+      "error_message": null
+    },
+    "JOB-TEST-API-001-1769796928": {
+      "job_id": "JOB-TEST-API-001-1769796928",
+      "order_id": "TEST-API-001",
+      "plt_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\TEST-API-001\\TEST-API-001.plt",
+      "priority": 3,
+      "status": "queued",
+      "fabric_length_cm": 68.87492543898644,
+      "piece_count": 7,
+      "created_at": "2026-01-30T23:45:28.880862",
+      "queued_at": "2026-01-30T23:45:28.880895",
+      "started_at": null,
+      "completed_at": null,
+      "error_message": null
+    },
+    "JOB-TEST-API-002-1769796928": {
+      "job_id": "JOB-TEST-API-002-1769796928",
+      "order_id": "TEST-API-002",
+      "plt_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\TEST-API-002\\TEST-API-002.plt",
+      "priority": 1,
+      "status": "queued",
+      "fabric_length_cm": 56.10001730680949,
+      "piece_count": 15,
+      "created_at": "2026-01-30T23:45:28.903301",
+      "queued_at": "2026-01-30T23:45:28.903329",
+      "started_at": null,
+      "completed_at": null,
+      "error_message": null
+    }
+  }
+}

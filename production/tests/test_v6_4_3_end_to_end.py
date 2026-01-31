@@ -29,8 +29,14 @@ import subprocess
 import time
 import threading
 
-# Add parent directory to path
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+# Add paths for imports
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(script_dir)
+sys.path.insert(0, project_root)  # production/
+sys.path.insert(0, os.path.join(project_root, "src", "core"))  # production/src/core/
+sys.path.insert(
+    0, os.path.join(project_root, "src", "nesting")
+)  # production/src/nesting/
 
 from order_file_manager import OrderFileManager, EnhancedOutputGenerator, PieceInfo
 from order_continuity_validator import (

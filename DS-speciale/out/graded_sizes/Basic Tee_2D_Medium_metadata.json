@@ -1,0 +1,26 @@
+{
+  "pattern": "Basic Tee_2D.PDS",
+  "target_size": "Medium",
+  "rendered_size": "Small",
+  "scale_factors": {
+    "Front": {
+      "x": 1.0457835229727785,
+      "y": 1.0122651575852117
+    },
+    "Back": {
+      "x": 1.0457760802341363,
+      "y": 1.0121371957919985
+    },
+    "Right Sleeve": {
+      "x": 1.0245216049382715,
+      "y": 1.0297764634293602
+    },
+    "Neck Binding": {
+      "x": 1.0378920222943182,
+      "y": 1.0002358181579982
+    }
+  },
+  "fabric_length_cm": 69.81187642048002,
+  "utilization": 56.08255729701291,
+  "piece_count": 7
+}

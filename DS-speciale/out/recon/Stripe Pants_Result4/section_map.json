@@ -1,0 +1,319 @@
+{
+  "filename": "Stripe Pants_Result4.MRK",
+  "filesize": 154934,
+  "sha256": "ac6e3a8748821d695920296f842252303464c398a4be58da2ec5fd8c8a31393f",
+  "file_type": "mrk",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      95,
+      66,
+      436626134,
+      28,
+      2,
+      69,
+      537527606,
+      1953723722,
+      1650553888,
+      222061932,
+      70578,
+      1836597052,
+      1702240364,
+      1869181810,
+      824327534
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      1.3312335411085762e-43,
+      9.248569864543793e-44,
+      2.7790389555022035e-23,
+      3.923635700109488e-44,
+      2.802596928649634e-45,
+      9.668959403841238e-44,
+      1.1690778826698635e-19,
+      5.805405486846705e-31,
+      9.890084301511694e-41,
+      2.360902140452481e-09
+    ],
+    "likely_version": "95.66",
+    "likely_section_count": 28
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 48,
+      "end_offset": 26899,
+      "size": 26851,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<MARKER>\r\n   <OPTITEX>15.0.134.0</OPTITEX>\r\n   <NEST>\r\n    ",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 70640,
+      "end_offset": 76895,
+      "size": 6255,
+      "preview": "JPEG image (6255 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 12,
+      "string": " Just table<"
+    },
+    {
+      "offset": 48,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 89,
+      "length": 8,
+      "string": "<MARKER>"
+    },
+    {
+      "offset": 99,
+      "length": 32,
+      "string": "   <OPTITEX>15.0.134.0</OPTITEX>"
+    },
+    {
+      "offset": 133,
+      "length": 9,
+      "string": "   <NEST>"
+    },
+    {
+      "offset": 144,
+      "length": 41,
+      "string": "      <NAME>Standard Quick Nesting</NAME>"
+    },
+    {
+      "offset": 187,
+      "length": 29,
+      "string": "      <VERSION>0.00</VERSION>"
+    },
+    {
+      "offset": 218,
+      "length": 22,
+      "string": "      <BUILD>0</BUILD>"
+    },
+    {
+      "offset": 242,
+      "length": 41,
+      "string": "      <AUTOCOMPACTION>-1</AUTOCOMPACTION>"
+    },
+    {
+      "offset": 285,
+      "length": 10,
+      "string": "   </NEST>"
+    },
+    {
+      "offset": 297,
+      "length": 38,
+      "string": "   <UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 337,
+      "length": 51,
+      "string": "   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>"
+    },
+    {
+      "offset": 390,
+      "length": 26,
+      "string": "   <NAME>Just table</NAME>"
+    },
+    {
+      "offset": 418,
+      "length": 85,
+      "string": "   <FILENAME>V:\\3D Samples\\Sample pack O15\\Marker\\Stripe Pants_Result4.MRK</FILENAME>"
+    },
+    {
+      "offset": 505,
+      "length": 24,
+      "string": "   <DATE>12.05.15</DATE>"
+    },
+    {
+      "offset": 531,
+      "length": 28,
+      "string": "   <LENGTH>649.9252</LENGTH>"
+    },
+    {
+      "offset": 561,
+      "length": 26,
+      "string": "   <WIDTH>160.0001</WIDTH>"
+    },
+    {
+      "offset": 589,
+      "length": 35,
+      "string": "   <EFFICIENCY>70.1009</EFFICIENCY>"
+    },
+    {
+      "offset": 626,
+      "length": 30,
+      "string": "   <SUM_AREA>7.2897</SUM_AREA>"
+    },
+    {
+      "offset": 658,
+      "length": 43,
+      "string": "   <SUM_PERIMETER>8181.2763</SUM_PERIMETER>"
+    },
+    {
+      "offset": 703,
+      "length": 31,
+      "string": "   <NB_OF_PLIES>1</NB_OF_PLIES>"
+    },
+    {
+      "offset": 736,
+      "length": 36,
+      "string": "   <LAYOUT_MODE>Single</LAYOUT_MODE>"
+    },
+    {
+      "offset": 774,
+      "length": 26,
+      "string": "   <FOLDING>none</FOLDING>"
+    },
+    {
+      "offset": 802,
+      "length": 40,
+      "string": "   <PLACED_ON_TABLE>50</PLACED_ON_TABLE>"
+    },
+    {
+      "offset": 844,
+      "length": 12,
+      "string": "   <STRIPES>"
+    },
+    {
+      "offset": 858,
+      "length": 61,
+      "string": "      <VERTICAL STEP=\"10.0000\" ANGLE=\"0.0\" OFFSET=\"0.0000\" />"
+    },
+    {
+      "offset": 921,
+      "length": 46,
+      "string": "      <HORIZONTAL STEP=\"0.0000\" ANGLE=\"0.0\" />"
+    },
+    {
+      "offset": 969,
+      "length": 13,
+      "string": "   </STRIPES>"
+    },
+    {
+      "offset": 984,
+      "length": 14,
+      "string": "   <INTERNALS>"
+    },
+    {
+      "offset": 1000,
+      "length": 13,
+      "string": "      <DRILL>"
+    },
+    {
+      "offset": 1015,
+      "length": 49,
+      "string": "         <HOLE DIAMETER=\"1.0000\" QUANTITY=\"10\" />"
+    },
+    {
+      "offset": 1066,
+      "length": 14,
+      "string": "      </DRILL>"
+    },
+    {
+      "offset": 1082,
+      "length": 15,
+      "string": "   </INTERNALS>"
+    },
+    {
+      "offset": 1099,
+      "length": 12,
+      "string": "   <NOTCHES>"
+    },
+    {
+      "offset": 1113,
+      "length": 11,
+      "string": "      <CUT>"
+    },
+    {
+      "offset": 1126,
+      "length": 33,
+      "string": "         <QUANTITY>210</QUANTITY>"
+    },
+    {
+      "offset": 1161,
+      "length": 42,
+      "string": "         <SUM_LENGTH>367.5000</SUM_LENGTH>"
+    },
+    {
+      "offset": 1205,
+      "length": 12,
+      "string": "      </CUT>"
+    },
+    {
+      "offset": 1219,
+      "length": 13,
+      "string": "   </NOTCHES>"
+    },
+    {
+      "offset": 1234,
+      "length": 10,
+      "string": "   <STYLE>"
+    },
+    {
+      "offset": 1246,
+      "length": 19,
+      "string": "      <NAME></NAME>"
+    },
+    {
+      "offset": 1267,
+      "length": 71,
+      "string": "      <FILENAME>G:\\SGS\\ZMIRIT\\PANTS WITH PLEATS IN FRONT.dsn</FILENAME>"
+    },
+    {
+      "offset": 1340,
+      "length": 35,
+      "string": "      <MATERIAL>MATERIAL</MATERIAL>"
+    },
+    {
+      "offset": 1377,
+      "length": 12,
+      "string": "      <SIZE>"
+    },
+    {
+      "offset": 1391,
+      "length": 24,
+      "string": "         <NAME>36</NAME>"
+    },
+    {
+      "offset": 1417,
+      "length": 35,
+      "string": "         <NB_OF_SETS>1</NB_OF_SETS>"
+    },
+    {
+      "offset": 1454,
+      "length": 36,
+      "string": "         <SUM_AREA>1.3637</SUM_AREA>"
+    },
+    {
+      "offset": 1492,
+      "length": 49,
+      "string": "         <SUM_PERIMETER>1598.9321</SUM_PERIMETER>"
+    },
+    {
+      "offset": 1543,
+      "length": 16,
+      "string": "         <PIECE>"
+    },
+    {
+      "offset": 1561,
+      "length": 30,
+      "string": "            <NAME>FRONT</NAME>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 48-26899 (26851 bytes)",
+    "Found JPEG at offset 70640-76895 (6255 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "order_id": "SCAN-CUST-12345-20260131014330",
+  "garment_type": "jacket",
+  "passed": false,
+  "error_count": 3,
+  "warning_count": 4,
+  "info_count": 2,
+  "checks": [
+    {
+      "category": "piece_count",
+      "level": "info",
+      "message": "Piece count valid: 15 pieces",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "piece_count": 15
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Chest mismatch: pattern=51.0cm, customer=102.0cm (diff=51.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "chest",
+        "customer_value": 102.0,
+        "pattern_value": 51.0,
+        "difference": 51.0,
+        "tolerance": 15.299999999999999
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Waist mismatch: pattern=44.0cm, customer=88.0cm (diff=44.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "waist",
+        "customer_value": 88.0,
+        "pattern_value": 44.0,
+        "difference": 44.0,
+        "tolerance": 13.2
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Hip mismatch: pattern=50.0cm, customer=100.0cm (diff=50.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "hip",
+        "customer_value": 100.0,
+        "pattern_value": 50.0,
+        "difference": 50.0,
+        "tolerance": 15.0
+      }
+    },
+    {
+      "category": "fabric",
+      "level": "info",
+      "message": "Good fabric utilization: 78.0%",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "utilization": 78.04642590497593
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 8: Very small (67.3 x 3.3 cm)",
+      "piece_id": 8,
+      "piece_name": null,
+      "details": {
+        "width": 67.33251041072927,
+        "height": 3.2885317260207287
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 9: Very small (67.3 x 3.3 cm)",
+      "piece_id": 9,
+      "piece_name": null,
+      "details": {
+        "width": 67.33251041072927,
+        "height": 3.2885317260207287
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 13: Very small (0.7 x 29.7 cm)",
+      "piece_id": 13,
+      "piece_name": null,
+      "details": {
+        "width": 0.6932919111483784,
+        "height": 29.65316036377547
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 14: Very small (0.7 x 29.7 cm)",
+      "piece_id": 14,
+      "piece_name": null,
+      "details": {
+        "width": 0.69329191114835,
+        "height": 29.65316036377547
+      }
+    }
+  ]
+}

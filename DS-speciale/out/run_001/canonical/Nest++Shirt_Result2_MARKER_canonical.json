@@ -1,0 +1,1444 @@
+{
+  "type": "marker",
+  "filename": "V:\\3D Samples\\Sample pack O15\\Marker\\Nest++Shirt_Result2.MRK",
+  "name": "Just table",
+  "optitex_version": "15.0.134.0",
+  "date": "12.05.15",
+  "nesting": {
+    "name": "Standard Quick Nesting",
+    "version": "0.00"
+  },
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "fabric": {
+    "length": 571.0599,
+    "width": 147.3211,
+    "layout_mode": "Single",
+    "folding": "none",
+    "num_plies": 1
+  },
+  "efficiency": 81.9171,
+  "summary": {
+    "total_area": 6.8916,
+    "total_perimeter": 10802.0333,
+    "placed_count": 82,
+    "notch_count": 0,
+    "notch_cut_length": 0.0
+  },
+  "styles": [
+    {
+      "name": "",
+      "filename": "C:\\DEMOFILE\\JKT.DSN",
+      "material": "",
+      "sizes": {
+        "M": [
+          {
+            "piece_name": "FRONT FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 76.9423,
+              "y_center": 139.31,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 88.8845,
+              "size_y": 16.0223,
+              "area": 0.0949,
+              "perimeter": 199.0642
+            }
+          },
+          {
+            "piece_name": "FRONT FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 364.4423,
+              "y_center": 75.6099,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 88.8845,
+              "size_y": 16.0223,
+              "area": 0.0949,
+              "perimeter": 199.0642
+            }
+          },
+          {
+            "piece_name": "FRONT FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 147.0423,
+              "y_center": 8.1099,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 88.8845,
+              "size_y": 16.0223,
+              "area": 0.0949,
+              "perimeter": 199.0642
+            }
+          },
+          {
+            "piece_name": "FRONT FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 391.3423,
+              "y_center": 91.7099,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 88.8845,
+              "size_y": 16.0223,
+              "area": 0.0949,
+              "perimeter": 199.0642
+            }
+          },
+          {
+            "piece_name": "UPPER FRONT",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 426.2299,
+              "y_center": 14.9769,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 50.8598,
+              "size_y": 29.8884,
+              "area": 0.1291,
+              "perimeter": 154.4671
+            }
+          },
+          {
+            "piece_name": "UPPER FRONT",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 426.2299,
+              "y_center": 44.8769,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 50.8598,
+              "size_y": 29.8884,
+              "area": 0.1291,
+              "perimeter": 154.4671
+            }
+          },
+          {
+            "piece_name": "UPPER FRONT",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 431.9299,
+              "y_center": 74.4769,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 50.8598,
+              "size_y": 29.8884,
+              "area": 0.1291,
+              "perimeter": 154.4671
+            }
+          },
+          {
+            "piece_name": "UPPER FRONT",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 459.5299,
+              "y_center": 132.0769,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 50.8598,
+              "size_y": 29.8884,
+              "area": 0.1291,
+              "perimeter": 154.4671
+            }
+          },
+          {
+            "piece_name": "FRONT PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 133.3459,
+              "y_center": 48.1438,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 82.4918,
+              "size_y": 10.7546,
+              "area": 0.0861,
+              "perimeter": 184.3938
+            }
+          },
+          {
+            "piece_name": "FRONT PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 374.3459,
+              "y_center": 141.9438,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 82.4918,
+              "size_y": 10.7546,
+              "area": 0.0861,
+              "perimeter": 184.3938
+            }
+          },
+          {
+            "piece_name": "FRONT PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 394.2458,
+              "y_center": 130.8438,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 82.4918,
+              "size_y": 10.7546,
+              "area": 0.0861,
+              "perimeter": 184.3938
+            }
+          },
+          {
+            "piece_name": "FRONT PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 395.6459,
+              "y_center": 105.1438,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 82.4918,
+              "size_y": 10.7546,
+              "area": 0.0861,
+              "perimeter": 184.3938
+            }
+          },
+          {
+            "piece_name": "COLLAR STAND",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 562.0299,
+              "y_center": 58.4046,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8599,
+              "size_y": 37.0329,
+              "area": 0.0175,
+              "perimeter": 76.6082
+            }
+          },
+          {
+            "piece_name": "COLLAR STAND",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 566.1299,
+              "y_center": 19.9046,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8599,
+              "size_y": 37.0329,
+              "area": 0.0175,
+              "perimeter": 76.6082
+            }
+          },
+          {
+            "piece_name": "COLLAR STAND",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 567.9299,
+              "y_center": 55.2046,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8599,
+              "size_y": 37.0329,
+              "area": 0.0175,
+              "perimeter": 76.6082
+            }
+          },
+          {
+            "piece_name": "COLLAR STAND",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 568.1299,
+              "y_center": 105.0046,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8599,
+              "size_y": 37.0329,
+              "area": 0.0175,
+              "perimeter": 76.6082
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 65.7926,
+              "y_center": 68.0923,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 21.3852,
+              "size_y": 5.2576,
+              "area": 0.0112,
+              "perimeter": 53.2287
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 167.5926,
+              "y_center": 144.6923,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 21.3852,
+              "size_y": 5.2576,
+              "area": 0.0112,
+              "perimeter": 53.2287
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 224.3926,
+              "y_center": 101.6923,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 21.3852,
+              "size_y": 5.2576,
+              "area": 0.0112,
+              "perimeter": 53.2287
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 445.9926,
+              "y_center": 107.4923,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 21.3852,
+              "size_y": 5.2576,
+              "area": 0.0112,
+              "perimeter": 53.2287
+            }
+          },
+          {
+            "piece_name": "FRONT WAIST FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 236.4179,
+              "y_center": 76.2589,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8359,
+              "size_y": 22.5244,
+              "area": 0.013,
+              "perimeter": 56.5907
+            }
+          },
+          {
+            "piece_name": "FRONT WAIST FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 274.4179,
+              "y_center": 134.6589,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8359,
+              "size_y": 22.5244,
+              "area": 0.013,
+              "perimeter": 56.5907
+            }
+          },
+          {
+            "piece_name": "FRONT WAIST FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 292.4179,
+              "y_center": 135.7589,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8359,
+              "size_y": 22.5244,
+              "area": 0.013,
+              "perimeter": 56.5907
+            }
+          },
+          {
+            "piece_name": "FRONT WAIST FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 342.6179,
+              "y_center": 11.3589,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 5.8359,
+              "size_y": 22.5244,
+              "area": 0.013,
+              "perimeter": 56.5907
+            }
+          },
+          {
+            "piece_name": "UNDER FRONT FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 135.1885,
+              "y_center": 128.0669,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 84.5771,
+              "size_y": 5.9083,
+              "area": 0.0488,
+              "perimeter": 179.3901
+            }
+          },
+          {
+            "piece_name": "UNDER FRONT FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 135.5885,
+              "y_center": 87.667,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 84.5771,
+              "size_y": 5.9083,
+              "area": 0.0488,
+              "perimeter": 179.3901
+            }
+          },
+          {
+            "piece_name": "UNDER FRONT FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 396.6886,
+              "y_center": 113.5669,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 84.5771,
+              "size_y": 5.9083,
+              "area": 0.0488,
+              "perimeter": 179.3901
+            }
+          },
+          {
+            "piece_name": "UNDER FRONT FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 396.6886,
+              "y_center": 119.5669,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 84.5771,
+              "size_y": 5.9083,
+              "area": 0.0488,
+              "perimeter": 179.3901
+            }
+          },
+          {
+            "piece_name": "LOWER COLLAR",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 473.6611,
+              "y_center": 30.3351,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 15.3222,
+              "size_y": 54.7719,
+              "area": 0.0563,
+              "perimeter": 127.5807
+            }
+          },
+          {
+            "piece_name": "LOWER COLLAR",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 479.4611,
+              "y_center": 83.3351,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 15.3222,
+              "size_y": 54.7719,
+              "area": 0.0563,
+              "perimeter": 127.5807
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 536.7617,
+              "y_center": 57.7914,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 543.1617,
+              "y_center": 57.7914,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 549.3617,
+              "y_center": 96.2914,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 549.5617,
+              "y_center": 57.7914,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 555.7617,
+              "y_center": 96.2914,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 555.9617,
+              "y_center": 57.7914,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 560.0617,
+              "y_center": 19.2914,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "SLEEVE CUFF",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 562.0617,
+              "y_center": 104.3914,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 6.3234,
+              "size_y": 38.4594,
+              "area": 0.0241,
+              "perimeter": 89.4025
+            }
+          },
+          {
+            "piece_name": "POCKET FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 212.9276,
+              "y_center": 96.7257,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 56.0552,
+              "size_y": 4.5908,
+              "area": 0.0249,
+              "perimeter": 120.9401
+            }
+          },
+          {
+            "piece_name": "POCKET FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 309.0276,
+              "y_center": 2.3257,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 56.0552,
+              "size_y": 4.5908,
+              "area": 0.0249,
+              "perimeter": 120.9401
+            }
+          },
+          {
+            "piece_name": "POCKET FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 310.3276,
+              "y_center": 6.9257,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 56.0552,
+              "size_y": 4.5908,
+              "area": 0.0249,
+              "perimeter": 120.9401
+            }
+          },
+          {
+            "piece_name": "POCKET FACING",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 311.6276,
+              "y_center": 11.5257,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 56.0552,
+              "size_y": 4.5908,
+              "area": 0.0249,
+              "perimeter": 120.9401
+            }
+          },
+          {
+            "piece_name": "UNDER PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 505.9336,
+              "y_center": 114.0096,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 80.4671,
+              "size_y": 6.2231,
+              "area": 0.0501,
+              "perimeter": 173.3804
+            }
+          },
+          {
+            "piece_name": "UNDER PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 515.3336,
+              "y_center": 29.1096,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 80.4671,
+              "size_y": 6.2231,
+              "area": 0.0501,
+              "perimeter": 173.3804
+            }
+          },
+          {
+            "piece_name": "UNDER PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 515.9336,
+              "y_center": 35.4096,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 80.4671,
+              "size_y": 6.2231,
+              "area": 0.0501,
+              "perimeter": 173.3804
+            }
+          },
+          {
+            "piece_name": "UNDER PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 516.6336,
+              "y_center": 22.8096,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 80.4671,
+              "size_y": 6.2231,
+              "area": 0.0501,
+              "perimeter": 173.3804
+            }
+          },
+          {
+            "piece_name": "CENTER BACK VEN",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 148.8836,
+              "y_center": 138.7841,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 54.9673,
+              "size_y": 15.4741,
+              "area": 0.0469,
+              "perimeter": 127.0207
+            }
+          },
+          {
+            "piece_name": "CENTER BACK VEN",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 211.3836,
+              "y_center": 108.2841,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 54.9673,
+              "size_y": 15.4741,
+              "area": 0.0469,
+              "perimeter": 127.0207
+            }
+          },
+          {
+            "piece_name": "UPPER BACK",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 206.8268,
+              "y_center": 62.0002,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 53.2535,
+              "size_y": 64.8419,
+              "area": 0.3021,
+              "perimeter": 228.0137
+            }
+          },
+          {
+            "piece_name": "UPPER BACK",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 260.1268,
+              "y_center": 32.5002,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 53.2535,
+              "size_y": 64.8419,
+              "area": 0.3021,
+              "perimeter": 228.0137
+            }
+          },
+          {
+            "piece_name": "UPPER COLLAR",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 459.579,
+              "y_center": 30.6721,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 15.9579,
+              "size_y": 55.5014,
+              "area": 0.0592,
+              "perimeter": 128.8894
+            }
+          },
+          {
+            "piece_name": "UPPER COLLAR",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 465.3789,
+              "y_center": 83.6721,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 15.9579,
+              "size_y": 55.5014,
+              "area": 0.0592,
+              "perimeter": 128.8894
+            }
+          },
+          {
+            "piece_name": "POCKET BAG",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 494.2748,
+              "y_center": 82.4199,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 26.1495,
+              "size_y": 23.6023,
+              "area": 0.059,
+              "perimeter": 92.7353
+            }
+          },
+          {
+            "piece_name": "POCKET BAG",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 498.0748,
+              "y_center": 129.0199,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 26.1495,
+              "size_y": 23.6023,
+              "area": 0.059,
+              "perimeter": 92.7353
+            }
+          },
+          {
+            "piece_name": "POCKET BAG",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 497.7748,
+              "y_center": 50.4199,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 26.1495,
+              "size_y": 23.6023,
+              "area": 0.059,
+              "perimeter": 92.7353
+            }
+          },
+          {
+            "piece_name": "POCKET BAG",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 520.4747,
+              "y_center": 73.3199,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 26.1495,
+              "size_y": 23.6023,
+              "area": 0.059,
+              "perimeter": 92.7353
+            }
+          },
+          {
+            "piece_name": "CENTER BACK FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 199.9842,
+              "y_center": 14.5697,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 21.5685,
+              "size_y": 28.9027,
+              "area": 0.0416,
+              "perimeter": 84.9841
+            }
+          },
+          {
+            "piece_name": "CENTER BACK FAC",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 218.2842,
+              "y_center": 14.5697,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 21.5685,
+              "size_y": 28.9027,
+              "area": 0.0416,
+              "perimeter": 84.9841
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 10.4719,
+              "y_center": 141.0739,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 230.6719,
+              "y_center": 113.9739,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 249.8719,
+              "y_center": 69.9739,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 317.8719,
+              "y_center": 18.8739,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 370.0719,
+              "y_center": 66.9739,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 379.3719,
+              "y_center": 5.0739,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 391.0719,
+              "y_center": 62.8739,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "SLEEVE PLACKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 446.2719,
+              "y_center": 94.4739,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.9438,
+              "size_y": 10.0944,
+              "area": 0.0117,
+              "perimeter": 54.0186
+            }
+          },
+          {
+            "piece_name": "UNDER POCKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 517.8236,
+              "y_center": 96.6003,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.8472,
+              "size_y": 22.8415,
+              "area": 0.0463,
+              "perimeter": 82.8269
+            }
+          },
+          {
+            "piece_name": "UNDER POCKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 521.3236,
+              "y_center": 50.0004,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.8472,
+              "size_y": 22.8415,
+              "area": 0.0463,
+              "perimeter": 82.8269
+            }
+          },
+          {
+            "piece_name": "UNDER POCKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 521.6236,
+              "y_center": 128.6003,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.8472,
+              "size_y": 22.8415,
+              "area": 0.0463,
+              "perimeter": 82.8269
+            }
+          },
+          {
+            "piece_name": "UNDER POCKET",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 542.5236,
+              "y_center": 128.6003,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 20.8472,
+              "size_y": 22.8415,
+              "area": 0.0463,
+              "perimeter": 82.8269
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "",
+      "filename": "C:\\DEMOFILE\\FB-BODY.DSN",
+      "material": "",
+      "sizes": {
+        "M": [
+          {
+            "piece_name": "Sleeve",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 272.0638,
+              "y_center": 94.0796,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 57.7276,
+              "size_y": 68.083,
+              "area": 0.2714,
+              "perimeter": 206.4324
+            }
+          },
+          {
+            "piece_name": "Sleeve",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 314.0638,
+              "y_center": 49.3796,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 57.7276,
+              "size_y": 68.083,
+              "area": 0.2714,
+              "perimeter": 206.4324
+            }
+          },
+          {
+            "piece_name": "Sleeve",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 325.4638,
+              "y_center": 113.1796,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 57.7276,
+              "size_y": 68.083,
+              "area": 0.2714,
+              "perimeter": 206.4324
+            }
+          },
+          {
+            "piece_name": "Sleeve",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 371.8638,
+              "y_center": 34.0796,
+              "angle": -180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 57.7276,
+              "size_y": 68.083,
+              "area": 0.2714,
+              "perimeter": 206.4324
+            }
+          },
+          {
+            "piece_name": "Back",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 46.9766,
+              "y_center": 17.035,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 93.9533,
+              "size_y": 33.9722,
+              "area": 0.2935,
+              "perimeter": 247.8642
+            }
+          },
+          {
+            "piece_name": "Back",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 46.9766,
+              "y_center": 51.035,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 93.9533,
+              "size_y": 33.9722,
+              "area": 0.2935,
+              "perimeter": 247.8642
+            }
+          },
+          {
+            "piece_name": "Back",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 46.9766,
+              "y_center": 85.035,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 93.9533,
+              "size_y": 33.9722,
+              "area": 0.2935,
+              "perimeter": 247.8642
+            }
+          },
+          {
+            "piece_name": "Back",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 46.9766,
+              "y_center": 119.035,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 93.9533,
+              "size_y": 33.9722,
+              "area": 0.2935,
+              "perimeter": 247.8642
+            }
+          },
+          {
+            "piece_name": "Front",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 137.0264,
+              "y_center": 69.0456,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 92.4528,
+              "size_y": 31.1511,
+              "area": 0.2525,
+              "perimeter": 237.4996
+            }
+          },
+          {
+            "piece_name": "Front",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 138.6264,
+              "y_center": 108.8456,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 92.4528,
+              "size_y": 31.1511,
+              "area": 0.2525,
+              "perimeter": 237.4996
+            }
+          },
+          {
+            "piece_name": "Front",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 138.6264,
+              "y_center": 27.1456,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 92.4528,
+              "size_y": 31.1511,
+              "area": 0.2525,
+              "perimeter": 237.4996
+            }
+          },
+          {
+            "piece_name": "Front",
+            "piece_code": "",
+            "size_name": "M",
+            "position": {
+              "x_center": 225.2264,
+              "y_center": 131.6456,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 92.4528,
+              "size_y": 31.1511,
+              "area": 0.2525,
+              "perimeter": 237.4996
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

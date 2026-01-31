@@ -1,0 +1,42 @@
+{
+  "order": {
+    "order_id": "TEST-VERIFY-001",
+    "customer_id": "CLI-USER",
+    "garment_type": "jacket",
+    "fit_type": "regular",
+    "measurements": {
+      "chest_cm": 105.0,
+      "waist_cm": 90.0,
+      "hip_cm": 100.0,
+      "shoulder_width_cm": null,
+      "arm_length_cm": null,
+      "inseam_cm": null,
+      "neck_cm": null,
+      "torso_length_cm": null,
+      "source": "manual",
+      "confidence": 1.0
+    },
+    "quantity": 1,
+    "notes": "",
+    "created_at": "2026-01-30T23:26:10.273243"
+  },
+  "production": {
+    "template": "Light  Jacket_2D.PDS",
+    "piece_count": 15,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 123.65949143716084,
+    "utilization_percent": 34.7779298689592,
+    "nesting_applied": true,
+    "scaling": {
+      "applied": true,
+      "base_size": "XL",
+      "scale_x": 0.9813084112149533,
+      "scale_y": 1.0,
+      "size_match_quality": 0.8
+    }
+  },
+  "files": {
+    "plt": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\orders\\TEST-VERIFY-001\\TEST-VERIFY-001.plt"
+  },
+  "processed_at": "2026-01-30T23:26:10.277179"
+}

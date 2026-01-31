@@ -1,0 +1,4 @@
+vlmProvider: OpenAI Compatible
+vlmBaseUrl: https://api.moonshot.cn/v1
+vlmApiKey: sk-kimi-8yqNNufFLDdKmtUEshwF33zY93gk3gQUDBygOjPjhPWlGZb4vNzVba5mcCJhjdG0
+vlmModelName: kimi-latest

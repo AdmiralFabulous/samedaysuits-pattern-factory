@@ -1,0 +1,94 @@
+{
+  "order_id": "TEST-CUST-002",
+  "garment_type": "tee",
+  "passed": false,
+  "error_count": 3,
+  "warning_count": 2,
+  "info_count": 2,
+  "checks": [
+    {
+      "category": "piece_count",
+      "level": "info",
+      "message": "Piece count valid: 7 pieces",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "piece_count": 7
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Chest mismatch: pattern=60.0cm, customer=120.0cm (diff=60.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "chest",
+        "customer_value": 120.0,
+        "pattern_value": 60.0,
+        "difference": 60.0,
+        "tolerance": 18.0
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Waist mismatch: pattern=55.0cm, customer=110.0cm (diff=55.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "waist",
+        "customer_value": 110.0,
+        "pattern_value": 55.0,
+        "difference": 55.0,
+        "tolerance": 16.5
+      }
+    },
+    {
+      "category": "fit",
+      "level": "error",
+      "message": "Hip mismatch: pattern=60.0cm, customer=120.0cm (diff=60.0cm)",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "measurement": "hip",
+        "customer_value": 120.0,
+        "pattern_value": 60.0,
+        "difference": 60.0,
+        "tolerance": 18.0
+      }
+    },
+    {
+      "category": "fabric",
+      "level": "info",
+      "message": "Good fabric utilization: 77.3%",
+      "piece_id": null,
+      "piece_name": null,
+      "details": {
+        "utilization": 77.25609970010454
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 5: Very small (16.2 x 3.3 cm)",
+      "piece_id": 5,
+      "piece_name": null,
+      "details": {
+        "width": 16.162388861985477,
+        "height": 3.3418292287175007
+      }
+    },
+    {
+      "category": "geometry",
+      "level": "warning",
+      "message": "Piece 6: Very small (16.2 x 3.3 cm)",
+      "piece_id": 6,
+      "piece_name": null,
+      "details": {
+        "width": 16.162388861985463,
+        "height": 3.3330809846632548
+      }
+    }
+  ]
+}

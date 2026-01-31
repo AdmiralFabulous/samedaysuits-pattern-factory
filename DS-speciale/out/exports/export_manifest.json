@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-01-29T14:10:01.101467+00:00",
+  "canonical_dir": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\canonical",
+  "output_dir": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\out\\exports",
+  "patterns": [
+    {
+      "source": "Basic Tee_2D_xml_00_STYLE_canonical.json",
+      "name": "James Basic Tee- 10077",
+      "pieces": 4,
+      "dxf": "Basic Tee_2D_xml_00_STYLE.dxf"
+    },
+    {
+      "source": "embedded_01_canonical.json",
+      "name": "",
+      "pieces": 0,
+      "dxf": "embedded_01.dxf"
+    },
+    {
+      "source": "Light  Jacket_2D_xml_00_STYLE_canonical.json",
+      "name": "",
+      "pieces": 11,
+      "dxf": "Light  Jacket_2D_xml_00_STYLE.dxf"
+    },
+    {
+      "source": "Skinny Cargo_2D_xml_00_STYLE_canonical.json",
+      "name": "17SKINNY-1",
+      "pieces": 20,
+      "dxf": "Skinny Cargo_2D_xml_00_STYLE.dxf"
+    },
+    {
+      "source": "Skinny Trousers_2D_xml_00_STYLE_canonical.json",
+      "name": "17SKINNY-1",
+      "pieces": 19,
+      "dxf": "Skinny Trousers_2D_xml_00_STYLE.dxf"
+    },
+    {
+      "source": "xml_00_STYLE_canonical.json",
+      "name": "17SKINNY-1",
+      "pieces": 19,
+      "dxf": "xml_00_STYLE.dxf"
+    }
+  ],
+  "markers": [
+    {
+      "source": "Basic Pants_xml_00_MARKER_canonical.json",
+      "name": "Basic Pants",
+      "placements": 24,
+      "dxf": "Basic Pants_xml_00_MARKER.dxf",
+      "plt": "Basic Pants_xml_00_MARKER.plt"
+    },
+    {
+      "source": "Jacket Sloper_xml_00_MARKER_canonical.json",
+      "name": "Jacket Sloper",
+      "placements": 72,
+      "dxf": "Jacket Sloper_xml_00_MARKER.dxf",
+      "plt": "Jacket Sloper_xml_00_MARKER.plt"
+    },
+    {
+      "source": "Nest++Shirt_Result2_xml_00_MARKER_canonical.json",
+      "name": "Just table",
+      "placements": 82,
+      "dxf": "Nest++Shirt_Result2_xml_00_MARKER.dxf",
+      "plt": "Nest++Shirt_Result2_xml_00_MARKER.plt"
+    },
+    {
+      "source": "Stripe Pants_Result4_xml_00_MARKER_canonical.json",
+      "name": "Just table",
+      "placements": 50,
+      "dxf": "Stripe Pants_Result4_xml_00_MARKER.dxf",
+      "plt": "Stripe Pants_Result4_xml_00_MARKER.plt"
+    },
+    {
+      "source": "Stripe Pants_xml_00_MARKER_canonical.json",
+      "name": "Just table",
+      "placements": 50,
+      "dxf": "Stripe Pants_xml_00_MARKER.dxf",
+      "plt": "Stripe Pants_xml_00_MARKER.plt"
+    },
+    {
+      "source": "xml_00_MARKER_canonical.json",
+      "name": "Just table",
+      "placements": 50,
+      "dxf": "xml_00_MARKER.dxf",
+      "plt": "xml_00_MARKER.plt"
+    }
+  ],
+  "errors": []
+}

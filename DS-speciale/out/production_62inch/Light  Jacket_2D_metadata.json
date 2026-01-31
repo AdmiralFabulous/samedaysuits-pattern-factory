@@ -1,0 +1,215 @@
+{
+  "source_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Light  Jacket_2D.PDS",
+  "contour_count": 15,
+  "pieces": {
+    "P1": {
+      "size_x": 21.4068,
+      "size_y": 63.5687,
+      "area": 0.234,
+      "perimeter": 194.3067
+    },
+    "P3": {
+      "size_x": 22.4687,
+      "size_y": 60.386,
+      "area": 0.1192,
+      "perimeter": 158.1717
+    },
+    "P4": {
+      "size_x": 12.5795,
+      "size_y": 47.5325,
+      "area": 0.0476,
+      "perimeter": 111.8618
+    },
+    "P5": {
+      "size_x": 12.9568,
+      "size_y": 48.1391,
+      "area": 0.0494,
+      "perimeter": 114.7187
+    },
+    "P6": {
+      "size_x": 73.3122,
+      "size_y": 29.5742,
+      "area": 0.1685,
+      "perimeter": 181.4847
+    },
+    "P7": {
+      "size_x": 54.8439,
+      "size_y": 12.1096,
+      "area": 0.0443,
+      "perimeter": 123.2184
+    },
+    "P8": {
+      "size_x": 54.5016,
+      "size_y": 10.7309,
+      "area": 0.0411,
+      "perimeter": 121.5475
+    },
+    "Piece2": {
+      "size_x": 7.0,
+      "size_y": 22.1,
+      "area": 0.0155,
+      "perimeter": 58.2
+    },
+    "@Piece1": {
+      "size_x": 48.5605,
+      "size_y": 7.0,
+      "area": 0.068,
+      "perimeter": 208.242
+    },
+    "Piece3": {
+      "size_x": 22.7089,
+      "size_y": 13.6507,
+      "area": 0.0216,
+      "perimeter": 104.9937
+    },
+    "@P13": {
+      "size_x": 0.5,
+      "size_y": 63.12,
+      "area": 0.0063,
+      "perimeter": 128.24
+    }
+  },
+  "original_layout_cm": {
+    "width": 328.0380006789606,
+    "height": 62.58623042081102
+  },
+  "svg_metadata": {
+    "view_factor": 0.05,
+    "viewbox": {
+      "min_x": 0.0,
+      "min_y": 0.0,
+      "width": 23860.0,
+      "height": 13070.0
+    },
+    "scale_cm_per_unit": 0.0005
+  },
+  "nesting": {
+    "success": true,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 125.55950003552668,
+    "utilization_percent": 34.904071076823975,
+    "piece_count": 15,
+    "piece_placements": [
+      {
+        "id": 5,
+        "position": [
+          0.0,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 6,
+        "position": [
+          14.886856511094095,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 7,
+        "position": [
+          21.276810275439914,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 9,
+        "position": [
+          26.995571951032844,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 10,
+        "position": [
+          30.90016950267784,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 11,
+        "position": [
+          34.80476705432284,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 12,
+        "position": [
+          41.943732280030574,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 2,
+        "position": [
+          49.08269750573831,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 1,
+        "position": [
+          78.95464695485843,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 0,
+        "position": [
+          109.12754075200847,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 13,
+        "position": [
+          139.30043454915852,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 14,
+        "position": [
+          140.49372646030687,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 4,
+        "position": [
+          0.0,
+          102.15046001257335
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 3,
+        "position": [
+          18.456260498742665,
+          102.15046001257335
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 8,
+        "position": [
+          141.68701837145525,
+          0
+        ],
+        "rotation": 0
+      }
+    ]
+  }
+}

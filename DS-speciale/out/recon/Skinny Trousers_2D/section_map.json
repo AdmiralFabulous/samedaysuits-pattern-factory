@@ -1,0 +1,322 @@
+{
+  "filename": "Skinny Trousers_2D.PDS",
+  "filesize": 376372,
+  "sha256": "1c5e525f372d1c191f40d053a07623b4cbf2ef5756a4aed16011037c46a3a715",
+  "file_type": "pds",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      38,
+      152,
+      665785898,
+      4,
+      134,
+      131,
+      537527297,
+      1263744817,
+      1498304073,
+      688009517,
+      794569218,
+      1211302965,
+      6291459,
+      406061216,
+      3640592850
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      5.324934164434305e-44,
+      2.129973665773722e-43,
+      4.85962876520642e-15,
+      5.605193857299268e-45,
+      1.877739942195255e-43,
+      1.8357009882655104e-43,
+      1.1690379453559137e-19,
+      13842225.0,
+      2.890845183134601e-14,
+      2.0023807612012945e-10,
+      183312.828125,
+      8.816211835062549e-39,
+      2.326477027241599e-24
+    ],
+    "likely_version": "38.152",
+    "likely_section_count": 4
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 2584,
+      "end_offset": 33311,
+      "size": 30727,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<STYLE>\r\n\t<OPTITEX>21.0.273.0</OPTITEX>\r\n\t<UNITS LINEAR=\"cm",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 62,
+      "end_offset": 2576,
+      "size": 2514,
+      "preview": "JPEG image (2514 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 11,
+      "string": " 17SKINNY-1"
+    },
+    {
+      "offset": 112,
+      "length": 39,
+      "string": "(:3=<9387@H\\N@DWE78PmQW_bghg>Mqypdx\\egc"
+    },
+    {
+      "offset": 165,
+      "length": 55,
+      "string": "/cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc"
+    },
+    {
+      "offset": 337,
+      "length": 45,
+      "string": "%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 556,
+      "length": 43,
+      "string": "&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 2584,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 2625,
+      "length": 7,
+      "string": "<STYLE>"
+    },
+    {
+      "offset": 2635,
+      "length": 29,
+      "string": "<OPTITEX>21.0.273.0</OPTITEX>"
+    },
+    {
+      "offset": 2667,
+      "length": 35,
+      "string": "<UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 2705,
+      "length": 66,
+      "string": "<FILENAME>D:\\temp\\2D Sample Pack\\Skinny Trousers_2D.PDS</FILENAME>"
+    },
+    {
+      "offset": 2774,
+      "length": 23,
+      "string": "<NAME>17SKINNY-1</NAME>"
+    },
+    {
+      "offset": 2800,
+      "length": 21,
+      "string": "<DATE>04.02.21</DATE>"
+    },
+    {
+      "offset": 2824,
+      "length": 16,
+      "string": "<SIZES>5</SIZES>"
+    },
+    {
+      "offset": 2843,
+      "length": 19,
+      "string": "<PIECES>19</PIECES>"
+    },
+    {
+      "offset": 2865,
+      "length": 13,
+      "string": "<SIZES_TABLE>"
+    },
+    {
+      "offset": 2882,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 2893,
+      "length": 19,
+      "string": "<NAME>XSmall</NAME>"
+    },
+    {
+      "offset": 2917,
+      "length": 27,
+      "string": "<SUM_AREA>1.6279</SUM_AREA>"
+    },
+    {
+      "offset": 2949,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2527.9480</SUM_PERIMETER>"
+    },
+    {
+      "offset": 2994,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.3594</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3034,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2328.4543</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3086,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3097,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3108,
+      "length": 18,
+      "string": "<NAME>Small</NAME>"
+    },
+    {
+      "offset": 3131,
+      "length": 27,
+      "string": "<SUM_AREA>1.6549</SUM_AREA>"
+    },
+    {
+      "offset": 3163,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2542.6352</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3208,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.3886</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3248,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2344.7735</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3300,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3311,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3322,
+      "length": 19,
+      "string": "<NAME>Medium</NAME>"
+    },
+    {
+      "offset": 3346,
+      "length": 27,
+      "string": "<SUM_AREA>1.6822</SUM_AREA>"
+    },
+    {
+      "offset": 3378,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2558.1165</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3423,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.4182</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3463,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2361.1391</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3515,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3526,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3537,
+      "length": 18,
+      "string": "<NAME>Large</NAME>"
+    },
+    {
+      "offset": 3560,
+      "length": 27,
+      "string": "<SUM_AREA>1.7127</SUM_AREA>"
+    },
+    {
+      "offset": 3592,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2576.6732</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3637,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.4503</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3677,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2379.9120</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3729,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3740,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3751,
+      "length": 19,
+      "string": "<NAME>XLarge</NAME>"
+    },
+    {
+      "offset": 3775,
+      "length": 27,
+      "string": "<SUM_AREA>1.7921</SUM_AREA>"
+    },
+    {
+      "offset": 3807,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2620.1276</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3852,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>1.5295</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3892,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>2450.8331</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3944,
+      "length": 7,
+      "string": "</SIZE>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 2584-33311 (30727 bytes)",
+    "Found JPEG at offset 62-2576 (2514 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}

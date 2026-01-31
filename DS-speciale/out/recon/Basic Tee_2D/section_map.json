@@ -1,0 +1,322 @@
+{
+  "filename": "Basic Tee_2D.PDS",
+  "filesize": 287395,
+  "sha256": "fbe616d6764d87cf70f437d6de09e17c297d634e6d57c023d55a4456c78f70d1",
+  "file_type": "pds",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      4,
+      144,
+      639254504,
+      42,
+      145,
+      83,
+      538313729,
+      1701667146,
+      1631723635,
+      543385971,
+      761619796,
+      808464672,
+      688011063,
+      794569218,
+      1211302965
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      5.605193857299268e-45,
+      2.0178697886277366e-43,
+      5.351609217894241e-16,
+      5.885453550164232e-44,
+      2.0318827732709848e-43,
+      1.1630777253895982e-43,
+      1.2706818990264297e-19,
+      1.9262538122416163e-19,
+      1.3039642282608455e-11,
+      6.409823782860258e-10,
+      2.891368988309183e-14,
+      2.0023807612012945e-10,
+      183312.828125
+    ],
+    "likely_version": "4.144",
+    "likely_section_count": 42
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 2572,
+      "end_offset": 17233,
+      "size": 14661,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<STYLE>\r\n\t<OPTITEX>21.0.273.0</OPTITEX>\r\n\t<UNITS LINEAR=\"cm",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 74,
+      "end_offset": 2564,
+      "size": 2490,
+      "preview": "JPEG image (2490 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 23,
+      "string": " James Basic Tee- 10077"
+    },
+    {
+      "offset": 124,
+      "length": 39,
+      "string": "(:3=<9387@H\\N@DWE78PmQW_bghg>Mqypdx\\egc"
+    },
+    {
+      "offset": 177,
+      "length": 55,
+      "string": "/cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc"
+    },
+    {
+      "offset": 349,
+      "length": 45,
+      "string": "%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 568,
+      "length": 43,
+      "string": "&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 1063,
+      "length": 7,
+      "string": "Zb6h3&q"
+    },
+    {
+      "offset": 2179,
+      "length": 6,
+      "string": "oZCKHz"
+    },
+    {
+      "offset": 2467,
+      "length": 6,
+      "string": "1F)r=E"
+    },
+    {
+      "offset": 2488,
+      "length": 6,
+      "string": "1F)r=E"
+    },
+    {
+      "offset": 2509,
+      "length": 6,
+      "string": "1F)r=E"
+    },
+    {
+      "offset": 2530,
+      "length": 6,
+      "string": "1F)r=E"
+    },
+    {
+      "offset": 2551,
+      "length": 6,
+      "string": "1F)r=E"
+    },
+    {
+      "offset": 2572,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 2613,
+      "length": 7,
+      "string": "<STYLE>"
+    },
+    {
+      "offset": 2623,
+      "length": 29,
+      "string": "<OPTITEX>21.0.273.0</OPTITEX>"
+    },
+    {
+      "offset": 2655,
+      "length": 35,
+      "string": "<UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 2693,
+      "length": 60,
+      "string": "<FILENAME>D:\\temp\\2D Sample Pack\\Basic Tee_2D.PDS</FILENAME>"
+    },
+    {
+      "offset": 2756,
+      "length": 35,
+      "string": "<NAME>James Basic Tee- 10077</NAME>"
+    },
+    {
+      "offset": 2794,
+      "length": 21,
+      "string": "<DATE>04.02.21</DATE>"
+    },
+    {
+      "offset": 2818,
+      "length": 16,
+      "string": "<SIZES>8</SIZES>"
+    },
+    {
+      "offset": 2837,
+      "length": 18,
+      "string": "<PIECES>4</PIECES>"
+    },
+    {
+      "offset": 2858,
+      "length": 13,
+      "string": "<SIZES_TABLE>"
+    },
+    {
+      "offset": 2875,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 2886,
+      "length": 15,
+      "string": "<NAME>XS</NAME>"
+    },
+    {
+      "offset": 2906,
+      "length": 27,
+      "string": "<SUM_AREA>0.8837</SUM_AREA>"
+    },
+    {
+      "offset": 2938,
+      "length": 39,
+      "string": "<SUM_PERIMETER>842.9418</SUM_PERIMETER>"
+    },
+    {
+      "offset": 2982,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.7899</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3022,
+      "length": 47,
+      "string": "<SUM_SEW_PERIMETER>791.8353</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3073,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3084,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3095,
+      "length": 18,
+      "string": "<NAME>Small</NAME>"
+    },
+    {
+      "offset": 3118,
+      "length": 27,
+      "string": "<SUM_AREA>0.9347</SUM_AREA>"
+    },
+    {
+      "offset": 3150,
+      "length": 39,
+      "string": "<SUM_PERIMETER>865.7823</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3194,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8379</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3234,
+      "length": 47,
+      "string": "<SUM_SEW_PERIMETER>814.7523</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3285,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3296,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3307,
+      "length": 19,
+      "string": "<NAME>Medium</NAME>"
+    },
+    {
+      "offset": 3331,
+      "length": 27,
+      "string": "<SUM_AREA>0.9866</SUM_AREA>"
+    },
+    {
+      "offset": 3363,
+      "length": 39,
+      "string": "<SUM_PERIMETER>888.6964</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3407,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8869</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3447,
+      "length": 47,
+      "string": "<SUM_SEW_PERIMETER>837.7262</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3498,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3509,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3520,
+      "length": 18,
+      "string": "<NAME>Large</NAME>"
+    },
+    {
+      "offset": 3543,
+      "length": 27,
+      "string": "<SUM_AREA>1.0393</SUM_AREA>"
+    },
+    {
+      "offset": 3575,
+      "length": 39,
+      "string": "<SUM_PERIMETER>911.7157</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3619,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.9367</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3659,
+      "length": 47,
+      "string": "<SUM_SEW_PERIMETER>860.7906</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3710,
+      "length": 7,
+      "string": "</SIZE>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 2572-17233 (14661 bytes)",
+    "Found JPEG at offset 74-2564 (2490 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}

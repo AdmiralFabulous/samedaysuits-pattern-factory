@@ -1,0 +1,2533 @@
+{
+  "type": "pattern",
+  "filename": "D:\\temp\\2D Sample Pack\\Skinny Cargo_2D.PDS",
+  "name": "17SKINNY-1",
+  "optitex_version": "21.0.273.0",
+  "date": "04.02.21",
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "sizes": [
+    "26",
+    "28",
+    "29",
+    "30",
+    "31",
+    "Small",
+    "Medium",
+    "Large",
+    "36",
+    "38",
+    "40"
+  ],
+  "base_size": "Small",
+  "pieces": [
+    {
+      "name": "17SKINNY-1",
+      "code": "001\u00c3\u00e6X2",
+      "unique_id": "U00000",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 159.1952,
+        "y": 108.6947
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.1698,
+          "perimeter": 172.0238,
+          "sew_area": 0.1486,
+          "sew_perimeter": 160.6008,
+          "size_x": 36.5069,
+          "size_y": 57.9962
+        },
+        {
+          "name": "28",
+          "area": 0.1786,
+          "perimeter": 175.8645,
+          "sew_area": 0.1569,
+          "sew_perimeter": 164.3362,
+          "size_x": 38.1492,
+          "size_y": 58.7986
+        },
+        {
+          "name": "29",
+          "area": 0.183,
+          "perimeter": 177.7457,
+          "sew_area": 0.161,
+          "sew_perimeter": 166.1647,
+          "size_x": 38.9806,
+          "size_y": 59.1574
+        },
+        {
+          "name": "30",
+          "area": 0.1874,
+          "perimeter": 179.6316,
+          "sew_area": 0.1652,
+          "sew_perimeter": 167.9975,
+          "size_x": 39.8121,
+          "size_y": 59.5163
+        },
+        {
+          "name": "31",
+          "area": 0.1919,
+          "perimeter": 181.5224,
+          "sew_area": 0.1695,
+          "sew_perimeter": 169.8344,
+          "size_x": 40.6437,
+          "size_y": 59.8753
+        },
+        {
+          "name": "Small",
+          "area": 0.1965,
+          "perimeter": 183.4172,
+          "sew_area": 0.1738,
+          "sew_perimeter": 171.6751,
+          "size_x": 41.4753,
+          "size_y": 60.2369
+        },
+        {
+          "name": "Medium",
+          "area": 0.2011,
+          "perimeter": 185.3279,
+          "sew_area": 0.1781,
+          "sew_perimeter": 173.5335,
+          "size_x": 42.3065,
+          "size_y": 60.5984
+        },
+        {
+          "name": "Large",
+          "area": 0.2057,
+          "perimeter": 187.2432,
+          "sew_area": 0.1825,
+          "sew_perimeter": 175.3956,
+          "size_x": 43.1377,
+          "size_y": 60.9601
+        },
+        {
+          "name": "36",
+          "area": 0.2155,
+          "perimeter": 191.251,
+          "sew_area": 0.1919,
+          "sew_perimeter": 179.2934,
+          "size_x": 44.7791,
+          "size_y": 61.7672
+        },
+        {
+          "name": "38",
+          "area": 0.2256,
+          "perimeter": 195.273,
+          "sew_area": 0.2015,
+          "sew_perimeter": 183.2032,
+          "size_x": 46.4207,
+          "size_y": 62.5773
+        },
+        {
+          "name": "40",
+          "area": 0.2358,
+          "perimeter": 199.312,
+          "sew_area": 0.2112,
+          "sew_perimeter": 187.1278,
+          "size_x": 48.0625,
+          "size_y": 63.3877
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-11",
+      "code": "011\u00d5\u00fd\u00c3\u00e6X1\u00c6\u00d3X1",
+      "unique_id": "U00002",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0084,
+          "perimeter": 40.1475,
+          "sew_area": 0.0048,
+          "sew_perimeter": 32.3054,
+          "size_x": 5.986,
+          "size_y": 15.3802
+        },
+        {
+          "name": "28",
+          "area": 0.0084,
+          "perimeter": 40.1475,
+          "sew_area": 0.0048,
+          "sew_perimeter": 32.3054,
+          "size_x": 5.986,
+          "size_y": 15.3802
+        },
+        {
+          "name": "29",
+          "area": 0.0084,
+          "perimeter": 40.1475,
+          "sew_area": 0.0048,
+          "sew_perimeter": 32.3054,
+          "size_x": 5.986,
+          "size_y": 15.3802
+        },
+        {
+          "name": "30",
+          "area": 0.0084,
+          "perimeter": 40.1475,
+          "sew_area": 0.0048,
+          "sew_perimeter": 32.3054,
+          "size_x": 5.986,
+          "size_y": 15.3802
+        },
+        {
+          "name": "31",
+          "area": 0.009,
+          "perimeter": 42.1475,
+          "sew_area": 0.0052,
+          "sew_perimeter": 34.3054,
+          "size_x": 5.986,
+          "size_y": 16.3802
+        },
+        {
+          "name": "Small",
+          "area": 0.009,
+          "perimeter": 42.1475,
+          "sew_area": 0.0052,
+          "sew_perimeter": 34.3054,
+          "size_x": 5.986,
+          "size_y": 16.3802
+        },
+        {
+          "name": "Medium",
+          "area": 0.009,
+          "perimeter": 42.1475,
+          "sew_area": 0.0052,
+          "sew_perimeter": 34.3054,
+          "size_x": 5.986,
+          "size_y": 16.3802
+        },
+        {
+          "name": "Large",
+          "area": 0.009,
+          "perimeter": 42.1475,
+          "sew_area": 0.0052,
+          "sew_perimeter": 34.3054,
+          "size_x": 5.986,
+          "size_y": 16.3802
+        },
+        {
+          "name": "36",
+          "area": 0.0096,
+          "perimeter": 44.1475,
+          "sew_area": 0.0056,
+          "sew_perimeter": 36.3054,
+          "size_x": 5.986,
+          "size_y": 17.3802
+        },
+        {
+          "name": "38",
+          "area": 0.0096,
+          "perimeter": 44.1475,
+          "sew_area": 0.0056,
+          "sew_perimeter": 36.3054,
+          "size_x": 5.986,
+          "size_y": 17.3802
+        },
+        {
+          "name": "40",
+          "area": 0.0102,
+          "perimeter": 46.1475,
+          "sew_area": 0.006,
+          "sew_perimeter": 38.3054,
+          "size_x": 5.986,
+          "size_y": 18.3802
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-12",
+      "code": "012\u00c3\u00e6X1\u00c6\u00d3X1",
+      "unique_id": "U00003",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.013,
+          "perimeter": 44.575,
+          "sew_area": 0.0089,
+          "sew_perimeter": 37.3677,
+          "size_x": 4.6863,
+          "size_y": 15.0988
+        },
+        {
+          "name": "28",
+          "area": 0.013,
+          "perimeter": 44.575,
+          "sew_area": 0.0089,
+          "sew_perimeter": 37.3677,
+          "size_x": 4.6863,
+          "size_y": 15.0988
+        },
+        {
+          "name": "29",
+          "area": 0.013,
+          "perimeter": 44.575,
+          "sew_area": 0.0089,
+          "sew_perimeter": 37.3677,
+          "size_x": 4.6863,
+          "size_y": 15.0988
+        },
+        {
+          "name": "30",
+          "area": 0.013,
+          "perimeter": 44.575,
+          "sew_area": 0.0089,
+          "sew_perimeter": 37.3677,
+          "size_x": 4.6863,
+          "size_y": 15.0988
+        },
+        {
+          "name": "31",
+          "area": 0.0139,
+          "perimeter": 46.5741,
+          "sew_area": 0.0096,
+          "sew_perimeter": 39.3668,
+          "size_x": 4.6863,
+          "size_y": 16.0988
+        },
+        {
+          "name": "Small",
+          "area": 0.0139,
+          "perimeter": 46.5741,
+          "sew_area": 0.0096,
+          "sew_perimeter": 39.3668,
+          "size_x": 4.6863,
+          "size_y": 16.0988
+        },
+        {
+          "name": "Medium",
+          "area": 0.0139,
+          "perimeter": 46.5741,
+          "sew_area": 0.0096,
+          "sew_perimeter": 39.3668,
+          "size_x": 4.6863,
+          "size_y": 16.0988
+        },
+        {
+          "name": "Large",
+          "area": 0.0139,
+          "perimeter": 46.5741,
+          "sew_area": 0.0096,
+          "sew_perimeter": 39.3668,
+          "size_x": 4.6863,
+          "size_y": 16.0988
+        },
+        {
+          "name": "36",
+          "area": 0.0148,
+          "perimeter": 48.5732,
+          "sew_area": 0.0103,
+          "sew_perimeter": 41.3659,
+          "size_x": 4.6863,
+          "size_y": 17.0988
+        },
+        {
+          "name": "38",
+          "area": 0.0148,
+          "perimeter": 48.5732,
+          "sew_area": 0.0103,
+          "sew_perimeter": 41.3659,
+          "size_x": 4.6863,
+          "size_y": 17.0988
+        },
+        {
+          "name": "40",
+          "area": 0.0158,
+          "perimeter": 50.5724,
+          "sew_area": 0.0111,
+          "sew_perimeter": 43.3651,
+          "size_x": 4.6863,
+          "size_y": 18.0988
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-13",
+      "code": "013\u00c3\u00e6X1\u00c6\u00d3X1",
+      "unique_id": "U00004",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0177,
+          "perimeter": 56.8701,
+          "sew_area": 0.0124,
+          "sew_perimeter": 48.2472,
+          "size_x": 5.0003,
+          "size_y": 18.2807
+        },
+        {
+          "name": "28",
+          "area": 0.0177,
+          "perimeter": 56.8701,
+          "sew_area": 0.0124,
+          "sew_perimeter": 48.2472,
+          "size_x": 5.0003,
+          "size_y": 18.2807
+        },
+        {
+          "name": "29",
+          "area": 0.0177,
+          "perimeter": 56.8701,
+          "sew_area": 0.0124,
+          "sew_perimeter": 48.2472,
+          "size_x": 5.0003,
+          "size_y": 18.2807
+        },
+        {
+          "name": "30",
+          "area": 0.0177,
+          "perimeter": 56.8701,
+          "sew_area": 0.0124,
+          "sew_perimeter": 48.2472,
+          "size_x": 5.0003,
+          "size_y": 18.2807
+        },
+        {
+          "name": "31",
+          "area": 0.0187,
+          "perimeter": 58.8701,
+          "sew_area": 0.0132,
+          "sew_perimeter": 50.2472,
+          "size_x": 5.0003,
+          "size_y": 19.2807
+        },
+        {
+          "name": "Small",
+          "area": 0.0187,
+          "perimeter": 58.8701,
+          "sew_area": 0.0132,
+          "sew_perimeter": 50.2472,
+          "size_x": 5.0003,
+          "size_y": 19.2807
+        },
+        {
+          "name": "Medium",
+          "area": 0.0187,
+          "perimeter": 58.8701,
+          "sew_area": 0.0132,
+          "sew_perimeter": 50.2472,
+          "size_x": 5.0003,
+          "size_y": 19.2807
+        },
+        {
+          "name": "Large",
+          "area": 0.0187,
+          "perimeter": 58.8701,
+          "sew_area": 0.0132,
+          "sew_perimeter": 50.2472,
+          "size_x": 5.0003,
+          "size_y": 19.2807
+        },
+        {
+          "name": "36",
+          "area": 0.0197,
+          "perimeter": 60.8701,
+          "sew_area": 0.014,
+          "sew_perimeter": 52.2472,
+          "size_x": 5.0003,
+          "size_y": 20.2807
+        },
+        {
+          "name": "38",
+          "area": 0.0197,
+          "perimeter": 60.8701,
+          "sew_area": 0.014,
+          "sew_perimeter": 52.2472,
+          "size_x": 5.0003,
+          "size_y": 20.2807
+        },
+        {
+          "name": "40",
+          "area": 0.0207,
+          "perimeter": 62.8701,
+          "sew_area": 0.0148,
+          "sew_perimeter": 54.2472,
+          "size_x": 5.0003,
+          "size_y": 21.2807
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-14",
+      "code": "014\u00c3\u00e6X1",
+      "unique_id": "U00005",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "28",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "29",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "30",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "31",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "Small",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "Medium",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "Large",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "36",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "38",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        },
+        {
+          "name": "40",
+          "area": 0.0228,
+          "perimeter": 127.6007,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 3.8001,
+          "size_y": 60.0003
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-15",
+      "code": "015\u00c3\u00e6X1",
+      "unique_id": "U00006",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "28",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "29",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "30",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "31",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "Small",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "Medium",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "Large",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "36",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "38",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        },
+        {
+          "name": "40",
+          "area": 0.0024,
+          "perimeter": 24.8047,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 2.4026,
+          "size_y": 9.9997
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-16",
+      "code": "016\u00c0\u00efX2",
+      "unique_id": "U00007",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0886,
+          "perimeter": 114.0309,
+          "sew_area": 0.0703,
+          "sew_perimeter": 101.1376,
+          "size_x": 35.4166,
+          "size_y": 31.2795
+        },
+        {
+          "name": "28",
+          "area": 0.0911,
+          "perimeter": 115.5425,
+          "sew_area": 0.0757,
+          "sew_perimeter": 105.4332,
+          "size_x": 36.177,
+          "size_y": 30.4559
+        },
+        {
+          "name": "29",
+          "area": 0.0915,
+          "perimeter": 115.959,
+          "sew_area": 0.0773,
+          "sew_perimeter": 106.6705,
+          "size_x": 36.49,
+          "size_y": 30.1141
+        },
+        {
+          "name": "30",
+          "area": 0.0919,
+          "perimeter": 116.4761,
+          "sew_area": 0.0789,
+          "sew_perimeter": 107.9099,
+          "size_x": 36.8029,
+          "size_y": 30.0551
+        },
+        {
+          "name": "31",
+          "area": 0.0946,
+          "perimeter": 118.1064,
+          "sew_area": 0.0834,
+          "sew_perimeter": 110.7639,
+          "size_x": 37.1158,
+          "size_y": 30.4103
+        },
+        {
+          "name": "Small",
+          "area": 0.095,
+          "perimeter": 118.5623,
+          "sew_area": 0.0851,
+          "sew_perimeter": 112.0067,
+          "size_x": 37.4287,
+          "size_y": 30.0641
+        },
+        {
+          "name": "Medium",
+          "area": 0.0954,
+          "perimeter": 119.1155,
+          "sew_area": 0.0867,
+          "sew_perimeter": 113.251,
+          "size_x": 37.7417,
+          "size_y": 30.0551
+        },
+        {
+          "name": "Large",
+          "area": 0.0957,
+          "perimeter": 119.7643,
+          "sew_area": 0.0884,
+          "sew_perimeter": 114.4966,
+          "size_x": 38.0546,
+          "size_y": 30.0612
+        },
+        {
+          "name": "36",
+          "area": 0.0988,
+          "perimeter": 121.8643,
+          "sew_area": 0.0949,
+          "sew_perimeter": 118.602,
+          "size_x": 38.6797,
+          "size_y": 30.8613
+        },
+        {
+          "name": "38",
+          "area": 0.0992,
+          "perimeter": 123.4055,
+          "sew_area": 0.0984,
+          "sew_perimeter": 121.0979,
+          "size_x": 39.3048,
+          "size_y": 31.6614
+        },
+        {
+          "name": "40",
+          "area": 0.1019,
+          "perimeter": 123.5974,
+          "sew_area": 0.0995,
+          "sew_perimeter": 0.0,
+          "size_x": 40.4557,
+          "size_y": 29.3513
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-17",
+      "code": "017\u00c0\u00efX2",
+      "unique_id": "U00008",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.095,
+          "perimeter": 138.0015,
+          "sew_area": 0.0624,
+          "sew_perimeter": 122.0015,
+          "size_x": 19.0002,
+          "size_y": 25.0003
+        },
+        {
+          "name": "28",
+          "area": 0.095,
+          "perimeter": 138.0015,
+          "sew_area": 0.0624,
+          "sew_perimeter": 122.0015,
+          "size_x": 19.0002,
+          "size_y": 25.0003
+        },
+        {
+          "name": "29",
+          "area": 0.095,
+          "perimeter": 138.0015,
+          "sew_area": 0.0624,
+          "sew_perimeter": 122.0015,
+          "size_x": 19.0002,
+          "size_y": 25.0003
+        },
+        {
+          "name": "30",
+          "area": 0.095,
+          "perimeter": 138.0015,
+          "sew_area": 0.0624,
+          "sew_perimeter": 122.0015,
+          "size_x": 19.0002,
+          "size_y": 25.0003
+        },
+        {
+          "name": "31",
+          "area": 0.104,
+          "perimeter": 144.0015,
+          "sew_area": 0.07,
+          "sew_perimeter": 128.0015,
+          "size_x": 20.0002,
+          "size_y": 26.0003
+        },
+        {
+          "name": "Small",
+          "area": 0.104,
+          "perimeter": 144.0015,
+          "sew_area": 0.07,
+          "sew_perimeter": 128.0015,
+          "size_x": 20.0002,
+          "size_y": 26.0003
+        },
+        {
+          "name": "Medium",
+          "area": 0.104,
+          "perimeter": 144.0015,
+          "sew_area": 0.07,
+          "sew_perimeter": 128.0015,
+          "size_x": 20.0002,
+          "size_y": 26.0003
+        },
+        {
+          "name": "Large",
+          "area": 0.104,
+          "perimeter": 144.0015,
+          "sew_area": 0.07,
+          "sew_perimeter": 128.0015,
+          "size_x": 20.0002,
+          "size_y": 26.0003
+        },
+        {
+          "name": "36",
+          "area": 0.1134,
+          "perimeter": 150.0015,
+          "sew_area": 0.078,
+          "sew_perimeter": 134.0015,
+          "size_x": 21.0002,
+          "size_y": 27.0003
+        },
+        {
+          "name": "38",
+          "area": 0.1134,
+          "perimeter": 150.0015,
+          "sew_area": 0.078,
+          "sew_perimeter": 134.0015,
+          "size_x": 21.0002,
+          "size_y": 27.0003
+        },
+        {
+          "name": "40",
+          "area": 0.1134,
+          "perimeter": 150.0015,
+          "sew_area": 0.078,
+          "sew_perimeter": 134.0015,
+          "size_x": 21.0002,
+          "size_y": 27.0003
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-2",
+      "code": "002\u00d5\u00fd\u00c3\u00e6X1",
+      "unique_id": "U00009",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 114.9991,
+        "y": 107.1294
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.1094,
+          "perimeter": 143.061,
+          "sew_area": 0.0928,
+          "sew_perimeter": 131.9572,
+          "size_x": 23.703,
+          "size_y": 53.6691
+        },
+        {
+          "name": "28",
+          "area": 0.1172,
+          "perimeter": 146.7405,
+          "sew_area": 0.1001,
+          "sew_perimeter": 135.5481,
+          "size_x": 25.286,
+          "size_y": 54.4774
+        },
+        {
+          "name": "29",
+          "area": 0.1211,
+          "perimeter": 148.5403,
+          "sew_area": 0.1039,
+          "sew_perimeter": 137.294,
+          "size_x": 26.1594,
+          "size_y": 54.832
+        },
+        {
+          "name": "30",
+          "area": 0.1251,
+          "perimeter": 150.3524,
+          "sew_area": 0.1076,
+          "sew_perimeter": 139.0506,
+          "size_x": 27.0335,
+          "size_y": 55.1865
+        },
+        {
+          "name": "31",
+          "area": 0.1286,
+          "perimeter": 151.7754,
+          "sew_area": 0.1109,
+          "sew_perimeter": 140.4216,
+          "size_x": 27.8919,
+          "size_y": 55.5408
+        },
+        {
+          "name": "Small",
+          "area": 0.1327,
+          "perimeter": 153.5962,
+          "sew_area": 0.1147,
+          "sew_perimeter": 142.1852,
+          "size_x": 28.7662,
+          "size_y": 55.8952
+        },
+        {
+          "name": "Medium",
+          "area": 0.1368,
+          "perimeter": 155.432,
+          "sew_area": 0.1187,
+          "sew_perimeter": 143.9623,
+          "size_x": 29.641,
+          "size_y": 56.2495
+        },
+        {
+          "name": "Large",
+          "area": 0.141,
+          "perimeter": 157.2784,
+          "sew_area": 0.1226,
+          "sew_perimeter": 145.7487,
+          "size_x": 30.5159,
+          "size_y": 56.6037
+        },
+        {
+          "name": "36",
+          "area": 0.1489,
+          "perimeter": 160.7007,
+          "sew_area": 0.1301,
+          "sew_perimeter": 149.0688,
+          "size_x": 32.1034,
+          "size_y": 57.411
+        },
+        {
+          "name": "38",
+          "area": 0.1577,
+          "perimeter": 164.5483,
+          "sew_area": 0.1384,
+          "sew_perimeter": 152.8073,
+          "size_x": 33.7072,
+          "size_y": 58.2183
+        },
+        {
+          "name": "40",
+          "area": 0.1667,
+          "perimeter": 168.421,
+          "sew_area": 0.1469,
+          "sew_perimeter": 156.5675,
+          "size_x": 35.3117,
+          "size_y": 59.0255
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-4",
+      "code": "004\u00c3\u00e6X2\u00c6\u00d3X2",
+      "unique_id": "U00011",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 97.4128,
+        "y": 141.1051
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0224,
+          "perimeter": 87.3904,
+          "sew_area": 0.014,
+          "sew_perimeter": 79.3906,
+          "size_x": 38.5006,
+          "size_y": 11.277
+        },
+        {
+          "name": "28",
+          "area": 0.0242,
+          "perimeter": 92.3383,
+          "sew_area": 0.0153,
+          "sew_perimeter": 84.3488,
+          "size_x": 40.8121,
+          "size_y": 12.2248
+        },
+        {
+          "name": "29",
+          "area": 0.0249,
+          "perimeter": 94.8582,
+          "sew_area": 0.0158,
+          "sew_perimeter": 86.8647,
+          "size_x": 42.0145,
+          "size_y": 12.59
+        },
+        {
+          "name": "30",
+          "area": 0.0257,
+          "perimeter": 97.3787,
+          "sew_area": 0.0163,
+          "sew_perimeter": 89.3814,
+          "size_x": 43.2167,
+          "size_y": 12.9549
+        },
+        {
+          "name": "31",
+          "area": 0.0264,
+          "perimeter": 99.8998,
+          "sew_area": 0.0168,
+          "sew_perimeter": 91.899,
+          "size_x": 44.4188,
+          "size_y": 13.3196
+        },
+        {
+          "name": "Small",
+          "area": 0.0271,
+          "perimeter": 102.4214,
+          "sew_area": 0.0173,
+          "sew_perimeter": 94.4174,
+          "size_x": 45.6207,
+          "size_y": 13.6841
+        },
+        {
+          "name": "Medium",
+          "area": 0.0278,
+          "perimeter": 104.9434,
+          "sew_area": 0.0178,
+          "sew_perimeter": 96.9364,
+          "size_x": 46.8226,
+          "size_y": 14.0484
+        },
+        {
+          "name": "Large",
+          "area": 0.0285,
+          "perimeter": 107.466,
+          "sew_area": 0.0182,
+          "sew_perimeter": 99.456,
+          "size_x": 48.0243,
+          "size_y": 14.4126
+        },
+        {
+          "name": "36",
+          "area": 0.0302,
+          "perimeter": 112.4408,
+          "sew_area": 0.0194,
+          "sew_perimeter": 104.4349,
+          "size_x": 50.3375,
+          "size_y": 15.3559
+        },
+        {
+          "name": "38",
+          "area": 0.0318,
+          "perimeter": 117.4234,
+          "sew_area": 0.0205,
+          "sew_perimeter": 109.42,
+          "size_x": 52.6512,
+          "size_y": 16.2983
+        },
+        {
+          "name": "40",
+          "area": 0.0334,
+          "perimeter": 122.4125,
+          "sew_area": 0.0216,
+          "sew_perimeter": 114.4103,
+          "size_x": 54.9654,
+          "size_y": 17.24
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-5",
+      "code": "005\u00c3\u00e6X2\u00c6\u00d3X2",
+      "unique_id": "U00012",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0254,
+          "perimeter": 96.5504,
+          "sew_area": 0.0161,
+          "sew_perimeter": 88.5555,
+          "size_x": 42.2075,
+          "size_y": 14.7973
+        },
+        {
+          "name": "28",
+          "area": 0.0269,
+          "perimeter": 101.5502,
+          "sew_area": 0.0171,
+          "sew_perimeter": 93.5558,
+          "size_x": 44.3909,
+          "size_y": 16.0074
+        },
+        {
+          "name": "29",
+          "area": 0.0276,
+          "perimeter": 104.0653,
+          "sew_area": 0.0176,
+          "sew_perimeter": 96.0708,
+          "size_x": 45.542,
+          "size_y": 16.5057
+        },
+        {
+          "name": "30",
+          "area": 0.0284,
+          "perimeter": 106.5801,
+          "sew_area": 0.0181,
+          "sew_perimeter": 98.586,
+          "size_x": 46.6929,
+          "size_y": 17.0041
+        },
+        {
+          "name": "31",
+          "area": 0.0291,
+          "perimeter": 109.0956,
+          "sew_area": 0.0186,
+          "sew_perimeter": 101.1013,
+          "size_x": 47.8438,
+          "size_y": 17.5029
+        },
+        {
+          "name": "Small",
+          "area": 0.0299,
+          "perimeter": 111.6108,
+          "sew_area": 0.0191,
+          "sew_perimeter": 103.6168,
+          "size_x": 48.9944,
+          "size_y": 18.0018
+        },
+        {
+          "name": "Medium",
+          "area": 0.0306,
+          "perimeter": 114.1241,
+          "sew_area": 0.0196,
+          "sew_perimeter": 106.1323,
+          "size_x": 50.141,
+          "size_y": 18.507
+        },
+        {
+          "name": "Large",
+          "area": 0.0314,
+          "perimeter": 116.6398,
+          "sew_area": 0.0201,
+          "sew_perimeter": 108.648,
+          "size_x": 51.2916,
+          "size_y": 19.0061
+        },
+        {
+          "name": "36",
+          "area": 0.0329,
+          "perimeter": 121.6398,
+          "sew_area": 0.0211,
+          "sew_perimeter": 113.6476,
+          "size_x": 53.4778,
+          "size_y": 20.2121
+        },
+        {
+          "name": "38",
+          "area": 0.0344,
+          "perimeter": 126.6418,
+          "sew_area": 0.0221,
+          "sew_perimeter": 118.6492,
+          "size_x": 55.6647,
+          "size_y": 21.4168
+        },
+        {
+          "name": "40",
+          "area": 0.0359,
+          "perimeter": 131.6457,
+          "sew_area": 0.0231,
+          "sew_perimeter": 123.6523,
+          "size_x": 57.8522,
+          "size_y": 22.621
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-6",
+      "code": "006\u00c3\u00e6X2",
+      "unique_id": "U00013",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 90.231,
+        "y": 120.8486
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0159,
+          "perimeter": 60.4365,
+          "sew_area": 0.0125,
+          "sew_perimeter": 54.6507,
+          "size_x": 10.3222,
+          "size_y": 24.3437
+        },
+        {
+          "name": "28",
+          "area": 0.0159,
+          "perimeter": 60.4365,
+          "sew_area": 0.0125,
+          "sew_perimeter": 54.6507,
+          "size_x": 10.3222,
+          "size_y": 24.3437
+        },
+        {
+          "name": "29",
+          "area": 0.0159,
+          "perimeter": 60.4365,
+          "sew_area": 0.0125,
+          "sew_perimeter": 54.6507,
+          "size_x": 10.3222,
+          "size_y": 24.3437
+        },
+        {
+          "name": "30",
+          "area": 0.0159,
+          "perimeter": 60.4365,
+          "sew_area": 0.0125,
+          "sew_perimeter": 54.6507,
+          "size_x": 10.3222,
+          "size_y": 24.3437
+        },
+        {
+          "name": "31",
+          "area": 0.0173,
+          "perimeter": 63.0344,
+          "sew_area": 0.0137,
+          "sew_perimeter": 57.2514,
+          "size_x": 10.8642,
+          "size_y": 25.3344
+        },
+        {
+          "name": "Small",
+          "area": 0.0173,
+          "perimeter": 63.0344,
+          "sew_area": 0.0137,
+          "sew_perimeter": 57.2514,
+          "size_x": 10.8642,
+          "size_y": 25.3344
+        },
+        {
+          "name": "Medium",
+          "area": 0.0173,
+          "perimeter": 63.0344,
+          "sew_area": 0.0137,
+          "sew_perimeter": 57.2514,
+          "size_x": 10.8642,
+          "size_y": 25.3344
+        },
+        {
+          "name": "Large",
+          "area": 0.0173,
+          "perimeter": 63.0344,
+          "sew_area": 0.0137,
+          "sew_perimeter": 57.2514,
+          "size_x": 10.8642,
+          "size_y": 25.3344
+        },
+        {
+          "name": "36",
+          "area": 0.0187,
+          "perimeter": 65.635,
+          "sew_area": 0.015,
+          "sew_perimeter": 59.854,
+          "size_x": 11.4054,
+          "size_y": 26.326
+        },
+        {
+          "name": "38",
+          "area": 0.0187,
+          "perimeter": 65.635,
+          "sew_area": 0.015,
+          "sew_perimeter": 59.854,
+          "size_x": 11.4054,
+          "size_y": 26.326
+        },
+        {
+          "name": "40",
+          "area": 0.0187,
+          "perimeter": 65.635,
+          "sew_area": 0.015,
+          "sew_perimeter": 59.854,
+          "size_x": 11.4054,
+          "size_y": 26.326
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-7",
+      "code": "007\u00c3\u00e6X2",
+      "unique_id": "U00014",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0146,
+          "perimeter": 60.3164,
+          "sew_area": 0.0061,
+          "sew_perimeter": 47.5924,
+          "size_x": 10.2624,
+          "size_y": 25.5578
+        },
+        {
+          "name": "28",
+          "area": 0.0135,
+          "perimeter": 58.8827,
+          "sew_area": 0.0061,
+          "sew_perimeter": 47.5924,
+          "size_x": 10.2687,
+          "size_y": 24.7943
+        },
+        {
+          "name": "29",
+          "area": 0.013,
+          "perimeter": 58.2655,
+          "sew_area": 0.0061,
+          "sew_perimeter": 47.5924,
+          "size_x": 10.2718,
+          "size_y": 24.4625
+        },
+        {
+          "name": "30",
+          "area": 0.0124,
+          "perimeter": 57.6781,
+          "sew_area": 0.0061,
+          "sew_perimeter": 47.5924,
+          "size_x": 10.2748,
+          "size_y": 24.1308
+        },
+        {
+          "name": "31",
+          "area": 0.0124,
+          "perimeter": 58.2175,
+          "sew_area": 0.0065,
+          "sew_perimeter": 49.7945,
+          "size_x": 10.272,
+          "size_y": 24.7851
+        },
+        {
+          "name": "Small",
+          "area": 0.0119,
+          "perimeter": 57.5993,
+          "sew_area": 0.0065,
+          "sew_perimeter": 49.7945,
+          "size_x": 10.2753,
+          "size_y": 24.4534
+        },
+        {
+          "name": "Medium",
+          "area": 0.0113,
+          "perimeter": 57.0156,
+          "sew_area": 0.0065,
+          "sew_perimeter": 49.7945,
+          "size_x": 10.2786,
+          "size_y": 24.1217
+        },
+        {
+          "name": "Large",
+          "area": 0.0108,
+          "perimeter": 56.4838,
+          "sew_area": 0.0065,
+          "sew_perimeter": 49.7945,
+          "size_x": 10.2819,
+          "size_y": 23.9223
+        },
+        {
+          "name": "36",
+          "area": 0.0102,
+          "perimeter": 56.2826,
+          "sew_area": 0.0069,
+          "sew_perimeter": 52.0003,
+          "size_x": 10.2827,
+          "size_y": 24.0127
+        },
+        {
+          "name": "38",
+          "area": 0.009,
+          "perimeter": 55.5073,
+          "sew_area": 0.0069,
+          "sew_perimeter": 52.0003,
+          "size_x": 10.2893,
+          "size_y": 23.9469
+        },
+        {
+          "name": "40",
+          "area": 0.0079,
+          "perimeter": 55.669,
+          "sew_area": 0.0069,
+          "sew_perimeter": 52.0003,
+          "size_x": 10.2959,
+          "size_y": 23.966
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-8",
+      "code": "008\u00c3\u00e6X2\u00c6\u00d3X2",
+      "unique_id": "U00015",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0179,
+          "perimeter": 56.7991,
+          "sew_area": 0.0031,
+          "sew_perimeter": 30.7986,
+          "size_x": 4.6998,
+          "size_y": 19.0
+        },
+        {
+          "name": "28",
+          "area": 0.0179,
+          "perimeter": 56.7991,
+          "sew_area": 0.0031,
+          "sew_perimeter": 30.7986,
+          "size_x": 4.6998,
+          "size_y": 19.0
+        },
+        {
+          "name": "29",
+          "area": 0.0179,
+          "perimeter": 56.7991,
+          "sew_area": 0.0031,
+          "sew_perimeter": 30.7986,
+          "size_x": 4.6998,
+          "size_y": 19.0
+        },
+        {
+          "name": "30",
+          "area": 0.0179,
+          "perimeter": 56.7991,
+          "sew_area": 0.0031,
+          "sew_perimeter": 30.7986,
+          "size_x": 4.6998,
+          "size_y": 19.0
+        },
+        {
+          "name": "31",
+          "area": 0.0188,
+          "perimeter": 58.7991,
+          "sew_area": 0.0034,
+          "sew_perimeter": 32.7986,
+          "size_x": 4.6998,
+          "size_y": 20.0
+        },
+        {
+          "name": "Small",
+          "area": 0.0188,
+          "perimeter": 58.7991,
+          "sew_area": 0.0034,
+          "sew_perimeter": 32.7986,
+          "size_x": 4.6998,
+          "size_y": 20.0
+        },
+        {
+          "name": "Medium",
+          "area": 0.0188,
+          "perimeter": 58.7991,
+          "sew_area": 0.0034,
+          "sew_perimeter": 32.7986,
+          "size_x": 4.6998,
+          "size_y": 20.0
+        },
+        {
+          "name": "Large",
+          "area": 0.0188,
+          "perimeter": 58.7991,
+          "sew_area": 0.0034,
+          "sew_perimeter": 32.7986,
+          "size_x": 4.6998,
+          "size_y": 20.0
+        },
+        {
+          "name": "36",
+          "area": 0.0197,
+          "perimeter": 60.7991,
+          "sew_area": 0.0036,
+          "sew_perimeter": 34.7986,
+          "size_x": 4.6998,
+          "size_y": 21.0
+        },
+        {
+          "name": "38",
+          "area": 0.0197,
+          "perimeter": 60.7991,
+          "sew_area": 0.0036,
+          "sew_perimeter": 34.7986,
+          "size_x": 4.6998,
+          "size_y": 21.0
+        },
+        {
+          "name": "40",
+          "area": 0.0197,
+          "perimeter": 60.7991,
+          "sew_area": 0.0036,
+          "sew_perimeter": 34.7986,
+          "size_x": 4.6998,
+          "size_y": 21.0
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "17SKINNY-9",
+      "code": "009\u00c3\u00e6X2",
+      "unique_id": "U00016",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0152,
+          "perimeter": 54.0005,
+          "sew_area": 0.0078,
+          "sew_perimeter": 38.0005,
+          "size_x": 19.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "28",
+          "area": 0.0152,
+          "perimeter": 54.0005,
+          "sew_area": 0.0078,
+          "sew_perimeter": 38.0005,
+          "size_x": 19.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "29",
+          "area": 0.0152,
+          "perimeter": 54.0005,
+          "sew_area": 0.0078,
+          "sew_perimeter": 38.0005,
+          "size_x": 19.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "30",
+          "area": 0.0152,
+          "perimeter": 54.0005,
+          "sew_area": 0.0078,
+          "sew_perimeter": 38.0005,
+          "size_x": 19.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "31",
+          "area": 0.016,
+          "perimeter": 56.0005,
+          "sew_area": 0.0084,
+          "sew_perimeter": 40.0005,
+          "size_x": 20.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "Small",
+          "area": 0.016,
+          "perimeter": 56.0005,
+          "sew_area": 0.0084,
+          "sew_perimeter": 40.0005,
+          "size_x": 20.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "Medium",
+          "area": 0.016,
+          "perimeter": 56.0005,
+          "sew_area": 0.0084,
+          "sew_perimeter": 40.0005,
+          "size_x": 20.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "Large",
+          "area": 0.016,
+          "perimeter": 56.0005,
+          "sew_area": 0.0084,
+          "sew_perimeter": 40.0005,
+          "size_x": 20.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "36",
+          "area": 0.0168,
+          "perimeter": 58.0005,
+          "sew_area": 0.009,
+          "sew_perimeter": 42.0005,
+          "size_x": 21.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "38",
+          "area": 0.0168,
+          "perimeter": 58.0005,
+          "sew_area": 0.009,
+          "sew_perimeter": 42.0005,
+          "size_x": 21.0003,
+          "size_y": 8.0
+        },
+        {
+          "name": "40",
+          "area": 0.0168,
+          "perimeter": 58.0005,
+          "sew_area": 0.009,
+          "sew_perimeter": 42.0005,
+          "size_x": 21.0003,
+          "size_y": 8.0
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "BELT LOOP FRT",
+      "code": "",
+      "unique_id": "U00017",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 84.154,
+        "y": 147.3662
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "28",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "29",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "30",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "31",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Small",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Medium",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Large",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "36",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "38",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "40",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "BELT LOOP BCK",
+      "code": "",
+      "unique_id": "U00018",
+      "description": "",
+      "material": "",
+      "quantity": 1,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 150.6322,
+        "y": 141.4734
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "None",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "28",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "29",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "30",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "31",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Small",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Medium",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "Large",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "36",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "38",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        },
+        {
+          "name": "40",
+          "area": 0.0004,
+          "perimeter": 12.5999,
+          "sew_area": 0.0,
+          "sew_perimeter": 0.0,
+          "size_x": 0.8,
+          "size_y": 5.5
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "Pocket",
+      "code": "",
+      "unique_id": "U00019",
+      "description": "",
+      "material": "Self",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 133.23,
+        "y": 56.2119
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "28",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "29",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "30",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "31",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "Small",
+          "area": 0.0252,
+          "perimeter": 61.863,
+          "sew_area": 0.0173,
+          "sew_perimeter": 51.5666,
+          "size_x": 15.4695,
+          "size_y": 16.5542
+        },
+        {
+          "name": "Medium",
+          "area": 0.0256,
+          "perimeter": 62.383,
+          "sew_area": 0.0177,
+          "sew_perimeter": 52.0866,
+          "size_x": 15.7295,
+          "size_y": 16.5541
+        },
+        {
+          "name": "Large",
+          "area": 0.026,
+          "perimeter": 62.903,
+          "sew_area": 0.018,
+          "sew_perimeter": 52.6066,
+          "size_x": 15.9895,
+          "size_y": 16.554
+        },
+        {
+          "name": "36",
+          "area": 0.0264,
+          "perimeter": 63.423,
+          "sew_area": 0.0183,
+          "sew_perimeter": 53.1266,
+          "size_x": 16.2495,
+          "size_y": 16.5539
+        },
+        {
+          "name": "38",
+          "area": 0.0269,
+          "perimeter": 63.9429,
+          "sew_area": 0.0187,
+          "sew_perimeter": 53.6466,
+          "size_x": 16.5095,
+          "size_y": 16.5538
+        },
+        {
+          "name": "40",
+          "area": 0.0273,
+          "perimeter": 64.4629,
+          "sew_area": 0.019,
+          "sew_perimeter": 54.1666,
+          "size_x": 16.7695,
+          "size_y": 16.5537
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "flap",
+      "code": "",
+      "unique_id": "U00020",
+      "description": "",
+      "material": "Self",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 132.8617,
+        "y": 66.8926
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "28",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "29",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "30",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "31",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "Small",
+          "area": 0.0104,
+          "perimeter": 42.7282,
+          "sew_area": 0.0065,
+          "sew_perimeter": 35.4346,
+          "size_x": 15.4873,
+          "size_y": 6.9869
+        },
+        {
+          "name": "Medium",
+          "area": 0.0108,
+          "perimeter": 43.7282,
+          "sew_area": 0.0068,
+          "sew_perimeter": 36.4346,
+          "size_x": 15.9873,
+          "size_y": 6.9867
+        },
+        {
+          "name": "Large",
+          "area": 0.0111,
+          "perimeter": 44.7282,
+          "sew_area": 0.007,
+          "sew_perimeter": 37.4345,
+          "size_x": 16.4873,
+          "size_y": 6.9866
+        },
+        {
+          "name": "36",
+          "area": 0.0115,
+          "perimeter": 45.7282,
+          "sew_area": 0.0072,
+          "sew_perimeter": 38.4345,
+          "size_x": 16.9873,
+          "size_y": 6.9864
+        },
+        {
+          "name": "38",
+          "area": 0.0118,
+          "perimeter": 46.7282,
+          "sew_area": 0.0075,
+          "sew_perimeter": 39.4345,
+          "size_x": 17.4873,
+          "size_y": 6.9863
+        },
+        {
+          "name": "40",
+          "area": 0.0122,
+          "perimeter": 47.7282,
+          "sew_area": 0.0077,
+          "sew_perimeter": 40.4345,
+          "size_x": 17.9873,
+          "size_y": 6.9862
+        }
+      ],
+      "grading_rules": []
+    },
+    {
+      "name": "WELT",
+      "code": "",
+      "unique_id": "U00021",
+      "description": "",
+      "material": "",
+      "quantity": 2,
+      "contour": null,
+      "internal_lines": [],
+      "notches": [],
+      "drill_holes": [],
+      "position": {
+        "x": 164.2593,
+        "y": 146.4454
+      },
+      "seam_allowance": 0.0,
+      "buffer": 0.0,
+      "nesting": {
+        "rotation": "None",
+        "flip": "Up/Down",
+        "tilt": 0.0
+      },
+      "size_info": [
+        {
+          "name": "26",
+          "area": 0.0066,
+          "perimeter": 38.8314,
+          "sew_area": 0.0016,
+          "sew_perimeter": 28.4441,
+          "size_x": 15.0436,
+          "size_y": 4.3971
+        },
+        {
+          "name": "28",
+          "area": 0.0066,
+          "perimeter": 38.8314,
+          "sew_area": 0.0016,
+          "sew_perimeter": 28.4441,
+          "size_x": 15.0436,
+          "size_y": 4.3971
+        },
+        {
+          "name": "29",
+          "area": 0.0066,
+          "perimeter": 38.8314,
+          "sew_area": 0.0016,
+          "sew_perimeter": 28.4441,
+          "size_x": 15.0436,
+          "size_y": 4.3971
+        },
+        {
+          "name": "30",
+          "area": 0.0066,
+          "perimeter": 38.8314,
+          "sew_area": 0.0016,
+          "sew_perimeter": 28.4441,
+          "size_x": 15.0436,
+          "size_y": 4.3971
+        },
+        {
+          "name": "31",
+          "area": 0.007,
+          "perimeter": 40.836,
+          "sew_area": 0.0017,
+          "sew_perimeter": 30.436,
+          "size_x": 16.0221,
+          "size_y": 4.3972
+        },
+        {
+          "name": "Small",
+          "area": 0.007,
+          "perimeter": 40.836,
+          "sew_area": 0.0017,
+          "sew_perimeter": 30.436,
+          "size_x": 16.0221,
+          "size_y": 4.3972
+        },
+        {
+          "name": "Medium",
+          "area": 0.007,
+          "perimeter": 40.836,
+          "sew_area": 0.0017,
+          "sew_perimeter": 30.436,
+          "size_x": 16.0221,
+          "size_y": 4.3972
+        },
+        {
+          "name": "Large",
+          "area": 0.007,
+          "perimeter": 40.836,
+          "sew_area": 0.0017,
+          "sew_perimeter": 30.436,
+          "size_x": 16.0221,
+          "size_y": 4.3972
+        },
+        {
+          "name": "36",
+          "area": 0.0075,
+          "perimeter": 42.8406,
+          "sew_area": 0.0018,
+          "sew_perimeter": 32.429,
+          "size_x": 17.045,
+          "size_y": 4.3973
+        },
+        {
+          "name": "38",
+          "area": 0.0075,
+          "perimeter": 42.8406,
+          "sew_area": 0.0018,
+          "sew_perimeter": 32.429,
+          "size_x": 17.045,
+          "size_y": 4.3973
+        },
+        {
+          "name": "40",
+          "area": 0.0075,
+          "perimeter": 42.8406,
+          "sew_area": 0.0018,
+          "sew_perimeter": 32.429,
+          "size_x": 17.045,
+          "size_y": 4.3973
+        }
+      ],
+      "grading_rules": []
+    }
+  ],
+  "summary": {
+    "piece_count": 20,
+    "size_count": 11,
+    "total_area": 0.0,
+    "total_perimeter": 0.0
+  }
+}

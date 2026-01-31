@@ -60,7 +60,7 @@ import os
 import json
 import logging
 from pathlib import Path
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, Union
 from datetime import datetime, timedelta
 from dataclasses import dataclass, asdict
 from enum import Enum
@@ -220,7 +220,7 @@ class OrderDatabase:
         self,
         order_id: str,
         status: OrderStatus,
-        production_result: Optional[ProductionResult] = None,
+        production_result: Optional[Union[ProductionResult, Dict]] = None,
         job_id: Optional[str] = None,
     ) -> bool:
         """
@@ -244,24 +244,47 @@ class OrderDatabase:
             }
 
             if production_result:
-                update_data.update(
-                    {
-                        "plt_file": str(production_result.plt_file)
-                        if production_result.plt_file
-                        else None,
-                        "fabric_length_cm": production_result.fabric_length_cm,
-                        "fabric_utilization": production_result.fabric_utilization,
-                        "piece_count": production_result.piece_count,
-                        "processing_time_ms": production_result.processing_time_ms,
-                        "errors": production_result.errors
-                        if production_result.errors
-                        else None,
-                        "warnings": production_result.warnings
-                        if production_result.warnings
-                        else None,
-                        "processed_at": datetime.now().isoformat(),
-                    }
-                )
+                # Handle both ProductionResult objects and dicts
+                if isinstance(production_result, dict):
+                    # It's a dict - access fields directly
+                    update_data.update(
+                        {
+                            "plt_file": production_result.get("plt_file"),
+                            "fabric_length_cm": production_result.get(
+                                "fabric_length_cm"
+                            ),
+                            "fabric_utilization": production_result.get(
+                                "fabric_utilization"
+                            ),
+                            "piece_count": production_result.get("piece_count"),
+                            "processing_time_ms": production_result.get(
+                                "processing_time_ms"
+                            ),
+                            "errors": production_result.get("errors"),
+                            "warnings": production_result.get("warnings"),
+                            "processed_at": datetime.now().isoformat(),
+                        }
+                    )
+                else:
+                    # It's a ProductionResult object - access attributes
+                    update_data.update(
+                        {
+                            "plt_file": str(production_result.plt_file)
+                            if production_result.plt_file
+                            else None,
+                            "fabric_length_cm": production_result.fabric_length_cm,
+                            "fabric_utilization": production_result.fabric_utilization,
+                            "piece_count": production_result.piece_count,
+                            "processing_time_ms": production_result.processing_time_ms,
+                            "errors": production_result.errors
+                            if production_result.errors
+                            else None,
+                            "warnings": production_result.warnings
+                            if production_result.warnings
+                            else None,
+                            "processed_at": datetime.now().isoformat(),
+                        }
+                    )
 
             if job_id:
                 update_data["job_id"] = job_id

@@ -1,0 +1,62 @@
+<STYLE>
+      <NAME></NAME>
+      <FILENAME>C:\DEMOFILE\FB-BODY.DSN</FILENAME>
+      <MATERIAL></MATERIAL>
+      <SIZE>
+         <NAME>M</NAME>
+         <NB_OF_SETS>2</NB_OF_SETS>
+         <SUM_AREA>3.2701</SUM_AREA>
+         <SUM_PERIMETER>2767.1846</SUM_PERIMETER>
+         <PIECE>
+            <NAME>Sleeve</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="57.7276" SIZE_Y="68.0830" AREA="0.2714" PERIMETER="206.4324" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="4" TOTAL="4" QUANT="2,2,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="272.0638" Y-CENTER="94.0796" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="314.0638" Y-CENTER="49.3796" ANGLE="180.0" FLIP="down" />
+               <POSITION X-CENTER="325.4638" Y-CENTER="113.1796" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="371.8638" Y-CENTER="34.0796" ANGLE="-180.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Back</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="93.9533" SIZE_Y="33.9722" AREA="0.2935" PERIMETER="247.8642" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="4" TOTAL="4" QUANT="2,2,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="46.9766" Y-CENTER="17.0350" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="46.9766" Y-CENTER="51.0350" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="46.9766" Y-CENTER="85.0350" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="46.9766" Y-CENTER="119.0350" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front</NAME>
+            <CODE></CODE>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="92.4528" SIZE_Y="31.1511" AREA="0.2525" PERIMETER="237.4996" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="4" TOTAL="4" QUANT="2,2,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="137.0264" Y-CENTER="69.0456" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="138.6264" Y-CENTER="108.8456" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="138.6264" Y-CENTER="27.1456" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="225.2264" Y-CENTER="131.6456" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>

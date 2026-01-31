@@ -1,0 +1,1275 @@
+{
+  "type": "marker",
+  "filename": "V:\\3D Samples\\Sample pack O15\\Marker\\Jacket Sloper.MRK",
+  "name": "Jacket Sloper",
+  "optitex_version": "15.0.134.0",
+  "date": "12.05.15",
+  "nesting": {
+    "name": "Standard Quick Nesting",
+    "version": "0.00"
+  },
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "fabric": {
+    "length": 601.3232,
+    "width": 148.0,
+    "layout_mode": "Single",
+    "folding": "none",
+    "num_plies": 1
+  },
+  "efficiency": 79.1333,
+  "summary": {
+    "total_area": 7.0425,
+    "total_perimeter": 12905.8512,
+    "placed_count": 72,
+    "notch_count": 156,
+    "notch_cut_length": 139.2002
+  },
+  "styles": [
+    {
+      "name": "Jacket Sloper-For Eva",
+      "filename": "K:\\Install\\Ver10 Samples\\PDS\\Slopers-Blocks for Eva+3D\\Jacket Sloper-For Eva.PDS",
+      "material": "",
+      "sizes": {
+        "34": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 239.5658,
+              "y_center": 126.1818,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 67.3576,
+              "size_y": 24.064,
+              "area": 0.1186,
+              "perimeter": 245.8974
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 291.9646,
+              "y_center": 23.2909,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 67.3576,
+              "size_y": 24.064,
+              "area": 0.1186,
+              "perimeter": 245.8974
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 35.3164,
+              "y_center": 93.9256,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.6257,
+              "size_y": 27.146,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 173.7338,
+              "y_center": 39.5874,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.6257,
+              "size_y": 27.146,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 559.3556,
+              "y_center": 113.8798,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 11.915,
+              "area": 0.0362,
+              "perimeter": 115.5739
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 576.8995,
+              "y_center": 79.4576,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 11.915,
+              "area": 0.0362,
+              "perimeter": 115.5739
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 554.1052,
+              "y_center": 9.3096,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 65.7024,
+              "size_y": 18.6,
+              "area": 0.0881,
+              "perimeter": 159.0503
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 567.7831,
+              "y_center": 138.6903,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 65.7024,
+              "size_y": 18.6,
+              "area": 0.0881,
+              "perimeter": 159.0503
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 493.5865,
+              "y_center": 24.2877,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 61.9148,
+              "size_y": 22.534,
+              "area": 0.0997,
+              "perimeter": 148.2092
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 551.8568,
+              "y_center": 41.7587,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 61.9148,
+              "size_y": 22.534,
+              "area": 0.0997,
+              "perimeter": 148.2092
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 213.4996,
+              "y_center": 60.9925,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 12.7071,
+              "area": 0.0541,
+              "perimeter": 129.834
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "34",
+            "position": {
+              "x_center": 408.1013,
+              "y_center": 141.6367,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 12.7071,
+              "area": 0.0541,
+              "perimeter": 129.834
+            }
+          }
+        ],
+        "36": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 361.723,
+              "y_center": 37.056,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 68.0261,
+              "size_y": 24.3152,
+              "area": 0.1257,
+              "perimeter": 248.924
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 491.4205,
+              "y_center": 66.0636,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 68.0261,
+              "size_y": 24.3152,
+              "area": 0.1257,
+              "perimeter": 248.924
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 105.9153,
+              "y_center": 134.8069,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.5321,
+              "size_y": 26.3462,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 155.8512,
+              "y_center": 74.9607,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.5321,
+              "size_y": 26.3462,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 267.0772,
+              "y_center": 64.7071,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 12.415,
+              "area": 0.0384,
+              "perimeter": 116.4868
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 510.499,
+              "y_center": 141.7841,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 12.415,
+              "area": 0.0384,
+              "perimeter": 116.4868
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 33.104,
+              "y_center": 116.8124,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 66.2024,
+              "size_y": 19.1,
+              "area": 0.0921,
+              "perimeter": 161.031
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 443.7668,
+              "y_center": 83.6944,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 66.2024,
+              "size_y": 19.1,
+              "area": 0.0921,
+              "perimeter": 161.031
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 31.0575,
+              "y_center": 52.9873,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 62.1081,
+              "size_y": 23.034,
+              "area": 0.1029,
+              "perimeter": 149.3377
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 555.8824,
+              "y_center": 63.5373,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 62.1081,
+              "size_y": 23.034,
+              "area": 0.1029,
+              "perimeter": 149.3377
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 238.4558,
+              "y_center": 141.3867,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 13.2071,
+              "area": 0.0567,
+              "perimeter": 130.7356
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 462.7974,
+              "y_center": 141.2505,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 13.2071,
+              "area": 0.0567,
+              "perimeter": 130.7356
+            }
+          }
+        ],
+        "38": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 425.7846,
+              "y_center": 51.999,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 68.6915,
+              "size_y": 24.5825,
+              "area": 0.133,
+              "perimeter": 251.9599
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 442.0967,
+              "y_center": 105.542,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 68.6915,
+              "size_y": 24.5825,
+              "area": 0.133,
+              "perimeter": 251.9599
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 227.0496,
+              "y_center": 80.147,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.4415,
+              "size_y": 25.5825,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 305.1128,
+              "y_center": 78.0783,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.4415,
+              "size_y": 25.5825,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 559.3556,
+              "y_center": 89.8193,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 12.915,
+              "area": 0.0405,
+              "perimeter": 117.4084
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 559.3556,
+              "y_center": 126.2947,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 12.915,
+              "area": 0.0405,
+              "perimeter": 117.4084
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 374.3909,
+              "y_center": 100.9329,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 66.7024,
+              "size_y": 19.6,
+              "area": 0.096,
+              "perimeter": 163.0155
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 429.0523,
+              "y_center": 31.462,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 66.7024,
+              "size_y": 19.6,
+              "area": 0.096,
+              "perimeter": 163.0155
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 31.1543,
+              "y_center": 74.8392,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 62.3015,
+              "size_y": 23.534,
+              "area": 0.106,
+              "perimeter": 150.4693
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 441.4583,
+              "y_center": 124.9178,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 62.3015,
+              "size_y": 23.534,
+              "area": 0.106,
+              "perimeter": 150.4693
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 149.3806,
+              "y_center": 55.065,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 13.7071,
+              "area": 0.0592,
+              "perimeter": 131.6453
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 549.4252,
+              "y_center": 24.7586,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 13.7071,
+              "area": 0.0592,
+              "perimeter": 131.6453
+            }
+          }
+        ],
+        "40": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 375.5806,
+              "y_center": 119.5143,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 69.4699,
+              "size_y": 25.5922,
+              "area": 0.1403,
+              "perimeter": 255.0044
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 428.7747,
+              "y_center": 12.8055,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 69.4699,
+              "size_y": 25.5922,
+              "area": 0.1403,
+              "perimeter": 255.0044
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 35.2383,
+              "y_center": 135.0569,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.4699,
+              "size_y": 25.5922,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 305.8736,
+              "y_center": 103.6623,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.4699,
+              "size_y": 25.5922,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 430.1043,
+              "y_center": 71.0042,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 13.415,
+              "area": 0.0427,
+              "perimeter": 118.3366
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 508.1785,
+              "y_center": 127.2454,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 13.415,
+              "area": 0.0427,
+              "perimeter": 118.3366
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 33.6041,
+              "y_center": 32.6365,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 67.2024,
+              "size_y": 20.1,
+              "area": 0.1,
+              "perimeter": 164.9997
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 174.421,
+              "y_center": 95.0742,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 67.2024,
+              "size_y": 20.1,
+              "area": 0.1,
+              "perimeter": 164.9997
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 360.5927,
+              "y_center": 56.0651,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 62.495,
+              "size_y": 24.034,
+              "area": 0.1092,
+              "perimeter": 151.6032
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 508.1671,
+              "y_center": 89.2795,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 62.495,
+              "size_y": 24.034,
+              "area": 0.1092,
+              "perimeter": 151.6032
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 492.7286,
+              "y_center": 7.1133,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 14.2071,
+              "area": 0.0617,
+              "perimeter": 132.5623
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 564.1933,
+              "y_center": 101.7828,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 14.2071,
+              "area": 0.0617,
+              "perimeter": 132.5623
+            }
+          }
+        ],
+        "42": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 35.1315,
+              "y_center": 13.3083,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.2435,
+              "size_y": 26.5979,
+              "area": 0.1478,
+              "perimeter": 258.0569
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 170.8789,
+              "y_center": 114.9763,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.2435,
+              "size_y": 26.5979,
+              "area": 0.1478,
+              "perimeter": 258.0569
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 293.5297,
+              "y_center": 46.5102,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.4877,
+              "size_y": 25.5981,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 358.8327,
+              "y_center": 12.8082,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.4877,
+              "size_y": 25.5981,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 233.8522,
+              "y_center": 21.3904,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 13.915,
+              "area": 0.0449,
+              "perimeter": 119.2704
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 232.9128,
+              "y_center": 35.3519,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 13.915,
+              "area": 0.0449,
+              "perimeter": 119.2704
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 101.8974,
+              "y_center": 115.2564,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 67.7024,
+              "size_y": 20.6,
+              "area": 0.1041,
+              "perimeter": 166.9854
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 306.992,
+              "y_center": 122.8141,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 67.7024,
+              "size_y": 20.6,
+              "area": 0.1041,
+              "perimeter": 166.9854
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 239.3748,
+              "y_center": 102.7197,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 62.6884,
+              "size_y": 24.534,
+              "area": 0.1124,
+              "perimeter": 152.7399
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 491.2226,
+              "y_center": 46.6197,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 62.6884,
+              "size_y": 24.534,
+              "area": 0.1124,
+              "perimeter": 152.7399
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 287.5471,
+              "y_center": 7.3632,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 14.7071,
+              "area": 0.0643,
+              "perimeter": 133.4858
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 351.6107,
+              "y_center": 140.6368,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 14.7071,
+              "area": 0.0643,
+              "perimeter": 133.4858
+            }
+          }
+        ],
+        "44": [
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 102.7207,
+              "y_center": 32.696,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 71.0135,
+              "size_y": 27.5997,
+              "area": 0.1554,
+              "perimeter": 261.1181
+            }
+          },
+          {
+            "piece_name": "frontpanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 173.9277,
+              "y_center": 13.8092,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 71.0135,
+              "size_y": 27.5997,
+              "area": 0.1554,
+              "perimeter": 261.1181
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 105.6343,
+              "y_center": 93.9794,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 70.4966,
+              "size_y": 25.6009,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "frontpanel_42",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 375.5018,
+              "y_center": 80.1642,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 70.4966,
+              "size_y": 25.6009,
+              "area": 0.1423,
+              "perimeter": 256.9514
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 233.831,
+              "y_center": 7.2171,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 14.415,
+              "area": 0.047,
+              "perimeter": 120.2087
+            }
+          },
+          {
+            "piece_name": "sidepanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 232.8453,
+              "y_center": 49.5315,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 48.8474,
+              "size_y": 14.415,
+              "area": 0.047,
+              "perimeter": 120.2087
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 104.3101,
+              "y_center": 10.5596,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 68.2024,
+              "size_y": 21.1,
+              "area": 0.1082,
+              "perimeter": 168.9726
+            }
+          },
+          {
+            "piece_name": "backpanel",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 175.0833,
+              "y_center": 137.4404,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 68.2024,
+              "size_y": 21.1,
+              "area": 0.1082,
+              "perimeter": 168.9726
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 93.5198,
+              "y_center": 56.7334,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 62.8845,
+              "size_y": 25.034,
+              "area": 0.1156,
+              "perimeter": 153.8795
+            }
+          },
+          {
+            "piece_name": "sleeve 1",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 507.1621,
+              "y_center": 112.4876,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 62.8845,
+              "size_y": 25.034,
+              "area": 0.1156,
+              "perimeter": 153.8795
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 90.2906,
+              "y_center": 75.8654,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 15.2071,
+              "area": 0.0668,
+              "perimeter": 134.4153
+            }
+          },
+          {
+            "piece_name": "sleeve 2",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 295.0269,
+              "y_center": 140.3868,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 58.5227,
+              "size_y": 15.2071,
+              "area": 0.0668,
+              "perimeter": 134.4153
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

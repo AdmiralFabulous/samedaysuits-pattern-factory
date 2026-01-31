@@ -1,0 +1,32 @@
+{
+  "filename": "Basic Tee_2D.PDS",
+  "filesize": 287395,
+  "sha256": "fbe616d6764d87cf70f437d6de09e17c297d634e6d57c023d55a4456c78f70d1",
+  "file_type": "pds",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "STYLE",
+      "start_offset": 2572,
+      "end_offset": 17243,
+      "size": 14671,
+      "sha256": "3c525bae0391d0ae044020476194adc280704ece241c63d8b15ff65b99a1707d",
+      "output_file": "xml_00_STYLE.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 74,
+      "end_offset": 2564,
+      "size": 2490,
+      "sha256": "d9dbe2a87316f805c1d48bd0b707c82de0a355341aa167d6857b4fec4b139b1f",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted STYLE XML (14,671 bytes) to xml_00_STYLE.xml",
+    "Extracted JPEG (2,490 bytes) to image_00.jpg"
+  ]
+}

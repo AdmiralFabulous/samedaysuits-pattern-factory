@@ -1,0 +1,32 @@
+{
+  "filename": "Basic Pants.MRK",
+  "filesize": 313596,
+  "sha256": "d155e4f2947c864a4e7bace90fcf65a493b0e9c1818aa686d38e00a0e431dc6f",
+  "file_type": "mrk",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "MARKER",
+      "start_offset": 49,
+      "end_offset": 39196,
+      "size": 39147,
+      "sha256": "2aa0d0ae8b8ca4212f85e9b80327e8b4dfb260e43589ede8858acf67b9030a69",
+      "output_file": "xml_00_MARKER.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 39212,
+      "end_offset": 43549,
+      "size": 4337,
+      "sha256": "611746fb4118cdeda4ab55d27b3b0f73f630e3f2bdc6a689fdbbf81f84b6950d",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted MARKER XML (39,147 bytes) to xml_00_MARKER.xml",
+    "Extracted JPEG (4,337 bytes) to image_00.jpg"
+  ]
+}

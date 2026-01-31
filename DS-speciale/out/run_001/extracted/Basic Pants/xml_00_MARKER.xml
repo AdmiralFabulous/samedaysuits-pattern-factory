@@ -1,0 +1,629 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Basic Pants</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Basic Pants.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>602.4738</LENGTH>
+   <WIDTH>148.0000</WIDTH>
+   <EFFICIENCY>66.3042</EFFICIENCY>
+   <SUM_AREA>5.9121</SUM_AREA>
+   <SUM_PERIMETER>6127.0123</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>24</PLACED_ON_TABLE>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>84</QUANTITY>
+         <SUM_LENGTH>100.8001</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME>Basic pants-For Eva</NAME>
+      <FILENAME>K:\Install\Ver10 Samples\PDS\Slopers-Blocks for Eva+3D\Basic pants-For Eva.PDS</FILENAME>
+      <MATERIAL></MATERIAL>
+      <SIZE>
+         <NAME>34</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.8934</SUM_AREA>
+         <SUM_PERIMETER>994.0026</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="104.4795" SIZE_Y="32.2260" AREA="0.2397" PERIMETER="251.6956" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="260.8983" Y-CENTER="131.8774" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="342.2317" Y-CENTER="16.1226" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="102.4051" SIZE_Y="26.9420" AREA="0.2070" PERIMETER="245.3057" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="158.1104" Y-CENTER="13.4807" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="551.2712" Y-CENTER="13.4710" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.9297</SUM_AREA>
+         <SUM_PERIMETER>1004.7988</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="104.9895" SIZE_Y="33.5260" AREA="0.2489" PERIMETER="254.3783" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="52.5148" Y-CENTER="131.2170" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="159.0103" Y-CENTER="67.4405" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="102.9051" SIZE_Y="28.2338" AREA="0.2159" PERIMETER="248.0211" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="133.8952" Y-CENTER="40.0073" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="366.0122" Y-CENTER="102.3019" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>0.9663</SUM_AREA>
+         <SUM_PERIMETER>1015.6502</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="105.4996" SIZE_Y="34.8260" AREA="0.2582" PERIMETER="257.0771" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="470.6540" Y-CENTER="95.7547" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="469.7077" Y-CENTER="130.5775" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="103.4051" SIZE_Y="29.5338" AREA="0.2249" PERIMETER="250.7480" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="158.0754" Y-CENTER="98.5322" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="366.5510" Y-CENTER="73.9212" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0034</SUM_AREA>
+         <SUM_PERIMETER>1026.5528</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="106.0097" SIZE_Y="36.1260" AREA="0.2676" PERIMETER="259.7908" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="447.4491" Y-CENTER="18.0725" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="449.1514" Y-CENTER="54.1850" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="103.9051" SIZE_Y="30.8338" AREA="0.2340" PERIMETER="253.4855" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="263.0725" Y-CENTER="68.2343" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="547.1172" Y-CENTER="71.7552" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0408</SUM_AREA>
+         <SUM_PERIMETER>1037.5046</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="106.5197" SIZE_Y="37.4260" AREA="0.2771" PERIMETER="262.5186" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="53.2799" Y-CENTER="96.4673" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="238.3865" Y-CENTER="40.5482" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="104.4051" SIZE_Y="32.1338" AREA="0.2432" PERIMETER="256.2337" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="156.7860" Y-CENTER="128.9507" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="365.0654" Y-CENTER="131.9235" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>0</NB_OF_SETS>
+         <SUM_AREA>1.0785</SUM_AREA>
+         <SUM_PERIMETER>1048.5033</SUM_PERIMETER>
+         <PIECE>
+            <NAME>PANTS MAP SIZE 38</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL></MATERIAL>
+            <GEOM_INFO SIZE_X="105.5000" SIZE_Y="66.7000" AREA="0.7011" PERIMETER="343.4252" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="0" TOTAL="0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+         </PIECE>
+         <PIECE>
+            <NAME>Back Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>cotton</MATERIAL>
+            <GEOM_INFO SIZE_X="107.0298" SIZE_Y="38.7260" AREA="0.2867" PERIMETER="265.2595" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="211.8981" Y="24.8719" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="53.5247" Y-CENTER="19.3724" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="53.5349" Y-CENTER="59.1933" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>Front Basic Pants</NAME>
+            <CODE>00001</CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="104.9051" SIZE_Y="33.4338" AREA="0.2525" PERIMETER="258.9922" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="Up/Down" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <ABS X="176.3108" Y="24.2859" DIR="XY" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="262.1370" Y-CENTER="99.7283" ANGLE="0.0" FLIP="down" />
+               <POSITION X-CENTER="344.0767" Y-CENTER="48.2155" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>
+   <VIEW FACTOR="0.04" >
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.10cm" height="5.92cm" viewBox="0 0 60249 14802" >
+         <rect x="1" y="1" width="60248" height="14801" fill="#663399" stroke="#402b2b" stroke-width="1" />
+         <polygon fill="#008000" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="7677,10927 7022,11161 6645,11285 6266,11397 6046,11454 5692,11533 5330,11599 4820,11677 4316,11745 44,11871 11,12508 2,12941 9,13336 50,14100 4314,14245 7865,14746 8581,14793 9080,14800 9356,14793 9575,14776 9689,14763 9940,14722 10241,14657 10494,14595 10563,14595 10661,13253 10705,12246 10506,12225 8506,11945 8275,11854 8167,11800 8069,11738 8018,11697 7976,11656 7934,11608 7897,11555 7843,11459 7789,11331 7751,11216 7718,11094 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7865,14746 L7935,14750" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8515,14789 L8585,14794" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8506,11945 L8460,11998" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8057,11730 L7997,11764" />
+         </g>
+         <polygon fill="#008000" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="7678,10818 7023,10585 6646,10461 6267,10349 6047,10292 5693,10213 5331,10146 4821,10068 4317,10000 45,9874 12,9237 3,8804 10,8409 51,7645 4315,7500 7866,7000 8582,6952 9081,6945 9357,6953 9576,6969 9691,6982 9941,7023 10242,7088 10495,7150 10564,7150 10662,8492 10706,9500 10507,9520 8507,9800 8276,9892 8168,9945 8070,10007 8019,10048 7977,10089 7935,10138 7898,10190 7844,10286 7790,10414 7752,10530 7719,10652 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7866,7000 L7936,6995" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8516,6957 L8586,6952" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8507,9800 L8461,9747" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8058,10016 L7998,9981" />
+         </g>
+         <polygon fill="#ff00ff" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="7677,7026 7021,6803 6644,6685 6264,6580 6044,6526 5689,6453 5328,6392 4817,6322 4316,6263 44,6137 12,5514 3,5091 10,4705 50,3958 4314,3813 7815,3337 8531,3290 9030,3283 9306,3290 9525,3307 9639,3320 9890,3361 10191,3426 10444,3488 10513,3488 10611,4830 10655,5737 10456,5758 8456,6038 8236,6129 8134,6182 8070,6221 8012,6265 7979,6295 7938,6339 7900,6388 7866,6442 7826,6519 7791,6603 7740,6761 7704,6907 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7815,3337 L7885,3333" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8465,3294 L8535,3289" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8456,6038 L8409,5986" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8032,6249 L7971,6215" />
+         </g>
+         <polygon fill="#65f9e1" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="7674,3356 7014,3166 6636,3067 6255,2981 6035,2938 5679,2882 5317,2838 4806,2793 4313,2758 41,2632 11,2052 3,1658 10,1299 47,603 4311,458 7662,57 8378,10 8877,3 9153,10 9372,27 9486,40 9737,81 10038,146 10291,208 10360,208 10502,2157 10303,2178 8303,2458 8116,2548 8030,2599 7952,2656 7911,2694 7877,2732 7843,2780 7813,2832 7771,2926 7733,3051 7703,3186 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7662,57 L7732,53" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8312,14 L8382,10" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M8303,2458 L8254,2408" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M7952,2656 L7890,2624" />
+         </g>
+         <polygon fill="#0d26bd" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="18241,14752 14939,14547 10692,14450 10727,13859 10735,13482 10727,13160 10692,12569 14914,12661 15515,12670 15914,12664 16211,12647 16505,12617 16655,12595 16920,12544 17194,12477 17520,12382 17953,12237 18320,12106 18385,12255 18418,12314 18468,12386 18511,12429 18555,12463 18637,12510 18729,12549 18885,12601 20885,12721 20932,14600 20446,14701 20165,14748 20069,14760 19830,14783 19550,14796 18954,14799 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18241,14752 L18172,14747" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18525,12440 L18495,12504" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18885,12601 L18870,12670" />
+         </g>
+         <polygon fill="#65f9e1" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="15845,12164 12493,11934 8246,11838 8279,11286 8289,10844 8282,10513 8245,9907 12468,9999 13070,9999 13470,9986 13767,9964 14062,9929 14212,9905 14477,9850 14749,9778 15075,9678 15506,9526 15873,9389 15946,9548 15981,9612 16037,9688 16083,9733 16113,9756 16160,9788 16249,9832 16387,9883 16488,9914 18488,10034 18536,12012 18048,12114 17768,12161 17673,12173 17432,12195 17096,12210 16557,12212 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M15845,12164 L15775,12160" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M16096,9743 L16066,9807" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M16488,9914 L16474,9983" />
+         </g>
+         <polygon fill="#65f9e1" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="18324,6381 17664,6570 17285,6669 16904,6756 16685,6798 16329,6854 15966,6898 15455,6943 14962,6978 10690,7104 10661,7684 10653,8078 10659,8438 10697,9133 14960,9279 18312,9679 19028,9727 19526,9733 19802,9726 20021,9710 20136,9696 20387,9656 20688,9590 20940,9528 21010,9528 21152,7579 20953,7558 18953,7278 18766,7188 18679,7137 18601,7080 18561,7042 18527,7004 18493,6956 18463,6905 18421,6811 18382,6686 18353,6550 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18312,9679 L18382,9683" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18961,9722 L19031,9727" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18953,7278 L18903,7328" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18602,7080 L18539,7112" />
+         </g>
+         <polygon fill="#e5efb8" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="18288,6377 14886,6122 10639,6025 10673,5459 10683,5119 10684,5006 10676,4667 10638,4044 14861,4136 15465,4127 15866,4108 16163,4082 16459,4042 16608,4015 16873,3955 17145,3880 17469,3774 17898,3616 18266,3471 18346,3641 18385,3709 18414,3751 18445,3789 18495,3837 18557,3883 18646,3930 18764,3976 18931,4027 20931,4147 20979,6225 20546,6316 20266,6365 20116,6385 19874,6408 19538,6423 19000,6424 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18288,6377 L18218,6372" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18506,3846 L18476,3910" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18931,4027 L18917,4095" />
+         </g>
+         <polygon fill="#ff00ff" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="18209,3465 14707,3160 10460,3063 10496,2469 10506,2112 10507,1992 10499,1636 10459,982 14682,1074 15290,1046 15692,1014 15991,979 16286,929 16436,898 16700,830 16970,746 17291,630 17717,458 18087,299 18181,490 18227,566 18278,635 18316,676 18352,708 18419,755 18473,785 18531,813 18656,859 18852,915 20852,1035 20900,3313 20465,3405 20185,3454 20037,3474 19793,3496 19457,3511 18921,3513 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18209,3465 L18139,3459" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18361,715 L18332,779" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M18852,915 L18838,983" />
+         </g>
+         <polygon fill="#ff00ff" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="26188,8875 25531,9097 25154,9215 24774,9321 24555,9374 24200,9447 23838,9508 23328,9578 22826,9637 18555,9764 18522,10386 18514,10809 18521,11196 18561,11942 22824,12088 26326,12563 27042,12611 27541,12617 27816,12610 28036,12594 28150,12581 28401,12540 28702,12474 28954,12413 29024,12413 29121,11071 29166,10163 28967,10143 26967,9863 26747,9771 26644,9719 26581,9679 26523,9635 26489,9605 26449,9562 26411,9512 26377,9459 26336,9381 26302,9298 26251,9139 26215,8994 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26326,12563 L26396,12568" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26975,12606 L27045,12611" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26967,9863 L26920,9915" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M26543,9651 L26481,9685" />
+         </g>
+         <polygon fill="#0000ff" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="28813,6483 25361,6764 21113,6860 21148,7441 21159,7789 21159,7905 21151,8253 21113,8891 25336,8799 25942,8818 26343,8843 26641,8874 26937,8919 27086,8948 27350,9012 27621,9092 27944,9202 28372,9368 28741,9519 28828,9339 28870,9267 28901,9223 28935,9182 28988,9132 29052,9086 29105,9056 29162,9029 29285,8984 29456,8934 31456,8814 31504,6635 31070,6544 30790,6495 30641,6475 30398,6452 30062,6438 29525,6436 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28813,6483 L28743,6489" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28998,9124 L28968,9060" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29456,8934 L29441,8865" />
+         </g>
+         <polygon fill="#008000" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="28769,3204 25217,3534 20970,3631 21006,4240 21018,4605 21018,4728 21010,5092 20969,5762 25192,5670 25801,5708 26205,5745 26504,5786 26800,5840 26950,5874 27213,5946 27482,6034 27802,6155 28226,6334 28597,6500 28683,6326 28747,6219 28802,6146 28843,6103 28881,6069 28949,6022 28985,6001 29063,5963 29191,5916 29351,5870 29412,5854 31412,5734 31444,4222 31448,3872 31460,3356 31024,3264 30744,3215 30597,3196 30352,3173 30016,3158 29482,3156 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28769,3204 L28699,3210" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28888,6064 L28859,6000" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29412,5854 L29398,5786" />
+         </g>
+         <polygon fill="#0d26bd" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="28537,3225 27876,3046 27497,2954 27116,2873 26896,2834 26540,2784 26177,2746 25666,2709 25176,2682 20904,2556 20873,1934 20867,1606 20873,1255 20910,577 25173,432 28475,56 29191,9 29690,2 29965,9 30185,26 30299,39 30550,80 30851,145 31104,207 31173,207 31271,1549 31315,2056 31116,2077 29116,2357 28940,2447 28859,2497 28809,2534 28764,2574 28705,2643 28674,2692 28648,2744 28611,2840 28579,2966 28548,3148 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28475,56 L28545,52" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29125,13 L29195,8" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M29116,2357 L29065,2308" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M28789,2550 L28726,2520" />
+         </g>
+         <polygon fill="#0d26bd" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="36670,11577 36009,11756 35630,11848 35249,11929 35029,11968 34673,12018 34310,12056 33799,12093 33309,12120 29037,12246 29006,12868 29000,13196 29007,13547 29043,14225 33307,14370 36608,14746 37325,14793 37823,14800 38099,14793 38318,14776 38433,14763 38683,14722 38985,14657 39237,14595 39306,14595 39404,13253 39448,12746 39249,12725 37249,12445 37073,12355 36992,12305 36942,12268 36897,12228 36839,12159 36808,12110 36781,12058 36745,11962 36712,11836 36681,11654 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M36608,14746 L36678,14750" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37258,14789 L37328,14794" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37249,12445 L37199,12494" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M36923,12252 L36860,12282" />
+         </g>
+         <polygon fill="#008000" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="36963,11604 33411,11274 29164,11177 29200,10568 29212,10203 29212,10080 29204,9715 29163,9046 33386,9138 33995,9100 34398,9062 34698,9022 34994,8968 35144,8934 35407,8862 35676,8774 35996,8653 36420,8474 36791,8308 36877,8482 36941,8589 36996,8662 37037,8705 37075,8738 37143,8786 37179,8807 37257,8844 37385,8891 37545,8937 37606,8953 39606,9073 39638,10586 39642,10936 39654,11452 39218,11544 38938,11592 38791,11612 38546,11635 38210,11650 37675,11651 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M36963,11604 L36893,11597" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37082,8744 L37053,8808" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M37606,8953 L37592,9022" />
+         </g>
+         <polygon fill="#e5efb8" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="39136,5980 35733,6235 31486,6331 31520,6898 31531,7237 31531,7351 31523,7690 31486,8313 35709,8221 36313,8230 36713,8249 37011,8275 37306,8315 37456,8342 37720,8401 37992,8477 38316,8582 38746,8741 39114,8886 39193,8715 39232,8648 39261,8606 39293,8567 39342,8519 39405,8474 39493,8427 39612,8381 39779,8330 41779,8210 41826,6132 41394,6040 41113,5992 40963,5971 40722,5949 40386,5934 39848,5932 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39136,5980 L39066,5985" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39353,8510 L39324,8447" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39779,8330 L39764,8261" />
+         </g>
+         <polygon fill="#65f9e1" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="39057,3207 35704,3437 31457,3533 31491,4085 31501,4527 31493,4858 31457,5465 35680,5373 36282,5373 36682,5385 36979,5407 37274,5442 37424,5466 37688,5522 37961,5593 38286,5693 38718,5845 39085,5983 39157,5823 39193,5759 39249,5683 39295,5638 39324,5615 39372,5583 39461,5539 39599,5488 39700,5457 41700,5337 41747,3359 41260,3257 40979,3210 40885,3198 40644,3176 40308,3161 39769,3159 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39057,3207 L38987,3211" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39307,5628 L39278,5564" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39700,5457 L39685,5388" />
+         </g>
+         <polygon fill="#ff00ff" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="39037,49 35535,355 31288,451 31323,1046 31334,1403 31335,1522 31326,1878 31287,2532 35510,2440 36118,2469 36520,2500 36819,2536 37114,2585 37264,2617 37528,2685 37798,2769 38119,2884 38545,3057 38915,3215 39009,3024 39055,2949 39106,2880 39144,2838 39180,2806 39247,2760 39301,2729 39359,2702 39484,2656 39680,2600 41680,2480 41728,202 41293,110 41013,61 40865,41 40621,18 40285,4 39749,2 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39037,49 L38967,56" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39189,2800 L39160,2736" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M39680,2600 L39666,2531" />
+         </g>
+         <polygon fill="#0000ff" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="47119,14800 46461,14589 46083,14477 45703,14378 45484,14328 45128,14261 44766,14205 44256,14144 43757,14093 39485,13966 39454,13358 39445,12944 39452,12567 39492,11837 43755,11692 47207,11242 47923,11194 48421,11187 48697,11195 48916,11211 49031,11224 49282,11265 49583,11331 49835,11392 49905,11392 50002,12734 50046,13542 49847,13562 47847,13842 47638,13933 47541,13985 47481,14024 47426,14067 47395,14096 47356,14140 47320,14189 47287,14242 47250,14319 47217,14402 47165,14583 47128,14753 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47207,11242 L47277,11237" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47856,11199 L47926,11194" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47847,13842 L47800,13791" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47448,14049 L47386,14016" />
+         </g>
+         <polygon fill="#0000ff" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="47289,7576 46631,7787 46254,7899 45873,7998 45654,8048 45298,8116 44937,8171 44426,8233 43927,8284 39655,8410 39624,9018 39616,9432 39623,9809 39662,10539 43925,10684 47377,11134 48093,11182 48592,11189 48867,11181 49087,11165 49201,11152 49452,11111 49753,11046 50005,10984 50075,10984 50172,9642 50217,8834 50018,8814 48018,8534 47809,8443 47712,8391 47652,8352 47597,8309 47565,8280 47526,8237 47490,8187 47458,8134 47420,8057 47388,7974 47336,7793 47299,7624 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47377,11134 L47447,11139" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48026,11178 L48096,11182" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M48018,8534 L47970,8585" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M47618,8327 L47556,8360" />
+         </g>
+         <polygon fill="#e5efb8" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="49464,6967 48805,6767 48427,6661 48046,6568 47827,6522 47471,6460 47109,6411 46598,6357 46102,6314 41830,6188 41800,5594 41791,5190 41798,4822 41837,4109 46100,3964 49502,3539 50218,3491 50716,3484 50992,3492 51211,3508 51326,3521 51577,3562 51878,3627 52130,3689 52200,3689 52297,5031 52341,5739 52142,5759 50142,6039 49944,6130 49853,6181 49770,6240 49726,6278 49691,6317 49654,6365 49623,6417 49578,6511 49535,6637 49501,6774 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49502,3539 L49572,3534" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50151,3495 L50221,3491" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50142,6039 L50094,5989" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49767,6242 L49705,6209" />
+         </g>
+         <polygon fill="#e5efb8" comment="Back Basic Pants" stroke="#590202" stroke-width="2" points="49369,2 48710,202 48332,308 47952,401 47732,447 47376,509 47014,558 46503,612 46008,654 41736,781 41705,1375 41697,1779 41704,2147 41742,2860 46005,3005 49407,3430 50123,3478 50622,3485 50897,3477 51117,3461 51231,3448 51482,3407 51783,3341 52036,3280 52105,3280 52203,1938 52247,1230 52048,1210 50048,930 49850,839 49758,788 49675,729 49632,690 49596,652 49560,604 49528,552 49483,457 49440,332 49407,195 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49407,3430 L49477,3435" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50057,3473 L50126,3478" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M50048,930 L49999,980" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M49673,727 L49611,759" />
+         </g>
+         <polygon fill="#0000ff" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="57217,9120 53765,8840 49518,8743 49553,8163 49563,7814 49564,7698 49556,7350 49517,6712 53740,6804 54346,6785 54747,6760 55046,6729 55341,6684 55491,6655 55755,6591 56026,6512 56349,6401 56777,6235 57145,6084 57232,6264 57274,6336 57306,6380 57340,6421 57392,6471 57457,6517 57510,6547 57567,6574 57689,6619 57860,6669 59860,6789 59908,8968 59474,9059 59194,9108 59045,9128 58802,9151 58466,9165 57930,9167 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57217,9120 L57147,9114" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57402,6479 L57373,6543" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57860,6669 L57846,6738" />
+         </g>
+         <polygon fill="#0d26bd" comment="Front Basic Pants" stroke="#590202" stroke-width="2" points="57558,12155 54255,12360 50008,12457 50043,13048 50051,13425 50043,13747 50008,14338 54231,14246 54831,14237 55230,14243 55527,14260 55821,14290 55971,14312 56236,14363 56510,14430 56836,14525 57269,14670 57636,14801 57701,14652 57734,14592 57784,14521 57827,14478 57871,14444 57953,14397 58045,14357 58201,14305 60201,14185 60248,12307 59762,12206 59481,12159 59385,12147 59146,12124 58866,12111 58270,12108 " />
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57558,12155 L57488,12159" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M57841,14466 L57811,14403" />
+         </g>
+         <g style="fill:none; stroke:#000000" stroke-width="1" >
+            <path d="M58201,14305 L58186,14237" />
+         </g>
+      </svg>
+   </VIEW>
+</MARKER>

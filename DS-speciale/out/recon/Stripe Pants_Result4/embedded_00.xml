@@ -1,0 +1,609 @@
+<?xml version="1.0" standalone="no"?>
+
+<MARKER>
+   <OPTITEX>15.0.134.0</OPTITEX>
+   <NEST>
+      <NAME>Standard Quick Nesting</NAME>
+      <VERSION>0.00</VERSION>
+      <BUILD>0</BUILD>
+      <AUTOCOMPACTION>-1</AUTOCOMPACTION>
+   </NEST>
+   <UNITS LINEAR="cm" SQUARE="sq.m" />
+   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>
+   <NAME>Just table</NAME>
+   <FILENAME>V:\3D Samples\Sample pack O15\Marker\Stripe Pants_Result4.MRK</FILENAME>
+   <DATE>12.05.15</DATE>
+   <LENGTH>649.9252</LENGTH>
+   <WIDTH>160.0001</WIDTH>
+   <EFFICIENCY>70.1009</EFFICIENCY>
+   <SUM_AREA>7.2897</SUM_AREA>
+   <SUM_PERIMETER>8181.2763</SUM_PERIMETER>
+   <NB_OF_PLIES>1</NB_OF_PLIES>
+   <LAYOUT_MODE>Single</LAYOUT_MODE>
+   <FOLDING>none</FOLDING>
+   <PLACED_ON_TABLE>50</PLACED_ON_TABLE>
+   <STRIPES>
+      <VERTICAL STEP="10.0000" ANGLE="0.0" OFFSET="0.0000" />
+      <HORIZONTAL STEP="0.0000" ANGLE="0.0" />
+   </STRIPES>
+   <INTERNALS>
+      <DRILL>
+         <HOLE DIAMETER="1.0000" QUANTITY="10" />
+      </DRILL>
+   </INTERNALS>
+   <NOTCHES>
+      <CUT>
+         <QUANTITY>210</QUANTITY>
+         <SUM_LENGTH>367.5000</SUM_LENGTH>
+      </CUT>
+   </NOTCHES>
+   <STYLE>
+      <NAME></NAME>
+      <FILENAME>G:\SGS\ZMIRIT\PANTS WITH PLEATS IN FRONT.dsn</FILENAME>
+      <MATERIAL>MATERIAL</MATERIAL>
+      <SIZE>
+         <NAME>36</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.3637</SUM_AREA>
+         <SUM_PERIMETER>1598.9321</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="109.7252" SIZE_Y="33.4212" AREA="0.2894" PERIMETER="271.3529" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.5438" Y="20.3034" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="546.2626" Y-CENTER="18.0895" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="595.0626" Y-CENTER="115.7895" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.5456" SIZE_Y="37.4174" AREA="0.3109" PERIMETER="276.9010" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.2801" Y="109.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="426.5728" Y-CENTER="81.3914" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="433.8728" Y-CENTER="118.7914" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="76.0000" SIZE_Y="9.0000" AREA="0.0684" PERIMETER="169.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="287.2000" Y-CENTER="44.6001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="97.1000" Y-CENTER="86.7001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="35.9000" Y-CENTER="157.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="129.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="13.8362" Y-CENTER="35.9451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="13.8362" Y-CENTER="48.3451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>38</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.4104</SUM_AREA>
+         <SUM_PERIMETER>1617.5546</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="110.2252" SIZE_Y="34.7214" AREA="0.3001" PERIMETER="274.0201" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.0438" Y="19.8040" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="537.0126" Y-CENTER="89.8394" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="544.3126" Y-CENTER="142.2394" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="112.0556" SIZE_Y="38.7152" AREA="0.3218" PERIMETER="279.5451" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="101.7800" Y="109.7583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="279.1278" Y-CENTER="68.1425" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="323.5278" Y-CENTER="140.6425" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="80.0000" SIZE_Y="9.0000" AREA="0.0720" PERIMETER="177.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="198.2000" Y-CENTER="145.4001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="203.5000" Y-CENTER="64.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.0000" Y-CENTER="155.8001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="133.3501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="13.8362" Y-CENTER="120.5451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="13.8362" Y-CENTER="151.8451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>40</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.4575</SUM_AREA>
+         <SUM_PERIMETER>1636.2166</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="110.7252" SIZE_Y="36.0216" AREA="0.3109" PERIMETER="276.6956" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.5439" Y="19.3046" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="436.3626" Y-CENTER="19.3893" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="500.8626" Y-CENTER="51.6893" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="112.5655" SIZE_Y="40.0133" AREA="0.3327" PERIMETER="282.2006" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.2800" Y="110.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="168.2827" Y-CENTER="46.3935" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="168.4827" Y-CENTER="86.4935" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="84.0000" SIZE_Y="9.0000" AREA="0.0756" PERIMETER="185.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="172.0000" Y-CENTER="155.5001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="224.0000" Y-CENTER="154.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="61.2000" Y-CENTER="86.7001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="136.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="60.1362" Y-CENTER="45.2451" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="87.8362" Y-CENTER="42.6451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>42</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.5050</SUM_AREA>
+         <SUM_PERIMETER>1654.9173</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.2252" SIZE_Y="37.3218" AREA="0.3218" PERIMETER="279.3785" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.0440" Y="18.8053" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="325.1126" Y-CENTER="100.2392" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="390.0126" Y-CENTER="47.8392" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="113.0754" SIZE_Y="41.3115" AREA="0.3438" PERIMETER="284.8680" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="102.7800" Y="110.7583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.5377" Y-CENTER="107.4443" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="101.6377" Y-CENTER="139.3443" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="88.0000" SIZE_Y="9.0000" AREA="0.0792" PERIMETER="193.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="157.6000" Y-CENTER="15.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="234.5000" Y-CENTER="101.0001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="76.1000" Y-CENTER="156.2001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="140.3501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="126.8362" Y-CENTER="110.9451" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="127.4362" Y-CENTER="62.7451" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+      <SIZE>
+         <NAME>44</NAME>
+         <NB_OF_SETS>1</NB_OF_SETS>
+         <SUM_AREA>1.5529</SUM_AREA>
+         <SUM_PERIMETER>1673.6557</SUM_PERIMETER>
+         <PIECE>
+            <NAME>FRONT</NAME>
+            <CODE></CODE>
+            <DESCRIPTION>
+               <ATTRIBUTE>size 38</ATTRIBUTE>
+            </DESCRIPTION>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="111.7252" SIZE_Y="38.6220" AREA="0.3327" PERIMETER="282.0692" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.5428" Y="18.2935" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="213.5626" Y-CENTER="121.4891" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="279.3626" Y-CENTER="20.6891" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>BACK</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="113.5852" SIZE_Y="42.6099" AREA="0.3549" PERIMETER="287.5465" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="103.2800" Y="111.2583" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="56.7926" Y-CENTER="22.6952" ANGLE="-180.0" FLIP="no" />
+               <POSITION X-CENTER="56.7926" Y-CENTER="65.3952" ANGLE="180.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>WAIST BAND</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="92.0000" SIZE_Y="9.0000" AREA="0.0828" PERIMETER="201.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="none" OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="159.2000" Y-CENTER="5.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="10.0000" AREA="0.0200" PERIMETER="60.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="234.6000" Y-CENTER="38.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>ZIPPER FACING 1</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL,PLIZ</MATERIAL>
+            <GEOM_INFO SIZE_X="20.0000" SIZE_Y="6.0000" AREA="0.0120" PERIMETER="52.0000" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="123.5000" Y-CENTER="73.9001" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>LOOPING</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="35.0000" SIZE_Y="3.5000" AREA="0.0122" PERIMETER="76.9999" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="1" TOTAL="1" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="None" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="17.5000" Y-CENTER="143.8501" ANGLE="0.0" FLIP="no" />
+            </PLACED>
+         </PIECE>
+         <PIECE>
+            <NAME>facing pocket</NAME>
+            <CODE></CODE>
+            <MATERIAL>MATERIAL</MATERIAL>
+            <GEOM_INFO SIZE_X="27.6724" SIZE_Y="12.3100" AREA="0.0252" PERIMETER="71.7122" />
+            <BUFFER>0.0000</BUFFER>
+            <ORDER_INFO NESTED="2" TOTAL="2" QUANT="1,1,0,0" />
+            <NESTING_ENABLES ROTATION="180 deg." OPPOSITE="Left/Right" TILT="0 deg." FLIP="no" FOLD="none" />
+            <MATCH>
+               <REL X="143.5506" Y="47.5213" DIR="XY" ID="11" />
+            </MATCH>
+            <PLACED>
+               <POSITION X-CENTER="179.6362" Y-CENTER="66.8451" ANGLE="0.0" FLIP="no" />
+               <POSITION X-CENTER="194.5362" Y-CENTER="24.6451" ANGLE="0.0" FLIP="down" />
+            </PLACED>
+         </PIECE>
+      </SIZE>
+   </STYLE>

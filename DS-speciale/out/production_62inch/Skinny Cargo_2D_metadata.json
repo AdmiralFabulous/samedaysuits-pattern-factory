@@ -1,0 +1,221 @@
+{
+  "source_file": "D:\\SameDaySuits\\_SameDaySuits\\PILLARS_SAMEDAYSUITS\\XX-EXPERIMENTS\\REVERSE-ENGINEER-PDS\\DS-speciale\\inputs\\pds\\Skinny Cargo_2D.PDS",
+  "contour_count": 9,
+  "pieces": {
+    "17SKINNY-1": {
+      "size_x": 41.4753,
+      "size_y": 60.2369,
+      "area": 0.1965,
+      "perimeter": 183.4172
+    },
+    "17SKINNY-11": {
+      "size_x": 5.986,
+      "size_y": 16.3802,
+      "area": 0.009,
+      "perimeter": 42.1475
+    },
+    "17SKINNY-12": {
+      "size_x": 4.6863,
+      "size_y": 16.0988,
+      "area": 0.0139,
+      "perimeter": 46.5741
+    },
+    "17SKINNY-13": {
+      "size_x": 5.0003,
+      "size_y": 19.2807,
+      "area": 0.0187,
+      "perimeter": 58.8701
+    },
+    "17SKINNY-14": {
+      "size_x": 3.8001,
+      "size_y": 60.0003,
+      "area": 0.0228,
+      "perimeter": 127.6007
+    },
+    "17SKINNY-15": {
+      "size_x": 2.4026,
+      "size_y": 9.9997,
+      "area": 0.0024,
+      "perimeter": 24.8047
+    },
+    "17SKINNY-16": {
+      "size_x": 37.4287,
+      "size_y": 30.0641,
+      "area": 0.095,
+      "perimeter": 118.5623
+    },
+    "17SKINNY-17": {
+      "size_x": 20.0002,
+      "size_y": 26.0003,
+      "area": 0.104,
+      "perimeter": 144.0015
+    },
+    "17SKINNY-2": {
+      "size_x": 28.7662,
+      "size_y": 55.8952,
+      "area": 0.1327,
+      "perimeter": 153.5962
+    },
+    "17SKINNY-4": {
+      "size_x": 45.6207,
+      "size_y": 13.6841,
+      "area": 0.0271,
+      "perimeter": 102.4214
+    },
+    "17SKINNY-5": {
+      "size_x": 48.9944,
+      "size_y": 18.0018,
+      "area": 0.0299,
+      "perimeter": 111.6108
+    },
+    "17SKINNY-6": {
+      "size_x": 10.8642,
+      "size_y": 25.3344,
+      "area": 0.0173,
+      "perimeter": 63.0344
+    },
+    "17SKINNY-7": {
+      "size_x": 10.2753,
+      "size_y": 24.4534,
+      "area": 0.0119,
+      "perimeter": 57.5993
+    },
+    "17SKINNY-8": {
+      "size_x": 4.6998,
+      "size_y": 20.0,
+      "area": 0.0188,
+      "perimeter": 58.7991
+    },
+    "17SKINNY-9": {
+      "size_x": 20.0003,
+      "size_y": 8.0,
+      "area": 0.016,
+      "perimeter": 56.0005
+    },
+    "BELT LOOP FRT": {
+      "size_x": 0.8,
+      "size_y": 5.5,
+      "area": 0.0004,
+      "perimeter": 12.5999
+    },
+    "BELT LOOP BCK": {
+      "size_x": 0.8,
+      "size_y": 5.5,
+      "area": 0.0004,
+      "perimeter": 12.5999
+    },
+    "Pocket": {
+      "size_x": 15.4695,
+      "size_y": 16.5542,
+      "area": 0.0252,
+      "perimeter": 61.863
+    },
+    "flap": {
+      "size_x": 15.4873,
+      "size_y": 6.9869,
+      "area": 0.0104,
+      "perimeter": 42.7282
+    },
+    "WELT": {
+      "size_x": 16.0221,
+      "size_y": 4.3972,
+      "area": 0.007,
+      "perimeter": 40.836
+    }
+  },
+  "original_layout_cm": {
+    "width": 332.20470603970546,
+    "height": 59.063868687939845
+  },
+  "svg_metadata": {
+    "view_factor": 0.08,
+    "viewbox": {
+      "min_x": 0.0,
+      "min_y": 0.0,
+      "width": 10729.0,
+      "height": 10373.0
+    },
+    "scale_cm_per_unit": 0.0008
+  },
+  "nesting": {
+    "success": true,
+    "fabric_width_cm": 157.48,
+    "fabric_length_cm": 143.9648398359586,
+    "utilization_percent": 44.042375989365944,
+    "piece_count": 9,
+    "piece_placements": [
+      {
+        "id": 2,
+        "position": [
+          0.0,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 0,
+        "position": [
+          8.444093242070778,
+          0
+        ],
+        "rotation": 270
+      },
+      {
+        "id": 1,
+        "position": [
+          43.92017043285452,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 8,
+        "position": [
+          76.87597242841993,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 7,
+        "position": [
+          79.93109013785785,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 6,
+        "position": [
+          84.49024304444227,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 3,
+        "position": [
+          94.60096988335097,
+          0
+        ],
+        "rotation": 90
+      },
+      {
+        "id": 4,
+        "position": [
+          109.81031796972907,
+          0
+        ],
+        "rotation": 0
+      },
+      {
+        "id": 5,
+        "position": [
+          112.83490963717244,
+          0
+        ],
+        "rotation": 0
+      }
+    ]
+  }
+}

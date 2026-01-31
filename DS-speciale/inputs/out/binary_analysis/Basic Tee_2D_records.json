@@ -1,0 +1,78 @@
+{
+  "xml_end": 17243,
+  "post_xml_size": 270152,
+  "file_path": null,
+  "size_records": [],
+  "piece_records": [
+    {
+      "name": "Back",
+      "offset": 17550,
+      "pre_hex": "c0f20a0e0042100f204e65636b2044726f702d20",
+      "post_hex": "4261636b44c0f30a0e004584e83f9a19e83f1a2641100328",
+      "context": "rop- BackD\ufffd\ufffd\n\u000e\u0000E\ufffd\ufffd?\ufffd\u0019\ufffd?\u001a"
+    },
+    {
+      "name": "Front",
+      "offset": 17629,
+      "pre_hex": "6600000000421010204e65636b2044726f702d20",
+      "post_hex": "46726f6e7444c0f50a0e004584e83f9a19b4b0389941100328",
+      "context": "rop- FrontD\ufffd\ufffd\n\u000e\u0000E\ufffd\ufffd?\ufffd\u0019\ufffd\ufffd8"
+    },
+    {
+      "name": "Front",
+      "offset": 17974,
+      "pre_hex": "e83f9a19e83f1a26f2749a670000000042101520",
+      "post_hex": "46726f6e74204c656e6774682066726f6d2048505344c0fe0a",
+      "context": "\u0000B\u0010\u0015 Front Length from HP"
+    },
+    {
+      "name": "Back",
+      "offset": 18059,
+      "pre_hex": "e83f9a19e83f1a26612ee0e60000000042101320",
+      "post_hex": "4261636b206c656e6774682066726f6d20434244c0000b0e",
+      "context": "\u0000B\u0010\u0013 Back length from CB"
+    },
+    {
+      "name": "Front",
+      "offset": 19805,
+      "pre_hex": "000000000000000000000000f03f000002100520",
+      "post_hex": "46726f6e740124b0280a29012a102b642c4990e83f0a67ab62",
+      "context": "\u0000\u0002\u0010\u0005 Front\u0001$\ufffd(\n)\u0001*\u0010+d,I\ufffd\ufffd"
+    },
+    {
+      "name": "Back",
+      "offset": 27686,
+      "pre_hex": "af842858bb185289bb9800000000000002100420",
+      "post_hex": "4261636b0124a0280a29012a642c4990e83f0a67844c0be5",
+      "context": "\u0000\u0002\u0010\u0004 Back\u0001$\ufffd(\n)\u0001*d,I\ufffd\ufffd?\n"
+    },
+    {
+      "name": "Right Sleeve",
+      "offset": 35827,
+      "pre_hex": "af846a3b9e9fbfb0381900000000000002100c20",
+      "post_hex": "526967687420536c656576650224a0280829412a642c4990e83f0a673256d2e4",
+      "context": "\u0000\u0002\u0010\f Right Sleeve\u0002$\ufffd(\b)A*d,I\ufffd\ufffd?\n"
+    },
+    {
+      "name": "Neck Binding",
+      "offset": 43511,
+      "pre_hex": "af84b3b0b8188f1c381900000000000002100c20",
+      "post_hex": "4e65636b2042696e64696e670124a0280a29012a642c4998e83f0a67d83692e4",
+      "context": "\u0000\u0002\u0010\f Neck Binding\u0001$\ufffd(\n)\u0001*d,I\ufffd\ufffd?\n"
+    },
+    {
+      "name": "Back",
+      "offset": 93671,
+      "pre_hex": "00000000000014090600736c6964657215091100",
+      "post_hex": "4261636b204c6967687420416d6f756e740f89e83f1a26e8",
+      "context": "r\u0015\t\u0011\u0000Back Light Amount\u000f\ufffd"
+    },
+    {
+      "name": "Back",
+      "offset": 93765,
+      "pre_hex": "00000000000014090600736c6964657215091100",
+      "post_hex": "4261636b204c69676874205370726561640f89e83f1a26e8",
+      "context": "r\u0015\t\u0011\u0000Back Light Spread\u000f\ufffd"
+    }
+  ]
+}

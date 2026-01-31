@@ -1,0 +1,32 @@
+{
+  "filename": "Skinny Cargo_2D.PDS",
+  "filesize": 413842,
+  "sha256": "42f4e5334e010351b8a46ae4ca26a95a184ef7eb8d040d37c936300a502a4d86",
+  "file_type": "pds",
+  "magic": "dc54ef12",
+  "xml_documents": [
+    {
+      "index": 0,
+      "root_tag": "STYLE",
+      "start_offset": 2606,
+      "end_offset": 56698,
+      "size": 54092,
+      "sha256": "7ceec65bfa34b08dad22555183ce56b0605f326656c196ea067f2c2b71d4d290",
+      "output_file": "xml_00_STYLE.xml"
+    }
+  ],
+  "jpeg_images": [
+    {
+      "index": 0,
+      "start_offset": 62,
+      "end_offset": 2598,
+      "size": 2536,
+      "sha256": "0c6ad94bc4564ff58b751c006ebed934020979913a32fcdcda014c3365a8b782",
+      "output_file": "image_00.jpg"
+    }
+  ],
+  "notes": [
+    "Extracted STYLE XML (54,092 bytes) to xml_00_STYLE.xml",
+    "Extracted JPEG (2,536 bytes) to image_00.jpg"
+  ]
+}

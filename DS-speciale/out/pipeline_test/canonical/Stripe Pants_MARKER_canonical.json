@@ -1,0 +1,899 @@
+{
+  "type": "marker",
+  "filename": "V:\\3D Samples\\Sample pack O15\\Marker\\Stripe Pants.MRK",
+  "name": "Just table",
+  "optitex_version": "15.0.134.0",
+  "date": "12.05.15",
+  "nesting": {
+    "name": "Standard Quick Nesting",
+    "version": "0.00"
+  },
+  "units": {
+    "linear": "cm",
+    "area": "sq.m"
+  },
+  "fabric": {
+    "length": 577.2692,
+    "width": 160.0001,
+    "layout_mode": "Single",
+    "folding": "none",
+    "num_plies": 1
+  },
+  "efficiency": 78.9239,
+  "summary": {
+    "total_area": 7.2897,
+    "total_perimeter": 8181.2763,
+    "placed_count": 50,
+    "notch_count": 210,
+    "notch_cut_length": 367.5
+  },
+  "styles": [
+    {
+      "name": "",
+      "filename": "G:\\SGS\\ZMIRIT\\PANTS WITH PLEATS IN FRONT.dsn",
+      "material": "MATERIAL",
+      "sizes": {
+        "36": [
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 55.3254,
+              "y_center": 142.8765,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 109.7252,
+              "size_y": 33.4212,
+              "area": 0.2894,
+              "perimeter": 271.3529
+            }
+          },
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 55.3254,
+              "y_center": 79.5339,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 109.7252,
+              "size_y": 33.4212,
+              "area": 0.2894,
+              "perimeter": 271.3529
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 174.1674,
+              "y_center": 125.2552,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 111.5456,
+              "size_y": 37.4174,
+              "area": 0.3109,
+              "perimeter": 276.901
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 405.8325,
+              "y_center": 118.265,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 111.5456,
+              "size_y": 37.4174,
+              "area": 0.3109,
+              "perimeter": 276.901
+            }
+          },
+          {
+            "piece_name": "WAIST BAND",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 147.5913,
+              "y_center": 155.4997,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 76.0,
+              "size_y": 9.0,
+              "area": 0.0684,
+              "perimeter": 169.9999
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 219.1596,
+              "y_center": 76.9086,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 10.0,
+              "area": 0.02,
+              "perimeter": 60.0
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING 1",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 120.189,
+              "y_center": 135.9977,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 6.0,
+              "area": 0.012,
+              "perimeter": 52.0
+            }
+          },
+          {
+            "piece_name": "LOOPING",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 192.4387,
+              "y_center": 143.723,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 35.0,
+              "size_y": 3.5,
+              "area": 0.0122,
+              "perimeter": 76.9999
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 516.1677,
+              "y_center": 42.4316,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "36",
+            "position": {
+              "x_center": 553.8324,
+              "y_center": 57.3801,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          }
+        ],
+        "38": [
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 55.7196,
+              "y_center": 49.3407,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 110.2252,
+              "size_y": 34.7214,
+              "area": 0.3001,
+              "perimeter": 274.0201
+            }
+          },
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 404.2804,
+              "y_center": 17.3607,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 110.2252,
+              "size_y": 34.7214,
+              "area": 0.3001,
+              "perimeter": 274.0201
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 174.7828,
+              "y_center": 91.1829,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 112.0556,
+              "size_y": 38.7152,
+              "area": 0.3218,
+              "perimeter": 279.5451
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 295.2173,
+              "y_center": 56.2505,
+              "angle": -180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 112.0556,
+              "size_y": 38.7152,
+              "area": 0.3218,
+              "perimeter": 279.5451
+            }
+          },
+          {
+            "piece_name": "WAIST BAND",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 225.5923,
+              "y_center": 155.5,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 80.0,
+              "size_y": 9.0,
+              "area": 0.072,
+              "perimeter": 177.9999
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 332.2668,
+              "y_center": 5.027,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 10.0,
+              "area": 0.02,
+              "perimeter": 60.0
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING 1",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 120.0745,
+              "y_center": 141.9986,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 6.0,
+              "area": 0.012,
+              "perimeter": 52.0
+            }
+          },
+          {
+            "piece_name": "LOOPING",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 361.8373,
+              "y_center": 32.1409,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 35.0,
+              "size_y": 3.5,
+              "area": 0.0122,
+              "perimeter": 76.9999
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 505.3728,
+              "y_center": 71.987,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "38",
+            "position": {
+              "x_center": 534.6273,
+              "y_center": 81.4958,
+              "angle": -180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          }
+        ],
+        "40": [
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 55.7243,
+              "y_center": 18.0805,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 110.7252,
+              "size_y": 36.0216,
+              "area": 0.3109,
+              "perimeter": 276.6956
+            }
+          },
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 495.7242,
+              "y_center": 141.9882,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 110.7252,
+              "size_y": 36.0216,
+              "area": 0.3109,
+              "perimeter": 276.6956
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 176.2218,
+              "y_center": 20.0077,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 112.5655,
+              "size_y": 40.0133,
+              "area": 0.3327,
+              "perimeter": 282.2006
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 516.2218,
+              "y_center": 21.2171,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 112.5655,
+              "size_y": 40.0133,
+              "area": 0.3327,
+              "perimeter": 282.2006
+            }
+          },
+          {
+            "piece_name": "WAIST BAND",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 307.5933,
+              "y_center": 155.4997,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 84.0,
+              "size_y": 9.0,
+              "area": 0.0756,
+              "perimeter": 185.9999
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 244.8097,
+              "y_center": 41.5107,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 10.0,
+              "area": 0.02,
+              "perimeter": 60.0
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING 1",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 119.8319,
+              "y_center": 147.9996,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 6.0,
+              "area": 0.012,
+              "perimeter": 52.0
+            }
+          },
+          {
+            "piece_name": "LOOPING",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 274.613,
+              "y_center": 149.2496,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 35.0,
+              "size_y": 3.5,
+              "area": 0.0122,
+              "perimeter": 76.9999
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 487.0668,
+              "y_center": 40.7844,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "40",
+            "position": {
+              "x_center": 517.0668,
+              "y_center": 59.911,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          }
+        ],
+        "42": [
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 401.6566,
+              "y_center": 85.3397,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 111.2252,
+              "size_y": 37.3218,
+              "area": 0.3218,
+              "perimeter": 279.3785
+            }
+          },
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 521.6566,
+              "y_center": 102.7147,
+              "angle": -180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 111.2252,
+              "size_y": 37.3218,
+              "area": 0.3218,
+              "perimeter": 279.3785
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 288.836,
+              "y_center": 20.6565,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 113.0754,
+              "size_y": 41.3115,
+              "area": 0.3438,
+              "perimeter": 284.868
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 288.836,
+              "y_center": 91.8015,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 113.0754,
+              "size_y": 41.3115,
+              "area": 0.3438,
+              "perimeter": 284.868
+            }
+          },
+          {
+            "piece_name": "WAIST BAND",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 393.5944,
+              "y_center": 155.499,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 88.0,
+              "size_y": 9.0,
+              "area": 0.0792,
+              "perimeter": 193.9999
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 327.5341,
+              "y_center": 107.9914,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 10.0,
+              "area": 0.02,
+              "perimeter": 60.0
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING 1",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 130.0778,
+              "y_center": 72.2183,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 6.0,
+              "area": 0.012,
+              "perimeter": 52.0
+            }
+          },
+          {
+            "piece_name": "LOOPING",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 361.6065,
+              "y_center": 35.6419,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 35.0,
+              "size_y": 3.5,
+              "area": 0.0122,
+              "perimeter": 76.9999
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 480.064,
+              "y_center": 76.8182,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "42",
+            "position": {
+              "x_center": 540.064,
+              "y_center": 69.9939,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          }
+        ],
+        "44": [
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 55.8626,
+              "y_center": 111.1698,
+              "angle": 180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 111.7252,
+              "size_y": 38.622,
+              "area": 0.3327,
+              "perimeter": 282.0692
+            }
+          },
+          {
+            "piece_name": "FRONT",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 414.1375,
+              "y_center": 52.6713,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 111.7252,
+              "size_y": 38.622,
+              "area": 0.3327,
+              "perimeter": 282.0692
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 286.6514,
+              "y_center": 126.6668,
+              "angle": -180.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 113.5852,
+              "size_y": 42.6099,
+              "area": 0.3549,
+              "perimeter": 287.5465
+            }
+          },
+          {
+            "piece_name": "BACK",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 175.3761,
+              "y_center": 56.5533,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 113.5852,
+              "size_y": 42.6099,
+              "area": 0.3549,
+              "perimeter": 287.5465
+            }
+          },
+          {
+            "piece_name": "WAIST BAND",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 389.6653,
+              "y_center": 146.4981,
+              "angle": 0.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 92.0,
+              "size_y": 9.0,
+              "area": 0.0828,
+              "perimeter": 201.9999
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 539.8739,
+              "y_center": 46.2241,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 10.0,
+              "area": 0.02,
+              "perimeter": 60.0
+            }
+          },
+          {
+            "piece_name": "ZIPPER FACING 1",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 239.7457,
+              "y_center": 114.872,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 20.0,
+              "size_y": 6.0,
+              "area": 0.012,
+              "perimeter": 52.0
+            }
+          },
+          {
+            "piece_name": "LOOPING",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 228.164,
+              "y_center": 5.0595,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 35.0,
+              "size_y": 3.5,
+              "area": 0.0122,
+              "perimeter": 76.9999
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 484.021,
+              "y_center": 49.1086,
+              "angle": 180.0,
+              "flip": "no"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          },
+          {
+            "piece_name": "facing pocket",
+            "piece_code": "",
+            "size_name": "44",
+            "position": {
+              "x_center": 485.9789,
+              "y_center": 60.7973,
+              "angle": 0.0,
+              "flip": "down"
+            },
+            "geometry": {
+              "size_x": 27.6724,
+              "size_y": 12.31,
+              "area": 0.0252,
+              "perimeter": 71.7122
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

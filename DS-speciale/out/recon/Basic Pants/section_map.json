@@ -1,0 +1,318 @@
+{
+  "filename": "Basic Pants.MRK",
+  "filesize": 313596,
+  "sha256": "d155e4f2947c864a4e7bace90fcf65a493b0e9c1818aa686d38e00a0e431dc6f",
+  "file_type": "mrk",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      45,
+      83,
+      411371646,
+      92,
+      0,
+      36,
+      537724214,
+      1634100548,
+      544500853,
+      1818386772,
+      3976805477,
+      2017410200,
+      1981836397,
+      1769173605,
+      574451311
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      6.305843089461677e-44,
+      1.1630777253895982e-43,
+      3.4388269127274965e-24,
+      1.2891945871788317e-43,
+      0.0,
+      5.044674471569341e-44,
+      1.1944888710874925e-19,
+      2.0703489334422951e-19,
+      2.567273938271376e-18
+    ],
+    "likely_version": "45.83",
+    "likely_section_count": 92
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 49,
+      "end_offset": 15247,
+      "size": 15198,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<MARKER>\r\n   <OPTITEX>15.0.134.0</OPTITEX>\r\n   <NEST>\r\n    ",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 39212,
+      "end_offset": 43549,
+      "size": 4337,
+      "preview": "JPEG image (4337 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 15,
+      "string": " Default Table<"
+    },
+    {
+      "offset": 49,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 90,
+      "length": 8,
+      "string": "<MARKER>"
+    },
+    {
+      "offset": 100,
+      "length": 32,
+      "string": "   <OPTITEX>15.0.134.0</OPTITEX>"
+    },
+    {
+      "offset": 134,
+      "length": 9,
+      "string": "   <NEST>"
+    },
+    {
+      "offset": 145,
+      "length": 41,
+      "string": "      <NAME>Standard Quick Nesting</NAME>"
+    },
+    {
+      "offset": 188,
+      "length": 29,
+      "string": "      <VERSION>0.00</VERSION>"
+    },
+    {
+      "offset": 219,
+      "length": 22,
+      "string": "      <BUILD>0</BUILD>"
+    },
+    {
+      "offset": 243,
+      "length": 41,
+      "string": "      <AUTOCOMPACTION>-1</AUTOCOMPACTION>"
+    },
+    {
+      "offset": 286,
+      "length": 10,
+      "string": "   </NEST>"
+    },
+    {
+      "offset": 298,
+      "length": 38,
+      "string": "   <UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 338,
+      "length": 51,
+      "string": "   <DETECTED_INTERSECTION>0</DETECTED_INTERSECTION>"
+    },
+    {
+      "offset": 391,
+      "length": 27,
+      "string": "   <NAME>Basic Pants</NAME>"
+    },
+    {
+      "offset": 420,
+      "length": 76,
+      "string": "   <FILENAME>V:\\3D Samples\\Sample pack O15\\Marker\\Basic Pants.MRK</FILENAME>"
+    },
+    {
+      "offset": 498,
+      "length": 24,
+      "string": "   <DATE>12.05.15</DATE>"
+    },
+    {
+      "offset": 524,
+      "length": 28,
+      "string": "   <LENGTH>602.4738</LENGTH>"
+    },
+    {
+      "offset": 554,
+      "length": 26,
+      "string": "   <WIDTH>148.0000</WIDTH>"
+    },
+    {
+      "offset": 582,
+      "length": 35,
+      "string": "   <EFFICIENCY>66.3042</EFFICIENCY>"
+    },
+    {
+      "offset": 619,
+      "length": 30,
+      "string": "   <SUM_AREA>5.9121</SUM_AREA>"
+    },
+    {
+      "offset": 651,
+      "length": 43,
+      "string": "   <SUM_PERIMETER>6127.0123</SUM_PERIMETER>"
+    },
+    {
+      "offset": 696,
+      "length": 31,
+      "string": "   <NB_OF_PLIES>1</NB_OF_PLIES>"
+    },
+    {
+      "offset": 729,
+      "length": 36,
+      "string": "   <LAYOUT_MODE>Single</LAYOUT_MODE>"
+    },
+    {
+      "offset": 767,
+      "length": 26,
+      "string": "   <FOLDING>none</FOLDING>"
+    },
+    {
+      "offset": 795,
+      "length": 40,
+      "string": "   <PLACED_ON_TABLE>24</PLACED_ON_TABLE>"
+    },
+    {
+      "offset": 837,
+      "length": 12,
+      "string": "   <NOTCHES>"
+    },
+    {
+      "offset": 851,
+      "length": 11,
+      "string": "      <CUT>"
+    },
+    {
+      "offset": 864,
+      "length": 32,
+      "string": "         <QUANTITY>84</QUANTITY>"
+    },
+    {
+      "offset": 898,
+      "length": 42,
+      "string": "         <SUM_LENGTH>100.8001</SUM_LENGTH>"
+    },
+    {
+      "offset": 942,
+      "length": 12,
+      "string": "      </CUT>"
+    },
+    {
+      "offset": 956,
+      "length": 13,
+      "string": "   </NOTCHES>"
+    },
+    {
+      "offset": 971,
+      "length": 10,
+      "string": "   <STYLE>"
+    },
+    {
+      "offset": 983,
+      "length": 38,
+      "string": "      <NAME>Basic pants-For Eva</NAME>"
+    },
+    {
+      "offset": 1023,
+      "length": 105,
+      "string": "      <FILENAME>K:\\Install\\Ver10 Samples\\PDS\\Slopers-Blocks for Eva+3D\\Basic pants-For Eva.PDS</FILE"
+    },
+    {
+      "offset": 1130,
+      "length": 27,
+      "string": "      <MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1159,
+      "length": 12,
+      "string": "      <SIZE>"
+    },
+    {
+      "offset": 1173,
+      "length": 24,
+      "string": "         <NAME>34</NAME>"
+    },
+    {
+      "offset": 1199,
+      "length": 35,
+      "string": "         <NB_OF_SETS>0</NB_OF_SETS>"
+    },
+    {
+      "offset": 1236,
+      "length": 36,
+      "string": "         <SUM_AREA>0.8934</SUM_AREA>"
+    },
+    {
+      "offset": 1274,
+      "length": 48,
+      "string": "         <SUM_PERIMETER>994.0026</SUM_PERIMETER>"
+    },
+    {
+      "offset": 1324,
+      "length": 16,
+      "string": "         <PIECE>"
+    },
+    {
+      "offset": 1342,
+      "length": 42,
+      "string": "            <NAME>PANTS MAP SIZE 38</NAME>"
+    },
+    {
+      "offset": 1386,
+      "length": 25,
+      "string": "            <CODE></CODE>"
+    },
+    {
+      "offset": 1413,
+      "length": 25,
+      "string": "            <DESCRIPTION>"
+    },
+    {
+      "offset": 1440,
+      "length": 67,
+      "string": "               <ATTRIBUTE>BASIC PANTS SIZE 38 FOR WOMAN</ATTRIBUTE>"
+    },
+    {
+      "offset": 1509,
+      "length": 26,
+      "string": "            </DESCRIPTION>"
+    },
+    {
+      "offset": 1537,
+      "length": 33,
+      "string": "            <MATERIAL></MATERIAL>"
+    },
+    {
+      "offset": 1572,
+      "length": 95,
+      "string": "            <GEOM_INFO SIZE_X=\"105.5000\" SIZE_Y=\"66.7000\" AREA=\"0.7011\" PERIMETER=\"343.4252\" />"
+    },
+    {
+      "offset": 1669,
+      "length": 35,
+      "string": "            <BUFFER>0.0000</BUFFER>"
+    },
+    {
+      "offset": 1706,
+      "length": 47,
+      "string": "            <ORDER_INFO NESTED=\"0\" TOTAL=\"0\" />"
+    },
+    {
+      "offset": 1755,
+      "length": 99,
+      "string": "            <NESTING_ENABLES ROTATION=\"none\" OPPOSITE=\"None\" TILT=\"0 deg.\" FLIP=\"no\" FOLD=\"none\" />"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 49-15247 (15198 bytes)",
+    "Found JPEG at offset 39212-43549 (4337 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}

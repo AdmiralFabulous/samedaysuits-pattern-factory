@@ -1,0 +1,322 @@
+{
+  "filename": "Skinny Cargo_2D.PDS",
+  "filesize": 413842,
+  "sha256": "42f4e5334e010351b8a46ae4ca26a95a184ef7eb8d040d37c936300a502a4d86",
+  "file_type": "pds",
+  "header": {
+    "magic": "dc54ef12",
+    "magic_ascii": ".T..",
+    "header_int32_le": [
+      317674716,
+      17,
+      93,
+      656541893,
+      4,
+      128,
+      162,
+      537527297,
+      1263744817,
+      1498304073,
+      688009517,
+      794569218,
+      1211302965,
+      8388611,
+      406061216,
+      3640592872
+    ],
+    "header_float32_le": [
+      1.510393995888168e-27,
+      2.382207389352189e-44,
+      1.3032075718220799e-43,
+      2.2486770221075885e-15,
+      5.605193857299268e-45,
+      1.793662034335766e-43,
+      2.2701035122062037e-43,
+      1.1690379453559137e-19,
+      13842225.0,
+      2.890845183134601e-14,
+      2.0023807612012945e-10,
+      183312.828125,
+      1.1754947712118268e-38,
+      2.326477027241599e-24
+    ],
+    "likely_version": "17.93",
+    "likely_section_count": 4
+  },
+  "embedded_content": [
+    {
+      "type": "xml",
+      "start_offset": 2606,
+      "end_offset": 56688,
+      "size": 54082,
+      "preview": "<?xml version=\"1.0\" standalone=\"no\"?>\r\n\r\n<STYLE>\r\n\t<OPTITEX>21.0.273.0</OPTITEX>\r\n\t<UNITS LINEAR=\"cm",
+      "signature": "3c3f786d6c2076657273696f6e3d22312e302220"
+    },
+    {
+      "type": "jpeg",
+      "start_offset": 62,
+      "end_offset": 2598,
+      "size": 2536,
+      "preview": "JPEG image (2536 bytes)",
+      "signature": "ffd8ffe000104a46494600010100000100010000"
+    }
+  ],
+  "string_table_candidates": [
+    {
+      "offset": 31,
+      "length": 11,
+      "string": " 17SKINNY-1"
+    },
+    {
+      "offset": 112,
+      "length": 39,
+      "string": "(:3=<9387@H\\N@DWE78PmQW_bghg>Mqypdx\\egc"
+    },
+    {
+      "offset": 165,
+      "length": 55,
+      "string": "/cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc"
+    },
+    {
+      "offset": 337,
+      "length": 45,
+      "string": "%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 556,
+      "length": 43,
+      "string": "&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz"
+    },
+    {
+      "offset": 775,
+      "length": 8,
+      "string": "F ~5Zs9l"
+    },
+    {
+      "offset": 1404,
+      "length": 6,
+      "string": "+]MK-l"
+    },
+    {
+      "offset": 2606,
+      "length": 37,
+      "string": "<?xml version=\"1.0\" standalone=\"no\"?>"
+    },
+    {
+      "offset": 2647,
+      "length": 7,
+      "string": "<STYLE>"
+    },
+    {
+      "offset": 2657,
+      "length": 29,
+      "string": "<OPTITEX>21.0.273.0</OPTITEX>"
+    },
+    {
+      "offset": 2689,
+      "length": 35,
+      "string": "<UNITS LINEAR=\"cm\" SQUARE=\"sq.m\" />"
+    },
+    {
+      "offset": 2727,
+      "length": 63,
+      "string": "<FILENAME>D:\\temp\\2D Sample Pack\\Skinny Cargo_2D.PDS</FILENAME>"
+    },
+    {
+      "offset": 2793,
+      "length": 23,
+      "string": "<NAME>17SKINNY-1</NAME>"
+    },
+    {
+      "offset": 2819,
+      "length": 21,
+      "string": "<DATE>04.02.21</DATE>"
+    },
+    {
+      "offset": 2843,
+      "length": 17,
+      "string": "<SIZES>11</SIZES>"
+    },
+    {
+      "offset": 2863,
+      "length": 19,
+      "string": "<PIECES>20</PIECES>"
+    },
+    {
+      "offset": 2885,
+      "length": 13,
+      "string": "<SIZES_TABLE>"
+    },
+    {
+      "offset": 2902,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 2913,
+      "length": 15,
+      "string": "<NAME>26</NAME>"
+    },
+    {
+      "offset": 2933,
+      "length": 27,
+      "string": "<SUM_AREA>1.0417</SUM_AREA>"
+    },
+    {
+      "offset": 2965,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2064.1653</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3010,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8051</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3050,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>1820.3010</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3102,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3113,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3124,
+      "length": 15,
+      "string": "<NAME>28</NAME>"
+    },
+    {
+      "offset": 3144,
+      "length": 27,
+      "string": "<SUM_AREA>1.0814</SUM_AREA>"
+    },
+    {
+      "offset": 3176,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2094.1791</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3221,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8454</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3261,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>1854.1659</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3313,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3324,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3335,
+      "length": 15,
+      "string": "<NAME>29</NAME>"
+    },
+    {
+      "offset": 3355,
+      "length": 27,
+      "string": "<SUM_AREA>1.1001</SUM_AREA>"
+    },
+    {
+      "offset": 3387,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2108.8952</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3432,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8642</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3472,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>1870.0986</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3524,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3535,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3546,
+      "length": 15,
+      "string": "<NAME>30</NAME>"
+    },
+    {
+      "offset": 3566,
+      "length": 27,
+      "string": "<SUM_AREA>1.1190</SUM_AREA>"
+    },
+    {
+      "offset": 3598,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2123.7770</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3643,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.8832</SUM_SEW_AREA>"
+    },
+    {
+      "offset": 3683,
+      "length": 48,
+      "string": "<SUM_SEW_PERIMETER>1886.0654</SUM_SEW_PERIMETER>"
+    },
+    {
+      "offset": 3735,
+      "length": 7,
+      "string": "</SIZE>"
+    },
+    {
+      "offset": 3746,
+      "length": 6,
+      "string": "<SIZE>"
+    },
+    {
+      "offset": 3757,
+      "length": 15,
+      "string": "<NAME>31</NAME>"
+    },
+    {
+      "offset": 3777,
+      "length": 27,
+      "string": "<SUM_AREA>1.1567</SUM_AREA>"
+    },
+    {
+      "offset": 3809,
+      "length": 40,
+      "string": "<SUM_PERIMETER>2165.3358</SUM_PERIMETER>"
+    },
+    {
+      "offset": 3854,
+      "length": 35,
+      "string": "<SUM_SEW_AREA>0.9176</SUM_SEW_AREA>"
+    }
+  ],
+  "notes": [
+    "Found XML at offset 2606-56688 (54082 bytes)",
+    "Found JPEG at offset 62-2598 (2536 bytes)",
+    "Extracted XML to embedded_00.xml",
+    "Extracted JPEG to embedded_01.jpg"
+  ]
+}
