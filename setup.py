@@ -39,6 +39,29 @@ setup(
             "flake8>=6.0.0",
             "mypy>=1.5.0",
         ],
+        "scanning": [
+            "opencv-python>=4.8.0",
+            "mediapipe>=0.10.0",
+            "opencv-contrib-python>=4.8.0",  # For ArUco markers
+        ],
+        "patterns": [
+            "ezdxf>=1.0.0",  # For DXF generation
+        ],
+        "ai": [
+            "transformers>=4.30.0",  # For SAM 3D Body
+            "torch>=2.0.0",
+            "smplx>=0.1.0",  # For SMPL body model
+        ],
+        "all": [
+            # Combined scanning + patterns + ai
+            "opencv-python>=4.8.0",
+            "mediapipe>=0.10.0",
+            "opencv-contrib-python>=4.8.0",
+            "ezdxf>=1.0.0",
+            "transformers>=4.30.0",
+            "torch>=2.0.0",
+            "smplx>=0.1.0",
+        ],
     },
     entry_points={
         "console_scripts": [

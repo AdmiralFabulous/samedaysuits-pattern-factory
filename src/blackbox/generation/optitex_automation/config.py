@@ -72,6 +72,11 @@ class OptitexConfig:
         default_factory=lambda: int(os.getenv("OPTITEX_MAX_RETRIES", "3"))
     )
 
+    # Default units for measurements (CM or INCH)
+    default_unit: str = field(
+        default_factory=lambda: os.getenv("OPTITEX_DEFAULT_UNIT", "CM")
+    )
+
     def __post_init__(self):
         """Validate and log configuration."""
         if self.enabled:
@@ -147,7 +152,15 @@ def reset_config() -> None:
 
 
 # Legacy alias for backwards compatibility with existing code
-config = property(lambda self: get_optitex_config())
+# Note: This creates a module-level config instance that can be imported
+class _ConfigProxy:
+    """Proxy class to allow lazy loading of config."""
+
+    def __getattr__(self, name):
+        return getattr(get_optitex_config(), name)
+
+
+config = _ConfigProxy()
 
 
 # For direct module attribute access (backwards compatibility)
