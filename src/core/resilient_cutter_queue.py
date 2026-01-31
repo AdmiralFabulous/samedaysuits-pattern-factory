@@ -1117,9 +1117,14 @@ class ResilientCutterQueue:
                 if j.status in [JobStatus.PENDING, JobStatus.QUEUED]
             )
 
+            cutting_count = sum(
+                1 for j in self.active_jobs.values() if j.status == JobStatus.CUTTING
+            )
+
             return {
                 "queue_depth": len(self.queue),
                 "active_jobs": len(self.active_jobs),
+                "cutting_count": cutting_count,
                 "status_breakdown": status_counts,
                 "total_fabric_cm": total_fabric,
                 "estimated_time_min": total_fabric / self.cutting_speed
@@ -1143,6 +1148,99 @@ class ResilientCutterQueue:
                 return self.active_jobs[job_id]
 
         return self.archive.get_job(job_id)
+
+    def get_recent_jobs(self, limit: int = 20) -> List[CutterJob]:
+        """
+        Get recently completed/failed jobs from archive.
+
+        Returns jobs sorted by completion time (most recent first).
+        """
+        return self.archive.search_jobs(limit=limit)
+
+    def cancel_job(self, job_id: str) -> bool:
+        """
+        Cancel a queued job (cannot cancel if already cutting).
+
+        Returns True if cancelled successfully.
+        """
+        with self._lock:
+            if job_id not in self.active_jobs:
+                logger.warning(f"Cannot cancel: job {job_id} not found")
+                return False
+
+            job = self.active_jobs[job_id]
+
+            if job.status == JobStatus.CUTTING:
+                logger.warning(f"Cannot cancel: job {job_id} is already cutting")
+                return False
+
+            if job.status not in [JobStatus.PENDING, JobStatus.QUEUED]:
+                logger.warning(f"Cannot cancel: job {job_id} has status {job.status}")
+                return False
+
+            # Remove from queue
+            if job_id in self.queue:
+                self.queue.remove(job_id)
+
+            # Mark as cancelled
+            job.status = JobStatus.CANCELLED
+            self.wal.append(WALAction.JOB_CANCELLED, job_id, {})
+
+            # Archive the cancelled job
+            self.archive.archive_job(job)
+
+            # Remove from active
+            del self.active_jobs[job_id]
+
+            logger.info(f"Job {job_id} cancelled")
+            return True
+
+    def retry_job(self, job_id: str) -> Optional[CutterJob]:
+        """
+        Retry a failed job by re-queuing it.
+
+        Returns the job if retry was successful.
+        """
+        with self._lock:
+            # Check active jobs first
+            if job_id in self.active_jobs:
+                job = self.active_jobs[job_id]
+                if job.status != JobStatus.ERROR:
+                    logger.warning(f"Cannot retry: job {job_id} is not failed")
+                    return None
+            else:
+                # Get from archive
+                job = self.archive.get_job(job_id)
+                if not job:
+                    logger.warning(f"Cannot retry: job {job_id} not found")
+                    return None
+                if job.status != JobStatus.ERROR:
+                    logger.warning(f"Cannot retry: job {job_id} is not failed")
+                    return None
+
+                # Re-add to active jobs
+                self.active_jobs[job_id] = job
+
+            # Check retry limit
+            if job.retry_count >= job.max_retries:
+                logger.warning(f"Cannot retry: job {job_id} has exceeded max retries")
+                return None
+
+            # Reset status and re-queue
+            job.status = JobStatus.QUEUED
+            job.retry_count += 1
+            job.error_message = None
+            job.queued_at = datetime.now().isoformat()
+
+            self.wal.append(
+                WALAction.JOB_QUEUED,
+                job_id,
+                {"queued_at": job.queued_at, "retry": True},
+            )
+            self._insert_into_queue(job_id)
+
+            logger.info(f"Job {job_id} re-queued (retry {job.retry_count})")
+            return job
 
     def checkpoint(self):
         """
