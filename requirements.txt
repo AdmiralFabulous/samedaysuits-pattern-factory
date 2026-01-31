@@ -3,6 +3,14 @@ fastapi>=0.104.0
 uvicorn>=0.24.0
 pydantic>=2.0.0
 
+# Security
+PyJWT>=2.8.0
+cryptography>=41.0.0
+passlib[bcrypt]>=1.7.4
+
+# Scalability
+redis>=5.0.0
+
 # Geometric operations
 shapely>=2.0.0
 numpy>=1.24.0
@@ -35,3 +43,9 @@ mypy>=1.5.0
 scipy>=1.11.0
 matplotlib>=3.7.0
 pillow>=10.0.0
+
+# Phase 3: Resilience & Observability
+prometheus-client>=0.20.0  # Metrics export
+pybreaker>=1.0.0           # Circuit breaker pattern
+structlog>=24.1.0          # Structured logging
+croniter>=2.0.0            # Cron scheduling for backups

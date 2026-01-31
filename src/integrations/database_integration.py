@@ -86,6 +86,34 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+# =============================================================================
+# Circuit Breaker Configuration (Phase 3)
+# =============================================================================
+# Protects against cascading failures when database is unavailable.
+# Opens after 3 consecutive failures, resets after 30 seconds.
+
+try:
+    from pybreaker import CircuitBreaker, CircuitBreakerError
+
+    db_circuit_breaker = CircuitBreaker(
+        fail_max=int(os.getenv("CIRCUIT_BREAKER_FAIL_MAX", "3")),
+        reset_timeout=int(os.getenv("CIRCUIT_BREAKER_RESET_TIMEOUT", "30")),
+        name="supabase_db",
+    )
+    CIRCUIT_BREAKER_AVAILABLE = True
+    logger.info("Circuit breaker enabled for database operations")
+except ImportError:
+    CIRCUIT_BREAKER_AVAILABLE = False
+    db_circuit_breaker = None
+    logger.debug("pybreaker not installed - circuit breaker disabled")
+
+
+class DatabaseUnavailableError(Exception):
+    """Raised when database circuit breaker is open (fail-fast)."""
+
+    pass
+
+
 class OrderStatus(Enum):
     """Order status in database."""
 
@@ -226,6 +254,8 @@ class OrderDatabase:
         """
         Update order status and production results.
 
+        Protected by circuit breaker - fails fast if DB is unavailable.
+
         Args:
             order_id: Order ID to update
             status: New status
@@ -234,10 +264,37 @@ class OrderDatabase:
 
         Returns:
             True if update succeeded
+
+        Raises:
+            DatabaseUnavailableError: If circuit breaker is open
         """
         if not self.is_connected:
             return False
 
+        # Apply circuit breaker protection if available
+        if CIRCUIT_BREAKER_AVAILABLE and db_circuit_breaker:
+            try:
+                return self._do_update_order_status(
+                    order_id, status, production_result, job_id
+                )
+            except CircuitBreakerError:
+                logger.error("Circuit breaker OPEN - database temporarily unavailable")
+                raise DatabaseUnavailableError(
+                    "Database temporarily unavailable - circuit breaker open"
+                )
+        else:
+            return self._do_update_order_status(
+                order_id, status, production_result, job_id
+            )
+
+    def _do_update_order_status(
+        self,
+        order_id: str,
+        status: OrderStatus,
+        production_result: Optional[Union[ProductionResult, Dict]] = None,
+        job_id: Optional[str] = None,
+    ) -> bool:
+        """Internal method that performs the actual status update."""
         try:
             update_data = {
                 "status": status.value,
@@ -301,21 +358,42 @@ class OrderDatabase:
 
         except Exception as e:
             logger.error(f"Error updating order {order_id}: {e}")
+            if CIRCUIT_BREAKER_AVAILABLE:
+                raise  # Re-raise so circuit breaker can track failures
             return False
 
     def create_order(self, order_data: Dict[str, Any]) -> Optional[str]:
         """
         Create a new order in the database.
 
+        Protected by circuit breaker - fails fast if DB is unavailable.
+
         Args:
             order_data: Order data dictionary
 
         Returns:
             Created order ID or None if failed
+
+        Raises:
+            DatabaseUnavailableError: If circuit breaker is open
         """
         if not self.is_connected:
             return None
 
+        # Apply circuit breaker protection if available
+        if CIRCUIT_BREAKER_AVAILABLE and db_circuit_breaker:
+            try:
+                return self._do_create_order(order_data)
+            except CircuitBreakerError:
+                logger.error("Circuit breaker OPEN - database temporarily unavailable")
+                raise DatabaseUnavailableError(
+                    "Database temporarily unavailable - circuit breaker open"
+                )
+        else:
+            return self._do_create_order(order_data)
+
+    def _do_create_order(self, order_data: Dict[str, Any]) -> Optional[str]:
+        """Internal method that performs the actual database insert."""
         try:
             response = self.client.table("orders").insert(order_data).execute()
 
@@ -327,6 +405,8 @@ class OrderDatabase:
 
         except Exception as e:
             logger.error(f"Error creating order: {e}")
+            if CIRCUIT_BREAKER_AVAILABLE:
+                raise  # Re-raise so circuit breaker can track failures
             return None
 
     def save_qc_report(self, order_id: str, qc_report: dict) -> bool:

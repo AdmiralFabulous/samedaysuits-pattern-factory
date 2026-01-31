@@ -517,15 +517,17 @@ class V643Adapter:
         }
 
         record = self.db.create_order(
-            order_id=order_data.get("order_id"),
-            customer_id=order_data.get("customer_id", "UNKNOWN"),
-            garment_type=order_data.get("garment_type", "jacket"),
-            measurements=db_measurements,
-            customer_email=order_data.get("customer_email"),
-            fit_type=order_data.get("fit_type", "regular"),
-            priority=order_data.get("priority", "normal"),
-            quantity=order_data.get("quantity", 1),
-            notes=order_data.get("notes", ""),
+            {
+                "order_id": order_data.get("order_id"),
+                "customer_id": order_data.get("customer_id", "UNKNOWN"),
+                "garment_type": order_data.get("garment_type", "jacket"),
+                "measurements": db_measurements,
+                "customer_email": order_data.get("customer_email"),
+                "fit_type": order_data.get("fit_type", "regular"),
+                "priority": order_data.get("priority", "normal"),
+                "quantity": order_data.get("quantity", 1),
+                "notes": order_data.get("notes", ""),
+            }
         )
 
         return record
@@ -616,12 +618,16 @@ class V643Adapter:
 
             for i in range(min(production_result.piece_count, len(piece_names))):
                 piece = PieceInfo(
-                    piece_id=f"{order_id}-P{i + 1:02d}",
-                    piece_name=piece_names[i],
-                    width=50.0,  # Placeholder
-                    height=60.0,  # Placeholder
-                    points=[],  # Would be extracted from actual geometry
-                    category="main" if i < 4 else "trim",
+                    name=piece_names[i],
+                    contour=[],  # Would be extracted from actual geometry
+                    bounding_box=(
+                        0.0,
+                        0.0,
+                        50.0,
+                        60.0,
+                    ),  # Placeholder (min_x, min_y, max_x, max_y)
+                    piece_number=i + 1,
+                    total_pieces=production_result.piece_count,
                 )
                 pieces.append(piece)
 
