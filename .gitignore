@@ -1,0 +1,13 @@
+.git
+*.pyc
+__pycache__/
+*.log
+*.tmp
+test_output/
+master_test_output/
+nul
+UI-TARS-desktop/
+computer_use_agent_v2/
+DS-speciale/computer_use_agent/
+*.md.backup
+
